@@ -29,8 +29,89 @@
   </div>
 </div>
 
-<a href='/signup'>Sign Up</a> | <a href='/login'>Login</a>
+<!-- Trigger/Open The Modal -->
+<button id="myBtn">Sign Up</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="screen2 modal-content">
+    <span class="close">&times;</span>
+    <h2>About You:</h2>
+    <h4>First Name (Required): <input type='text' id='name' required></h4>
+    <h4>Last Name (Required): <input type='text' id='name' required></h4>
+    <h4>Email Address (Required): <input type='text' id='name' required></h4>
+    
+    <h2>Survey Questions</h2>
+        <p></p>
+        <div>
+            <p>Question 1</p>
+            <select id='q1' required>
+                <option>1 (Strongly Disagree)</option>
+                <option>2</option>
+                <option value='3'>3</option>
+                <option value='4'>4</option>
+                <option value='5'>5 (Strongly Agree)</option>
+            </select>
+        </div>
+        <div>
+            <p>Question 2</p>
+            <select id='q2' required>
+                <option value='1'>1 (Strongly Disagree)</option>
+                <option value='2'>2</option>
+                <option value='3'>3</option>
+                <option value='4'>4</option>
+                <option value='5'>5 (Strongly Agree)</option>
+            </select>
+        </div>
+        <div>
+            <p>Question 3</p>
+            <select id='q3' required>
+                <option value='1'>1 (Strongly Disagree)</option>
+                <option value='2'>2</option>
+                <option value='3'>3</option>
+                <option value='4'>4</option>
+                <option value='5'>5 (Strongly Agree)</option>
+            </select>
+        </div>
+        <div>
+            <p>Question 4</p>
+            <select id='q4' required>
+                <option value='1'>1 (Strongly Disagree)</option>
+                <option value='2'>2</option>
+                <option value='3'>3</option>
+                <option value='4'>4</option>
+                <option value='5'>5 (Strongly Agree)</option>
+            </select>
+        </div>
+        <div>
+            <p>Question 5</p>
+            <select id='q5' required>
+                <option value='1'>1 (Strongly Disagree)</option>
+                <option value='2'>2</option>
+                <option value='3'>3</option>
+                <option value='4'>4</option>
+                <option value='5'>5 (Strongly Agree)</option>
+            </select>
+        </div>
+        <div>
+            <p>Question 6</p>
+            <select id='q6' required>
+                <option value='1'>1 (Strongly Disagree)</option>
+                <option value='2'>2</option>
+                <option value='3'>3</option>
+                <option value='4'>4</option>
+                <option value='5'>5 (Strongly Agree)</option>
+            </select>
+        </div>
+
+        <button type='submit' id='submit'>Sign Up</button>
+  </div>
+
+</div>
 
 <script src="https://code.jquery.com/jquery-3.4.1.js"
       integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
 <script src="/js/index.js"></script>
+<script src='/js/signup-modal.js'></script>

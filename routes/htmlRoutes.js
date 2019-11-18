@@ -17,7 +17,7 @@ module.exports = function(app) {
   });
 
   // Load login page
-  app.get("/login", function(req, res){
+  app.get("/login", function(req, res) {
     res.render("login");
   });
 
