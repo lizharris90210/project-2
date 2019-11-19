@@ -63,3 +63,4 @@ CREATE TABLE backstage
     genre VARCHAR(300) NOT NULL, 
     PRIMARY KEY (id)
 );
+
