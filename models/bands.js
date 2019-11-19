@@ -1,5 +1,5 @@
 module.exports = function(sequelize, DataTypes) {
-  const Venues = sequelize.define("venues", {
+  const Bands = sequelize.define("bands", {
     id: {
       type: DataTypes.INTEGER,
       autoIncrement: true,
@@ -9,7 +9,7 @@ module.exports = function(sequelize, DataTypes) {
         len: [1]
       }
     },
-    venue_name: {
+    band_name: {
       type: DataTypes.STRING,
       allowNull: true
     },
