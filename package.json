@@ -4,7 +4,7 @@
   "description": "Project 2 Starter",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node_modules/nodemon/bin/nodemon.js server",
     "lint": "eslint --quiet .",
     "fix": "eslint --fix .",
     "test": "npm run lint && cross-env NODE_ENV=test mocha -u bdd --reporter spec --exit"
@@ -17,6 +17,7 @@
     "express-handlebars": "^3.1.0",
     "mysql": "^2.17.1",
     "mysql2": "^1.6.5",
+    "fs": "0.0.1-security",
     "nodemon": "^1.19.4",
     "path": "^0.12.7",
     "sequelize": "^5.21.2",
@@ -26,10 +27,15 @@
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
     "cross-env": "^5.2.0",
-    "eslint": "^5.16.0",
+    "eslint": "^6.6.0",
     "eslint-config-prettier": "^4.3.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-prettier": "^3.1.0",
-    "mocha": "^6.1.4",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "mocha": "^6.2.2",
     "prettier": "^1.17.1"
   },
   "directories": {
