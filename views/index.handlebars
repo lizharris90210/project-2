@@ -1,115 +1,98 @@
-<div id="home">
-  <div class="container">
-    <div class="row">
-      <div class="col-8 offset-2">
-        <h1>{{msg}}</h1>
-        <h2>This is our Home Page!</h2>
-        <form class="clearfix mb-4" action="POST">
-          <div class="form-group">
-            <label for="example-text">Example Text</label>
-            <input type="text" id="example-text" class="form-control" aria-describedby="example-text" placeholder="Enter Example Text">
-          </div>
-          <div class="form-group">
-            <label for="example-description">Example Description</label>
-            <textarea class="form-control" id="example-description" aria-describedby="example-description" placeholder="Enter Example Description"></textarea>
-          </div>
-          <button id="submit" class="btn btn-primary float-right">Submit</button>
-        </form>
-        <h3>Examples:</h3>
-        <ul id="example-list" class="list-group">
-          {{#each examples}}
-          <li data-id="{{this.id}}" class="list-group-item">
-            <a href="example/{{this.id}}">{{this.text}}</a>
-            <button class="btn btn-danger float-right delete">ｘ</button>
-          </li>
-          {{/each}}
-        </ul>
-      </div>
+<nav>
+    <div class="nav-wrapper black">
+      <a href="#" class="brand-logo">CUE</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="#">Our Mission</a></li>
+        <li><a href="#">Login</a></li>
+        <li><a href="#">Sign Up</a></li>
+      </ul>
     </div>
-  </div>
+  </nav>
+
+<div class="parallax-container">
+        <div class="container">
+            <div class="row">
+                <div class="col l8 s12 white-text">
+                    <h4 class="thin-text valign">text</I></h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col 14">
+                    <a class="waves-effect btn-large hoverable black">text</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="parallax"><img src="/images/img038 copy.jpg" alt="Picture of band"></div>
+      </div>
+
+
+<div class="container">
+    <div class="row">
+        <h2>text</h2>
+    </div>
+    <div class="row">
+        <div class="col s4">
+            <div class="card medium grey lighten-2 z-depth-2">
+                <div class="card-content white-text">
+                    <h3 class="center-align"><i class="material-icons">account_circle</i></h3>
+                    <div class="divider"></div>
+                    <span class="card-title">text</span>
+                    <p>text</p>
+                </div>
+                    <div class="card-action">
+                        <a href="#">text</a>
+                    </div>
+                
+            </div>
+        </div>
+
+        <div class="col s4">
+            <div class="card medium grey lighten-2 z-depth-2">
+                <div class="card-content white-text">
+                    <h3 class="center-align"><i class="material-icons">account_circle</i></h3>
+                    <div class="divider"></div>
+                    <span class="card-title">text</span>
+                    <p>text</p>
+                </div>
+                    <div class="card-action">
+                        <a href="#">text</a>
+                    </div>
+                
+            </div>
+        </div>
+
+        <div class="col s4">
+                <div class="card medium grey lighten-2 z-depth-2">
+                    <div class="card-content white-text">
+                        <h3 class="center-align"><i class="material-icons">account_circle</i></h3>
+                        <div class="divider"></div>
+                        <span class="card-title">text</span>
+                        <p>text</p>
+                    </div>
+                        <div class="card-action">
+                            <a href="#">text</a>
+                        </div>
+                    
+                </div>
+            </div>
+    </div>
 </div>
 
-<!-- Trigger/Open The Modal -->
-<button id="myBtn">Sign Up</button>
+<div class="parallax-container valign-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="column l10 offset-l1 valign">
+                <h2 class="center-align white-text cta">text</h2>
+                <a href="#" class="center btn-large hoverable black">text</a>
+            </div>
+        </div>
+    </div>
+        <div class="parallax"><img src="/images/band.jpg"></div>
+      </div>
 
-<!-- The Modal -->
-<div id="myModal" class="modal">
+      <script src="/js/cue.js"></script>
 
-  <!-- Modal content -->
-  <div class="screen2 modal-content">
-    <span class="close">&times;</span>
-    <h2>About You:</h2>
-    <h4>First Name (Required): <input type='text' id='name' required></h4>
-    <h4>Last Name (Required): <input type='text' id='name' required></h4>
-    <h4>Email Address (Required): <input type='text' id='name' required></h4>
-    
-    <h2>Survey Questions</h2>
-        <p></p>
-        <div>
-            <p>Question 1</p>
-            <select id='q1' required>
-                <option>1 (Strongly Disagree)</option>
-                <option>2</option>
-                <option value='3'>3</option>
-                <option value='4'>4</option>
-                <option value='5'>5 (Strongly Agree)</option>
-            </select>
-        </div>
-        <div>
-            <p>Question 2</p>
-            <select id='q2' required>
-                <option value='1'>1 (Strongly Disagree)</option>
-                <option value='2'>2</option>
-                <option value='3'>3</option>
-                <option value='4'>4</option>
-                <option value='5'>5 (Strongly Agree)</option>
-            </select>
-        </div>
-        <div>
-            <p>Question 3</p>
-            <select id='q3' required>
-                <option value='1'>1 (Strongly Disagree)</option>
-                <option value='2'>2</option>
-                <option value='3'>3</option>
-                <option value='4'>4</option>
-                <option value='5'>5 (Strongly Agree)</option>
-            </select>
-        </div>
-        <div>
-            <p>Question 4</p>
-            <select id='q4' required>
-                <option value='1'>1 (Strongly Disagree)</option>
-                <option value='2'>2</option>
-                <option value='3'>3</option>
-                <option value='4'>4</option>
-                <option value='5'>5 (Strongly Agree)</option>
-            </select>
-        </div>
-        <div>
-            <p>Question 5</p>
-            <select id='q5' required>
-                <option value='1'>1 (Strongly Disagree)</option>
-                <option value='2'>2</option>
-                <option value='3'>3</option>
-                <option value='4'>4</option>
-                <option value='5'>5 (Strongly Agree)</option>
-            </select>
-        </div>
-        <div>
-            <p>Question 6</p>
-            <select id='q6' required>
-                <option value='1'>1 (Strongly Disagree)</option>
-                <option value='2'>2</option>
-                <option value='3'>3</option>
-                <option value='4'>4</option>
-                <option value='5'>5 (Strongly Agree)</option>
-            </select>
-        </div>
-
-        <button type='submit' id='submit'>Sign Up</button>
-  </div>
-
-</div>
 
 <script src="https://code.jquery.com/jquery-3.4.1.js"
       integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
