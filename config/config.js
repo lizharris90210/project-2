@@ -6,7 +6,6 @@ module.exports = {
     database: process.env.DB_NAME,
     host: "127.0.0.1",
     dialect: "mysql",
-    operatorsAliases: false
   },
   test: {
     username: process.env.DB_USER,
@@ -14,7 +13,6 @@ module.exports = {
     database: process.env.DB_NAME1,
     host: "127.0.0.1",
     dialect: "mysql",
-    operatorsAliases: false
   },
   production: {
     // eslint-disable-next-line camelcase
