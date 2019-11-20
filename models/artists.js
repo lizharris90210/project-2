@@ -1,5 +1,5 @@
-module.exports = function(sequelize, DataTypes) {
-  const Venues = sequelize.define("Venues", {
+module.exports = function (sequelize, DataTypes) {
+  const Artists = sequelize.define("Artist", {
     id: {
       type: DataTypes.INTEGER,
       autoIncrement: true,
@@ -9,7 +9,7 @@ module.exports = function(sequelize, DataTypes) {
         len: [1]
       }
     },
-    venue_name: {
+    artist_name: {
       type: DataTypes.STRING,
       allowNull: true
     },
@@ -37,14 +37,23 @@ module.exports = function(sequelize, DataTypes) {
       type: DataTypes.STRING,
       allowNull: false
     },
+    current_band: {
+      type: DataTypes.STRING,
+      allowNull: false
+    },
+    instruments: {
+      type: DataTypes.STRING,
+      allowNull: false
+    },
+    past_bands: {
+      type: DataTypes.STRING,
+      allowNull: false
+    },
     genres: {
       type: DataTypes.STRING,
       allowNull: false
     }
-  },
-  {
-    freezeTableName: true
-  }
-  );
-    return Venues;
-  };
+  });
+
+  return Artists;
+};

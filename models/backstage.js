@@ -1,17 +1,15 @@
-module.exports = function(sequelize, DataTypes) {
-  var Bands = sequelize.define(
-    "Bands",
-    {
-      id: {
-        type: DataTypes.INTEGER,
-        autoIncrement: true,
-        allowNull: false,
-        primaryKey: true,
-        validate: {
-          len: [1]
-        }
-      },
-      band_name: {
+module.exports = function (sequelize, DataTypes) {
+  const Backstage = sequelize.define("Backstage", {
+  id: {
+      type: DataTypes.INTEGER,
+      autoIncrement: true,
+      allowNull: false,
+      primaryKey: true,
+      validate: {
+        len: [1]
+      }
+    },
+      backstage_name: {
         type: DataTypes.STRING,
         allowNull: true
       },
@@ -39,14 +37,18 @@ module.exports = function(sequelize, DataTypes) {
         type: DataTypes.STRING,
         allowNull: false
       },
+      equipment: {
+        type: DataTypes.STRING,
+        allowNull: false
+      },
+      experience: {
+        type: DataTypes.STRING,
+        allowNull: false
+      },
       genres: {
         type: DataTypes.STRING,
         allowNull: false
       }
-    },
-    {
-      freezeTableName: true
-    }
-  );
-  return Bands;
+  });
+  return Backstage;
 };
