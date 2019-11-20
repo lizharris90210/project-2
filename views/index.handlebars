@@ -4,7 +4,7 @@
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="#">Our Mission</a></li>
         <li><a href="#">Login</a></li>
-        <li><a href="#">Sign Up</a></li>
+        <li><button id="sign-up-button">Sign Up</button></li><!--Changed to a button while I fiddled with modals-->
       </ul>
     </div>
   </nav>
@@ -92,6 +92,25 @@
       </div>
 
       <script src="/js/cue.js"></script>
+
+<!--Some positioning and spacing issues need to be addressed-->
+<!--Sign Up Modal Stuff-->
+<div id="sign-up-modal" class="modal">
+    <form class="modal-content">
+        <h1>Sign Up</h1>
+        <p>Please fill in this form to create an account.</p>
+        <label for="email"><b>Email</b></label>
+        <input type="text" placeholder="Enter Email" name="email" required>
+
+        <label for="psw"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="psw" required>
+
+        <div>
+            <button type="button" id="cancelbtn">Cancel</button>
+            <button type="submit" id="signupbtn">Sign Up</button>
+        </div>
+    </form>
+</div>
 
 
 <script src="https://code.jquery.com/jquery-3.4.1.js"
