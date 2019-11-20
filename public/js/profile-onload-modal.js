@@ -1,11 +1,10 @@
 // VALIDATION
-console.log("signup-modal.js loaded");
+console.log("profile-onload-modal.js loaded");
 
 // ----------------------
 //  VARIABLE DECLARATION
 // ----------------------
-var modal = document.getElementById("sign-up-modal"); // Get the modal
-var btn = document.getElementById("sign-up-button"); // Get the button that opens the modal
+var modal = document.getElementById("preliminary-modal"); // Get the modal
 var cancelBtn = document.getElementById("cancelbtn"); // Get the cancel button that appear within the modal
 var mSubmit = document.getElementById("signupbtn"); // Get the submit button that appears within the modal
 
@@ -21,15 +20,15 @@ var openModal = function(){
 };
 
 var modalSubmit = function(){
-  // Needs something here to get and save the email and password information into the database
-  location.replace("/profile");
+  console.log("Executing modalSubmit()");
+  //send users to profile.handlebars
 };
 
 // ---------
 //  ACTIONS
 // ---------
-// When the user clicks the button, open the modal
-btn.onclick = openModal;
+// When the page loads, open the modal
+openModal();
 
 // When the user clicks on the cancel button, close the modal
 cancelBtn.onclick = closeModal;
