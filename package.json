@@ -15,9 +15,9 @@
     "dotenv-cli": "^3.0.0",
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
-    "mysql": "^2.17.1",
-    "mysql2": "^1.6.5",
     "fs": "0.0.1-security",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.7.0",
     "nodemon": "^1.19.4",
     "path": "^0.12.7",
     "sequelize": "^5.21.2",
@@ -45,7 +45,7 @@
     "type": "git",
     "url": "git+https://github.com/lizharris90210/project-2.git"
   },
-  "author": "",
+  "author": "Armon Roberts, Elizabeth Harris, Hilary Lamb, Jackson Pierce",
   "bugs": {
     "url": "https://github.com/lizharris90210/project-2/issues"
   },

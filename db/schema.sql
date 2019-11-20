@@ -1,5 +1,4 @@
-DROP DATABASE IF EXISTS cue_db;
-CREATE DATABASE cue_db;
+
 
 USE cue_db;
 
