@@ -1,18 +1,17 @@
 .list-group-item {
-  line-height: 2.5;
-}
-
-.logo {
-  font-weight: 300;
-  padding-left: 10px;
-}
-
-.parallax img {
-  width: 100%;
-}
-
-.parallax-container {
-  height: "500px";
-}
-
-
+    line-height: 2.5;
+  }
+  
+  .logo {
+    font-weight: 300;
+    padding-left: 10px;
+  }
+  
+  .parallax img {
+    width: 100%;
+  }
+  
+  .parallax-container {
+    height: "500px";
+  }
+  

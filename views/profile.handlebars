@@ -1,0 +1,32 @@
+{{!-- UX:  The user will be directed here after they click "Sign Up" in the modal from the index page --}}
+
+{{!-- A modal needs to launch here on page load that asks the rest of the questions --}}
+
+{{!-- Preliminary Modal --}}
+<div id="preliminary-modal" class="modal">
+    <form class="modal-content">
+        <h1>Hold up...</h1>
+        <p>Before you get started, we just have a few more questions to ask</p>
+        
+
+
+        <label for="firstname"><b>First Name</b></label>
+        <input type="text" placeholder="First Name" name="firstname" required>
+
+        <label for="lastname"><b>Last Name</b><i>(optional)</i></label>
+        <input type="text" placeholder="Last Name" name="lastname" required>
+
+        <div>
+            <button type="button" id="cancelbtn">Cancel</button>
+            <!--Button doesn't work yet-->
+            <button type="submit" id="signupbtn">Done</button>
+        </div>
+    </form>
+</div>
+
+<p>No profile page yet.  This page exists solely to test the next phase of the sign up modal</p>
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.js"
+      integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+<script src="/js/profile-onload-modal.js"></script>

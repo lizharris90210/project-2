@@ -2,7 +2,7 @@
 //     $('.parallax').parallax();
 //   });
 
-  $('.parallax').each(function(){
+  $(".parallax").each(function(){
     $(this).parallax(); 
  });
 
