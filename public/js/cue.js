@@ -2,10 +2,9 @@
 //     $('.parallax').parallax();
 //   });
 
-$(".parallax").each(function() {
-  $(this).parallax();
-});
-
+  $(".parallax").each(function(){
+    $(this).parallax(); 
+ });
 
 //   document.addEventListener('DOMContentLoaded', function() {
 //     var elems = document.querySelectorAll('.parallax');
