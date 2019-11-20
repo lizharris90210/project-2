@@ -1,42 +1,45 @@
-https://project-2-uncbootcamp.herokuapp.com/
-deployed
+# Cue
 
+## A social media app for musicians and music professionals
 
-# Project Starter
+### Installation
 
-In this activity we will add the provided boilerplate to group project repos.
+### Usage
 
-## Instructions
+Login to the cue app homepage and fill out the survey. You will be directed to a Hogwarts house based on your interests and skills. For example, if I answer that I play guitar in a band, you with be filtered onto a band page as well as an artists page. Your information is then placed onto each page with your specifics, making your information searchable for other musicians and music professionals.
 
-* Only one member of each group should complete this activity while the others watch.
+Spice this up with code blocks and potentially more screenshots.
 
-* Copy the entire [Unsolved](Unsolved) folder to another location on your computers &mdash; wherever you would like your local copy of the group project to be.
+### Development setup
 
-* Rename the copied "Unsolved" folder to the name of your project.
+Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
-* Open the copied project folder's `package.json` file and change its `name` property to the name of your project.
+make install
+npm test
+Release History
+0.2.1
+CHANGE: Update docs (module code remains unchanged)
+0.2.0
+CHANGE: Remove setDefaultXYZ()
+ADD: Add init()
+0.1.1
+FIX: Crash when calling baz() (Thanks @GenerousContributorName!)
+0.1.0
+The first proper release
+CHANGE: Rename foo() to bar()
+0.0.1
+Work in progress
+Meta
+Your Name – @YourTwitter – YourEmail@example.com
 
-* CD to the root of the copied project folder with your terminal and run the following commands:
+Distributed under the XYZ license. See LICENSE for more information.
 
-  ```
-  git init
-  git add .
-  git commit -m "Initial commit"
-  ```
+https://github.com/yourname/github-link
 
-* Then copy the GitHub repo's remote SSH URL (the same URL you'd use to clone the repo).
+### Contributing
 
-* Run the following commands in your terminal, replacing <remote-url> with your GitHub repo's remote SSH URL.
-
-  ```
-  git remote add origin <remote-url>
-  git push origin master
-  ```
-
-* If completed successfully you should see all of the files uploaded to GitHub.
-
-* All other group members should now clone the repo.
-
-* Discuss as a group:
-
-  * How would you now add changes to this project?
+Fork it (https://github.com/lizharris90210/project-2/fork)
+Create your feature branch (git checkout -b feature/fooBar)
+Commit your changes (git commit -am 'Add some fooBar')
+Push to the branch (git push origin feature/fooBar)
+Create a new Pull Request
