@@ -1,5 +1,5 @@
 module.exports = function (sequelize, DataTypes) {
-  const Backstage = sequelize.define("Backstage", {
+  const Backstage = sequelize.define("backstages", {
   id: {
       type: DataTypes.INTEGER,
       autoIncrement: true,

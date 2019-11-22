@@ -4,7 +4,7 @@
   "description": "Project 2 Starter",
   "main": "server.js",
   "scripts": {
-    "start": "node_modules/nodemon/bin/nodemon.js server",
+    "start": "",
     "lint": "eslint --quiet .",
     "fix": "eslint --fix .",
     "test": "npm run lint && cross-env NODE_ENV=test mocha -u bdd --reporter spec --exit"
@@ -47,7 +47,7 @@
     "type": "git",
     "url": "git+https://github.com/lizharris90210/project-2.git"
   },
-  "author": "",
+  "author": "Armon Roberts, Elizabeth Harris, Hilary Lamb, Jackson Pierce",
   "bugs": {
     "url": "https://github.com/lizharris90210/project-2/issues"
   },

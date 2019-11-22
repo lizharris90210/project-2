@@ -1,3 +1,24 @@
+/* ========================================================================== */
+/* Hidden Scroll Bar */
+/* ========================================================================== */
+html {
+  /* height: 100%; */
+  overflow: scroll;
+  overflow-x: hidden;
+}
+body {
+  
+}
+.nav-wrapper {
+  padding: 0px 10px;
+}
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #ff0000;
+}
 .list-group-item {
     line-height: 2.5;
   }
