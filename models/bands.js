@@ -1,6 +1,6 @@
 module.exports = function(sequelize, DataTypes) {
   var Bands = sequelize.define(
-    "Bands",
+    "bands",
     {
       id: {
         type: DataTypes.INTEGER,
@@ -36,6 +36,14 @@ module.exports = function(sequelize, DataTypes) {
         allowNull: false
       },
       contact_twitter: {
+        type: DataTypes.STRING,
+        allowNull: false
+      },
+      pastband_names: {
+        type: DataTypes.STRING,
+        allowNull: false
+      },
+      artist_names: {
         type: DataTypes.STRING,
         allowNull: false
       },

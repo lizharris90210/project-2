@@ -1,5 +1,5 @@
 module.exports = function(sequelize, DataTypes) {
-const Venues = sequelize.define("Venues", {
+const Venues = sequelize.define("venues", {
   id: {
     type: DataTypes.INTEGER,
     autoIncrement: true,
