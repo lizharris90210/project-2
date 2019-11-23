@@ -2,7 +2,7 @@
 /*
 ===========
 MODAL STUFF
-==========
+===========
 */
 
 /* The Modal (background) */
@@ -17,6 +17,7 @@ MODAL STUFF
     overflow: auto; /* Enable scroll if needed */
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    max-height: 100%;
   }
   
   /* Modal Content/Box */
