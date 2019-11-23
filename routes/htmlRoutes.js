@@ -5,6 +5,12 @@ module.exports = function (app) {
   app.get("/", function (req, res) {
     res.render("index");
   });
+  app.get("/homepage", function (req, res) {
+    res.render("homepage");
+  });
+  app.get("/", function (req, res) {
+    res.render("index");
+  });
 
   // Load the profile page
   app.get("/profile", function(req, res){
