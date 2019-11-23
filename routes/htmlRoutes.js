@@ -1,5 +1,5 @@
 const db = require("../models");
-var webSearch =  require("../api/videos.js");
+var DP = require("../api/data.js");
 require("dotenv");
 
 
@@ -8,6 +8,8 @@ module.exports = function (app) {
   app.get("/", function (req, res) {
     res.render("index");
   });
+
+
   app.get("/homepage", function (req, res) {
     db.artist.findOne({
       where: {
@@ -15,30 +17,11 @@ module.exports = function (app) {
       }
     }).then((data) => {
       
-      function datapoint ({artist_name, artist_pic, location_city, location_state, contact_email, contact_instagram, contact_twitter, current_band, instruments, past_bands, genres}) {
-        var location = `${location_city}, ${location_state}`;
-        const artist = {
-          name: artist_name,
-          pic: artist_pic,
-          location: location,
-          email: contact_email,
-          twitter: contact_twitter,
-          instagram: contact_instagram,
-          band: current_band,
-          instruments: instruments.split(","),
-          past_bands: past_bands.split(","),
-          genres: genres.split(",")
-        };
-
-        webSearch.videoSearch(artist.genres, function (results) {
-          var data = results;
-          console.log(data);
-          res.render("homepage", artist);
-        });
-        }
-
-        datapoint(data);
-
+     DP.artist(data, function (results) {
+      var data = results;
+      console.log(data);
+      res.render("homepage", data);
+    });
 
     });
   });

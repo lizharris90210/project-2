@@ -1,5 +1,11 @@
+var webSearch =  require("./videos.js");
 var DataPoint = {
-  artist: function ({artist_name, artist_pic, location_city, location_state, contact_email, contact_instagram, contact_twitter, current_band, instruments, past_bands, genres}) {
+  callback: function (results, res) {
+    var data = results;
+          console.log("from datajs", data);
+          res.render("homepage", data);
+  },
+  artist: function ({artist_name, artist_pic, location_city, location_state, contact_email, contact_instagram, contact_twitter, current_band, instruments, past_bands, genres}, cb) {
     var location = `${location_city}, ${location_state}`;
     const artistOBJ = {
       name: artist_name,
@@ -13,7 +19,7 @@ var DataPoint = {
       past_bands: past_bands.split(","),
       genres: genres.split(",")
     };
-    return artistOBJ;
+    webSearch.videoSearch(artistOBJ, cb);
   },
   band: function ({band_name, band_pic, location_city, location_state, contact_email, contact_instagram, contact_twitter, pastband_names, artist_names, genres}) {
     var location = `${location_city}, ${location_state}`;
