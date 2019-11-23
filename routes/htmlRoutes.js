@@ -13,7 +13,7 @@ module.exports = function (app) {
   app.get("/homepage", function (req, res) {
     db.artist.findOne({
       where: {
-        id:3
+        id:1
       }
     }).then((data) => {
       
