@@ -1,42 +1,45 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
   <head>
-    <title>Home Page</title>
+    <title>Cue</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8" />
     <!-- Font Awesome CDN -->
     {{!-- <script src="https://kit.fontawesome.com/d7e1e16ae2.js"></script> --}}
     <!-- Google Fonts CDN -->
-    <link
-      href="https://fonts.googleapis.com/css?family=Domine&display=swap&effect=fire-animation|fire|3d|shadow-multiple"
-      rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Domine&display=swap&effect=fire-animation|fire|3d|shadow-multiple" rel="stylesheet">
     <!--Animate.Css-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
     <!-- Jquery CDN -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
-      integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 
     {{!-- Materialize CDN --}}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    
+
+    <!-- Homegrown CSS -->
     <link rel="stylesheet" href="/styles/styles.css" type="text/css">
-    <link rel="stylesheet" href="/styles/modal.css">
+    <link rel="stylesheet" href="/styles/modal.css" type="text/css">
+    <link rel="stylesheet" href="/styles/navbar.css" type="text/css">
 
   </head>
 
   <body>
-
+    
+    {{> navbar }}
     {{{ body }}}
+    {{> modal }}
 
-    {{!-- Need to figure out how to add something here so that I can have the data in modal.handlbars load here.  This will allow a proper separation of concerns.  I.E. any change made by hilary to the layout of the main page will not interfere with the modal code, and vice-versa --}}
 
-    <script src="https://code.jquery.com/jquery-3.4.1.js"
-      integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
-      </script>   
+    <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>   
+    
+    <!-- Homegrown JS -->
+    <script src="/js/index.js"></script>
+    <script src="/js/design/navbar.js"></script>
+<script src="/js/modal/login-modal.js"></script>
+<script src='/js/modal/signup-modal.js'></script>
   </body>
-
 </html>
