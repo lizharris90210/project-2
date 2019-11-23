@@ -7,7 +7,8 @@ var app = express();
 var PORT = process.env.PORT || 3000;
 
 // Middleware
-app.use(express.urlencoded({ extended: false }));
+app.use(express.urlencoded({ extended: false, layoutsDir: __dirname + "/views/layouts/",
+partialsDir: __dirname + "/views/partials/" }));
 app.use(express.json());
 app.use(express.static("public"));
 

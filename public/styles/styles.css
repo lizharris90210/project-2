@@ -2,13 +2,11 @@
 /* Hidden Scroll Bar */
 /* ========================================================================== */
 html {
-  /* height: 100%; */
+  height: 100%;
   overflow: scroll;
   overflow-x: hidden;
 }
-body {
-  
-}
+
 .nav-wrapper {
   padding: 0px 10px;
 }
@@ -34,5 +32,11 @@ body {
   
   .parallax-container {
     height: "500px";
+  }
+  .parallax-container-homepage {
+    height: "500px";
+  }
+  .col {
+    margin: 10px;
   }
   
