@@ -12,16 +12,22 @@ var WebSearch = {
      order: "viewCount",
      type: "video"
    };
+
+   cb(subject);
    search(subject.genres, opts, function(err, results) {
-     if (err) return console.log(err);
-    console.log(JSON.stringify(results, null, 2));
-    console.log((results[0].thumbnails));
-    for (let i = 0; i < results.length; i++) {
-      let { url } = results[i].thumbnails.default;
-      results[i].vidIMG = url;
-    }
+     if (err) {
+     console.log(err);
+     subject.vidIMG = ['http://lorempixel.com/200/200/'];
+       throw err;
+      } else {
+       for (let i = 0; i < results.length; i++) {
+         let { url } = results[i].thumbnails.default;
+         results[i].vidIMG = url;
+       }
+     }
+       
+    
     subject.videos = results;
-    cb(subject);
    });
  } 
 };  

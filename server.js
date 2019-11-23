@@ -1,14 +1,12 @@
 require("dotenv").config();
 var express = require("express");
 var exphbs = require("express-handlebars");
-const helmet = require('helmet');
 var db = require("./models");
 
 var app = express();
 var PORT = process.env.PORT || 3000;
 
 // Middleware
-app.use(helmet.frameguard({ action: "allow-from", domain: "http://www.youtube.com" }));
 app.use(express.urlencoded({ extended: false, layoutsDir: __dirname + "/views/layouts/",
 partialsDir: __dirname + "/views/partials/" }));
 app.use(express.json());
