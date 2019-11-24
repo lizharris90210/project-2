@@ -40,7 +40,12 @@ module.exports = function (app) {
   // =======================================================
   //  END HTML Routing Info from Authentication Boilerplate
   // =======================================================
+
+  // ===========================================================================
+  // homepage test for artist page
+  // ===========================================================================
   app.get("/homepage", function (req, res) {
+    //set by default to pull first entry from artist table
     db.artist.findOne({
       where: {
         id:1

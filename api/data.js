@@ -1,12 +1,21 @@
+// dependencies
+// eslint-disable-next-line no-unused-vars
 var webSearch =  require("./videos.js");
+var songify =  require("./songs.js");
+
+// Datapoint Constructor
+// right now, only the artist is setup for Spotify
 var DataPoint = {
   callback: function (results, res) {
     var data = results;
-          console.log("from datajs", data);
           res.render("homepage", data);
   },
+  // artist constructor
+  // ES7 Syntax: Object is deconstructed and then sent to the spotify api
   artist: function ({artist_name, artist_pic, location_city, location_state, contact_email, contact_instagram, contact_twitter, current_band, instruments, past_bands, genres}, cb) {
+    // building location string
     var location = `${location_city}, ${location_state}`;
+    
     const artistOBJ = {
       name: artist_name,
       pic: artist_pic,
@@ -15,12 +24,15 @@ var DataPoint = {
       twitter: contact_twitter,
       instagram: contact_instagram,
       band: current_band,
+      // .split() method returns an array for each variable
       instruments: instruments.split(","),
       past_bands: past_bands.split(","),
       genres: genres.split(",")
     };
-    webSearch.videoSearch(artistOBJ, cb);
+    //Spotify Call: sending artist object, and callback function
+    songify.spotifySucks(artistOBJ, cb);
   },
+  // the other constructors just return the object
   band: function ({band_name, band_pic, location_city, location_state, contact_email, contact_instagram, contact_twitter, pastband_names, artist_names, genres}) {
     var location = `${location_city}, ${location_state}`;
     const bandOBJ = {

@@ -84,11 +84,20 @@
         </div>
 
         <div class="col s12 m4 l4">
-            <div class="card">
+            <div class="card hoverable">
                 <div class = "card-content container">
                     <div class = "card-title">Videos</div>
                     {{#each videos}}
                     {{> artist/YT}}
+                    {{/each}}
+
+                </div>
+            </div>
+            <div class="card hoverable">
+                <div class = "card-content container">
+                    <div class = "card-title">Songs</div>
+                    {{#each songs}}
+                    {{> artist/Spotify}}
                     {{/each}}
 
                 </div>
