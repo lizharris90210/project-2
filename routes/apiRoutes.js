@@ -87,7 +87,7 @@ module.exports = function(app) {
         // call the spotify api with a call back function to render the page
         songify.spotifySucks(results,function(results) {
              var data = results;
-             console.log(data);
+             console.log(gradient.summer(data));
              res.render("artist", data);
            });
        
@@ -111,14 +111,14 @@ module.exports = function(app) {
         //combine city and state for one location variable
         results.location = `${results.city}, ${results.state}`;
         //converting to arrays for handlebars 
-        console.log(results.past_bands)
+        console.log(gradient.summer(results.past_bands));
         results.past_bands = results.pastband_names.split(",");
         results.members = results.members.split(",");
         results.genres = results.genres.split(",");
         // call the spotify api with a call back function to render the page
         songify.spotifySucks(results,function(results) {
              var data = results;
-             console.log(data);
+             console.log(gradient.summer(data));
              res.render("bands", data);
            });
        
@@ -148,7 +148,7 @@ module.exports = function(app) {
         // call the spotify api with a call back function to render the page
         songify.spotifySucks(results,function(results) {
              var data = results;
-             console.log(data);
+             console.log(gradient.summer(data));
              res.render("backstage", data);
            });
        
@@ -176,7 +176,7 @@ module.exports = function(app) {
         // call the spotify api with a call back function to render the page
         songify.spotifySucks(results,function(results) {
              var data = results;
-             console.log(data);
+             console.log(gradient.summer(data));
              res.render("venue", data);
            });
        
