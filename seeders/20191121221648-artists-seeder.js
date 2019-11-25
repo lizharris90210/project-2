@@ -13,9 +13,9 @@ module.exports = {
         contact_instagram: "@LizZep",
         contact_twitter: "@LizZtweet",
         current_band: "the VarChars",
-        instruments:"guitar",
+        instruments:"guitar, piano",
         past_bands: "forLoops",
-        genres: "classic rock",
+        genres: "classic, rock",
         createdAt: new Date(),
         updatedAt: new Date() 
         },

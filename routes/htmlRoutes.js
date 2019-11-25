@@ -1,7 +1,5 @@
-const db = require("../models");
-var DP = require("../api/data.js");
 require("dotenv");
-
+const db = require("../models");
 
 // Requiring our custom middleware for checking if a user is logged in
 // var isAuthenticated = require("../config/middleware/isAuthenticated");
@@ -46,19 +44,8 @@ module.exports = function (app) {
   // ===========================================================================
   app.get("/homepage", function (req, res) {
     //set by default to pull first entry from artist table
-    db.artist.findOne({
-      where: {
-        id:1
-      }
-    }).then((data) => {
-      
-     DP.artist(data, function (results) {
-      var data = results;
-      console.log(data);
-      res.render("homepage", data);
-    });
-
-    });
+    console.log(res.body);
+    res.render("homepage");
   });
 
   // Load example page and pass in an example by id
