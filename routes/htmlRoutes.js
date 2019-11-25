@@ -1,4 +1,5 @@
-var db = require("../models");
+require("dotenv");
+const db = require("../models");
 
 // Requiring our custom middleware for checking if a user is logged in
 // var isAuthenticated = require("../config/middleware/isAuthenticated");
@@ -37,7 +38,13 @@ module.exports = function (app) {
   // =======================================================
   //  END HTML Routing Info from Authentication Boilerplate
   // =======================================================
+
+  // ===========================================================================
+  // homepage test for artist page
+  // ===========================================================================
   app.get("/homepage", function (req, res) {
+    //set by default to pull first entry from artist table
+    console.log(res.body);
     res.render("homepage");
   });
 

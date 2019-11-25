@@ -13,6 +13,10 @@ const Venues = sequelize.define("venues", {
     type: DataTypes.STRING,
     allowNull: true
   },
+  venue_pic: {
+    type: DataTypes.STRING,
+    allowNull: true
+  },
   location_city: {
     type: DataTypes.STRING,
     allowNull: false
@@ -29,7 +33,7 @@ const Venues = sequelize.define("venues", {
       isEmail: true
     }
   },
-  contact_insta: {
+  contact_instagram: {
     type: DataTypes.STRING,
     allowNull: false
   },

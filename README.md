@@ -1,4 +1,4 @@
-# Cue
+# [Cue](https://project-2-uncbootcamp.herokuapp.com/)
 
 ## A social media app for musicians and music professionals
 
