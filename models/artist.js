@@ -1,5 +1,6 @@
+"use strict";
 module.exports = function (sequelize, DataTypes) {
-  const Artists = sequelize.define("artist", {
+  const Artist = sequelize.define("artists", {
     id: {
       type: DataTypes.INTEGER,
       autoIncrement: true,
@@ -57,8 +58,12 @@ module.exports = function (sequelize, DataTypes) {
       type: DataTypes.STRING,
       allowNull: false
     }
-  });
-
-  return Artists;
+  },
+  {
+    timestamps: false,
+  }
+  );
+ 
+  return Artist;
 };
 

@@ -18,7 +18,7 @@ module.exports = function(app) {
     // setting the id
     const id = req.params.id;
     // sequelize call
-    db.artist
+    db.artists
       .findOne({
         where: {
           id: id
@@ -38,7 +38,7 @@ module.exports = function(app) {
         songify.spotifySucks(results,function(results) {
              var data = results;
              console.log(gradient.summer(data));
-             res.render("artist", data);
+             res.render("artists", data);
            });
        
       });
@@ -127,11 +127,30 @@ module.exports = function(app) {
         songify.spotifySucks(results,function(results) {
              var data = results;
              console.log(gradient.summer(data));
-             res.render("venue", data);
+             res.render("venues", data);
            });
        
       });
   });
+
+  app.get("/api/homepage", function(req, res) {
+
+    // sequelize call
+    db.community
+      .findAll({
+    
+   include: [
+          {model:db.bands, attributes: calls.band},
+          {model:db.backstages, attributes: calls.backstage},
+          {model:db.venues, attributes: calls.venue}
+   ]      
+  })
+      .then(data => {
+        console.log(data);
+             res.render("homepage", data);
+           });
+       
+      });
   
   
 
