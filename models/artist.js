@@ -67,4 +67,3 @@ module.exports = function (sequelize, DataTypes) {
   return Artist;
 };
 
-
