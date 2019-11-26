@@ -1,6 +1,6 @@
 # [Cue](https://project-2-uncbootcamp.herokuapp.com/)
 
-## A social media app for musicians and music professionals
+## A social media app for musicians and music industry professionals
 
 ### Installation
 
@@ -10,36 +10,38 @@ Login to the cue app homepage and fill out the survey. You will be directed to a
 
 Spice this up with code blocks and potentially more screenshots.
 
-### Development setup
+![Screenshot](/screenshot.png)
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+### Technology Used
 
-make install
-npm test
-Release History
-0.2.1
-CHANGE: Update docs (module code remains unchanged)
-0.2.0
-CHANGE: Remove setDefaultXYZ()
-ADD: Add init()
-0.1.1
-FIX: Crash when calling baz() (Thanks @GenerousContributorName!)
-0.1.0
-The first proper release
-CHANGE: Rename foo() to bar()
-0.0.1
-Work in progress
-Meta
-Your Name – @YourTwitter – YourEmail@example.com
+Javascript
+JQuery
+AJAX
+CSS
+Bootstrap
+Sequelize
+Google Fonts
+Parallax
+Express
+ESLint
 
-Distributed under the XYZ license. See LICENSE for more information.
+### Release History
 
-https://github.com/yourname/github-link
+11/16/2019 Deployed and live
 
-### Contributing
+### Meta
 
-Fork it (https://github.com/lizharris90210/project-2/fork)
-Create your feature branch (git checkout -b feature/fooBar)
-Commit your changes (git commit -am 'Add some fooBar')
-Push to the branch (git push origin feature/fooBar)
-Create a new Pull Request
+- Hilary Lamb
+  - Email
+  - [Github](https://github.com/hilarykathleen)
+- Armon Roberts
+  - Email
+  - [Github](http://github.com/armonkahil)
+- Jackson Pearce
+  - Email
+  - [Github](http://github.com/Jackson-Pearce)
+- Liz Harris
+  - [Email](lizharris90210@gmail.com)
+  - [GitHub](https://github.com/lizharris90210)
+
+#### [Project 2 for UNC Coding Bootcamp](https://github.com/lizharris90210/project-2)
