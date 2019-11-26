@@ -1,5 +1,6 @@
 require("dotenv");
 const keys = require("../keys");
+var tube = require("./videos");
 // Spotify package
 var Spotify = require("node-spotify-api");
 // adding keys to spotify
@@ -22,7 +23,7 @@ var songSearch = {
     }
     data1.songs = items;
     console.log(data1);
-    cb(data1);
+    tube.videoSearch(data1, cb);
   });
 }
  };
