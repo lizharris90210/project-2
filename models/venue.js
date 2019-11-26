@@ -1,5 +1,5 @@
 module.exports = function(sequelize, DataTypes) {
-const Venues = sequelize.define("venues", {
+const Venue = sequelize.define("venues", {
   id: {
     type: DataTypes.INTEGER,
     autoIncrement: true,
@@ -10,6 +10,10 @@ const Venues = sequelize.define("venues", {
     }
   },
   venue_name: {
+    type: DataTypes.STRING,
+    allowNull: true
+  },
+  venue_pic: {
     type: DataTypes.STRING,
     allowNull: true
   },
@@ -29,7 +33,7 @@ const Venues = sequelize.define("venues", {
       isEmail: true
     }
   },
-  contact_insta: {
+  contact_instagram: {
     type: DataTypes.STRING,
     allowNull: false
   },
@@ -43,8 +47,9 @@ const Venues = sequelize.define("venues", {
   }
 },
 {
-  freezeTableName: true
+  freezeTableName: true,
+  timestamps: false
 }
 );
-  return Venues;
+  return Venue;
 };

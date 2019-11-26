@@ -15,6 +15,10 @@ module.exports = function(sequelize, DataTypes) {
         type: DataTypes.STRING,
         allowNull: true
       },
+      band_pic: {
+        type: DataTypes.STRING,
+        allowNull: true
+      },
       location_city: {
         type: DataTypes.STRING,
         allowNull: false
@@ -31,7 +35,7 @@ module.exports = function(sequelize, DataTypes) {
           isEmail: true
         }
       },
-      contact_insta: {
+      contact_instagram: {
         type: DataTypes.STRING,
         allowNull: false
       },
@@ -53,7 +57,8 @@ module.exports = function(sequelize, DataTypes) {
       }
     },
     {
-      freezeTableName: true
+      freezeTableName: true,
+      timestamps: false
     }
   );
   return Bands;

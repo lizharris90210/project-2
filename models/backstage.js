@@ -11,6 +11,10 @@ module.exports = function (sequelize, DataTypes) {
     },
       backstage_name: {
         type: DataTypes.STRING,
+        allowNull: false
+      },
+      backstage_pic: {
+        type: DataTypes.STRING,
         allowNull: true
       },
       location_city: {
@@ -29,7 +33,7 @@ module.exports = function (sequelize, DataTypes) {
           isEmail: true
         }
       },
-      contact_insta: {
+      contact_instagram: {
         type: DataTypes.STRING,
         allowNull: false
       },
@@ -49,6 +53,9 @@ module.exports = function (sequelize, DataTypes) {
         type: DataTypes.STRING,
         allowNull: false
       }
+  },
+  {
+    timestamps: false
   });
   return Backstage;
 };
