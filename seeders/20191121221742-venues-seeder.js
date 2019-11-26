@@ -12,9 +12,7 @@ module.exports = {
         contact_email:"chandelier@zmail.com",
         contact_instagram:"@chandelierclub",
         contact_twitter:"@chandelierclub",
-        genres:"rock, rap, hip hop, pop, dance, metal, punk",
-        createdAt: new Date(),
-        updatedAt: new Date() 
+        genres:"rock, rap, hip hop, pop, dance, metal, punk"
       },
         {
         venue_name:"Monopoly Arena",
@@ -24,9 +22,7 @@ module.exports = {
         contact_email:"monopoly@zmail.com",
         contact_instagram:"@monopoly@zmail.com",
         contact_twitter:"@monoployarena",
-        genres:"all",
-        createdAt: new Date(),
-        updatedAt: new Date() 
+        genres:"all"
       },
         {
         venue_name:"Green Room",
@@ -36,9 +32,7 @@ module.exports = {
         contact_email:"green@zmail.com",
         contact_instagram:"@greenroom",
         contact_twitter:"@greenroom",
-        genres:"jam, rock, dance, metal, jazz, blues, pop",
-        createdAt: new Date(),
-        updatedAt: new Date() 
+        genres:"jam, rock, dance, metal, jazz, blues, pop"
       },
         {
         venue_name:"Backbar",
@@ -48,9 +42,7 @@ module.exports = {
         contact_email:"hogwash@zmail.com",
         contact_instagram:"t@thehogwashbar",
         contact_twitter:"@thehogwashbar",
-        genres: "country, rock, blues",
-        createdAt: new Date(),
-        updatedAt: new Date() 
+        genres: "country, rock, blues"
       }
     ], {});
     

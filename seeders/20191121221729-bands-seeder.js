@@ -14,9 +14,7 @@ module.exports = {
         contact_twitter:"@dethlokband",
         pastband_names:"Billy Graham",
         artist_names:"Nathan Explosion, Skwisgaar Skwigelf, Toki Wartooth, William Murderface, Pickles",
-        genres:"metal",
-        createdAt: new Date(),
-        updatedAt: new Date() 
+        genres:"metal" 
       },
         {
         band_name:"Josie and the Pussycat Dolls",
@@ -28,9 +26,7 @@ module.exports = {
         contact_twitter:"@josiePCtweet",
         pastband_names:"Spice Girls",
         artist_names:"Josie McCoy,  Melody Valentine, Valerie Brown",
-        genres:"pop rock",
-        createdAt: new Date(),
-        updatedAt: new Date() 
+        genres:"pop rock" 
       },
         {
         band_name:"The Monkees",
@@ -42,9 +38,7 @@ module.exports = {
         contact_twitter:"@heyheywerthemonkees",
         pastband_names:"The Who",
         artist_names: "Micky Dolenz, Michael Nesmith,  Peter Tork, Davy Jones",
-        genres:"pop rock",
-        createdAt: new Date(),
-        updatedAt: new Date() 
+        genres:"pop rock" 
       },
         {
         band_name:"the Venture Brothers",
@@ -56,9 +50,7 @@ module.exports = {
         contact_twitter:"@ventureToAdventure",
         pastband_names: "The Begees",
         artist_names: "Brock Samson, Hank Venture, Dean Venture, Rusty Venture",
-        genres:"pop rock, pop punk",
-        createdAt: new Date(),
-        updatedAt: new Date() 
+        genres:"pop rock, pop punk" 
       }
     ], {});
     
