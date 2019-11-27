@@ -18,6 +18,7 @@
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
     "express-session": "^1.17.0",
+    "file-system": "^2.2.2",
     "fs": "0.0.2",
     "gradient-string": "^1.2.0",
     "mysql": "^2.17.1",
@@ -30,7 +31,8 @@
     "sequelize": "^4.44.3",
     "sequelize-auto": "^0.4.29",
     "sequelize-cli": "^4.1.1",
-    "youtube-search": "^1.1.4"
+    "youtube-search": "^1.1.4",
+    "youtube-v3-api": "^1.1.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",

@@ -15,7 +15,7 @@ module.exports = {
         current_band: "the VarChars",
         instruments:"guitar, piano",
         past_bands: "forLoops",
-        genres: "classic, rock"
+        genres: "classic rock"
         },
         {
         artist_name: "Jackson Pearce",
@@ -28,7 +28,7 @@ module.exports = {
         current_band: "the Action Jacksons",
         instruments:"keyboard",
         past_bands: "the Apple Eaters",
-        genres: "metal, indie, alt"
+        genres: "metal,indie,alt"
         },
         {
         artist_name: "Armon Roberts",
@@ -54,7 +54,7 @@ module.exports = {
         current_band: "the Swiftees",
         instruments:"lead singer",
         past_bands: "Tay Tays",
-        genres: "indie, pop"
+        genres: "indie,pop"
         }
         
     ], {});

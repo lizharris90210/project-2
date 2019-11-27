@@ -6,6 +6,10 @@ html {
   overflow: scroll;
   overflow-x: hidden;
 }
+body {
+  background: url('../images/cybertruck.gif');
+  
+}
 
 .nav-wrapper {
   padding: 0px 10px;
@@ -38,5 +42,13 @@ html {
   }
   .col {
     margin: 10px;
+  }
+  .spotify {
+    max-width: 120px;;
+    max-height: 90px;
+
+  }
+  .card {
+    opacity: .9;
   }
   

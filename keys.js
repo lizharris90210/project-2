@@ -17,3 +17,7 @@ exports.database = {
   live: process.env.DB_NAME,
   test: process.env.DB_NAME1
 };
+
+exports.subject = {
+  genre : "country-music"
+};

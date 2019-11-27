@@ -87,7 +87,7 @@ module.exports = function(app) {
         // call the spotify api with a call back function to render the page
         songify.spotifySucks(results,function(results) {
              var data = results;
-             console.log(gradient.summer(data));
+            //  console.log("adsfadfadfadfad",gradient.summer(data));
              res.render("artists", data);
            });
        
