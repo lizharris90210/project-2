@@ -4,10 +4,9 @@ require("dotenv");
 var db = require("../models");
 // require passport
 // var passport = require("../config/passport");
-var songify =  require("../api/songs");
+var songify = require("../api/songs");
 var query = require("../api/queries");
 var gradient = require("gradient-string");
-
 
 module.exports = function(app) {
   // This is just the default route Ive been using to build the page 3 template.
@@ -24,26 +23,25 @@ module.exports = function(app) {
           id: id
         },
         // queries are stored in queries.js
-         attributes: query.artist
+        attributes: query.artist
       })
       .then(data => {
         let results = data.dataValues;
         //combine city and state for one location variable
         results.location = `${results.city}, ${results.state}`;
-        //converting to arrays for handlebars 
+        //converting to arrays for handlebars
         results.instruments = results.instruments.split(",");
         results.past_bands = results.past_bands.split(",");
         results.genres = results.genres.split(",");
         // call the spotify api with a call back function to render the page
-        songify.spotifySucks(results,function(results) {
-             var data = results;
-            //  console.log("adsfadfadfadfad",gradient.summer(data));
-             res.render("profiles/artists", data);
-           });
-       
+        songify.spotifySucks(results, function(results) {
+          var data = results;
+          //  console.log("adsfadfadfadfad",gradient.summer(data));
+          res.render("profiles/artists", data);
+        });
       });
   });
-  
+
   app.get("/api/band/profile/:id", function(req, res) {
     // setting the id
     const id = req.params.id;
@@ -54,22 +52,21 @@ module.exports = function(app) {
           id: id
         },
         // queries are stored in queries.js
-         attributes: query.band
+        attributes: query.band
       })
       .then(data => {
         let results = data.dataValues;
         //combine city and state for one location variable
         results.location = `${results.city}, ${results.state}`;
-        //converting to arrays for handlebars 
+        //converting to arrays for handlebars
         results.past_bands = results.pastband_names.split(",");
         results.members = results.members.split(",");
         results.genres = results.genres.split(",");
         // call the spotify api with a call back function to render the page
-        songify.spotifySucks(results,function(results) {
-             var data = results;
-             res.render("profiles/bands", data);
-           });
-       
+        songify.spotifySucks(results, function(results) {
+          var data = results;
+          res.render("profiles/bands", data);
+        });
       });
   });
 
@@ -83,23 +80,22 @@ module.exports = function(app) {
           id: id
         },
         // queries are stored in queries.js
-         attributes: query.backstage
+        attributes: query.backstage
       })
       .then(data => {
         let results = data.dataValues;
         //combine city and state for one location variable
         results.location = `${results.city}, ${results.state}`;
-        //converting to arrays for handlebars 
+        //converting to arrays for handlebars
         results.experience = results.experience.split(",");
         results.equipment = results.equipment.split(",");
         results.genres = results.genres.split(",");
         // call the spotify api with a call back function to render the page
-        songify.spotifySucks(results,function(results) {
-             var data = results;
-             console.log(gradient.summer(data));
-             res.render("profiles/backstage", data);
-           });
-       
+        songify.spotifySucks(results, function(results) {
+          var data = results;
+          console.log(gradient.summer(data));
+          res.render("profiles/backstage", data);
+        });
       });
   });
 
@@ -113,33 +109,28 @@ module.exports = function(app) {
           id: id
         },
         // queries are stored in queries.js
-         attributes: query.venue
+        attributes: query.venue
       })
       .then(data => {
         let results = data.dataValues;
         //combine city and state for one location variable
         results.location = `${results.city}, ${results.state}`;
-        //converting to arrays for handlebars 
+        //converting to arrays for handlebars
         results.genres = results.genres.split(",");
         // call the spotify api with a call back function to render the page
-        songify.spotifySucks(results,function(results) {
-             var data = results;
-             console.log(gradient.summer(data));
-             res.render("profiles/venues", data);
-           });
-       
+        songify.spotifySucks(results, function(results) {
+          var data = results;
+          console.log(gradient.summer(data));
+          res.render("profiles/venues", data);
+        });
       });
   });
 
   app.get("/api/homepage", function(req, res) {
-
     // sequelize call
-  
-      res.render("homepage");
-       
-      });
-  
-  
+
+    res.render("homepage");
+  });
 
   // ===========================================================================
   // END API Routing
