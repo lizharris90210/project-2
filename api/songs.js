@@ -1,12 +1,12 @@
 require("dotenv");
 const keys = require("../keys");
-var tube = require("./videos");
+const tube = require("./videos");
 // Spotify package
-var Spotify = require("node-spotify-api");
+const Spotify = require("node-spotify-api");
 // adding keys to spotify
-var spotify = new Spotify(keys.spotify);
+const spotify = new Spotify(keys.spotify);
 
-var songSearch = {
+const songSearch = {
   spotifySucks: function(data1, cb) {
     spotify.search(
       { type: "playlist", query: keys.subject.genre, limit: 3 },

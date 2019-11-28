@@ -1,5 +1,5 @@
 // Custom sequelize queries
-var artist = [
+const artist = [
   ["artist_name", "name"],
   ["artist_pic", "pic"],
   ["location_city", "city"],
@@ -11,7 +11,7 @@ var artist = [
   "past_bands",
   "genres"
 ];
-var band = [
+const band = [
   ["band_name", "name"],
   ["band_pic", "pic"],
   ["location_city", "city"],
@@ -22,7 +22,7 @@ var band = [
   ["artist_names", "members"],
   "genres"
 ];
-var backstage = [
+const backstage = [
   ["backstage_name", "name"],
   ["backstage_pic", "pic"],
   ["location_city", "city"],
@@ -33,7 +33,7 @@ var backstage = [
   "experience",
   "genres"
 ];
-var venue = [
+const venue = [
   ["venue_name", "name"],
   ["venue_pic", "pic"],
   ["location_city", "city"],
@@ -42,6 +42,7 @@ var venue = [
   ["contact_twitter", "twitter"],
   "genres"
 ];
+
 module.exports = {
   artist: artist,
   band: band,

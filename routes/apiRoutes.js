@@ -1,12 +1,15 @@
 // require environment variables
 require("dotenv");
 // require models
-var db = require("../models");
+const db = require("../models");
 // require passport
 // var passport = require("../config/passport");
-var songify = require("../api/songs");
-var query = require("../api/queries");
-var gradient = require("gradient-string");
+// require spotify api
+const songify = require("../api/songs");
+// require queries.js
+const query = require("../api/queries");
+// require gradient string
+const gradient = require("gradient-string");
 
 module.exports = function(app) {
   // This is just the default route Ive been using to build the page 3 template.
