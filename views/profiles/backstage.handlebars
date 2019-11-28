@@ -33,7 +33,7 @@
 </div>
 
 
-<div class="container">
+<div class="container animated fadeIn">
     <div class="row">
         <div class="col s12 m4 l4">
             <div class="card">
@@ -47,21 +47,30 @@
                     <p>{{location}}</p>
                 </div>
             </div>
+                <div class="card hoverable">
+                <div class = "card-content center-align">
+                    <div class = "card-title">Related Playlist</div>
+                    {{#each songs}}
+                    {{> artist/Spotify}}
+                    {{/each}}
+
+                </div>
+            </div>
         </div>
         <div class="col s12 m4 l3">
             <div class="card hoverable">
                 <ul class="collection with-header center-align">
-                    <li class="collection-header ">Instruments Played</li>
-                    {{#each instruments}}
-                    {{> artist/instruments}}
+                    <li class="collection-header ">Equipment</li>
+                    {{#each equipment}}
+                    {{> backstage/equipment}}
                     {{/each}}
                 </ul>
             </div>
             <div class="card hoverable">
                 <ul class="collection with-header center-align">
-                    <li class="collection-header ">Past Groups</li>
-                    {{#each past_bands}}
-                    {{> artist/past_bands}}
+                    <li class="collection-header ">Experience</li>
+                    {{#each experience}}
+                    {{> backstage/experience}}
                     {{/each}}
                 </ul>
             </div>
@@ -85,23 +94,15 @@
 
         <div class="col s12 m4 l4">
             <div class="card hoverable">
-                <div class = "card-content container">
-                    <div class = "card-title">Videos</div>
+                <div class = "card-content center-align">
+                    <div class = "card-title">Related Videos</div>
                     {{#each videos}}
                     {{> artist/YT}}
                     {{/each}}
 
                 </div>
             </div>
-            <div class="card hoverable">
-                <div class = "card-content container">
-                    <div class = "card-title">Songs</div>
-                    {{#each songs}}
-                    {{> artist/Spotify}}
-                    {{/each}}
-
-                </div>
-            </div>
+        
             
         </div>
     </div>

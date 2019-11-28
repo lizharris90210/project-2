@@ -5,7 +5,7 @@ var db = require("../models");
 // require passport
 // var passport = require("../config/passport");
 var songify =  require("../api/songs");
-var calls = require("../api/queries");
+var query = require("../api/queries");
 var gradient = require("gradient-string");
 
 
@@ -24,7 +24,7 @@ module.exports = function(app) {
           id: id
         },
         // queries are stored in queries.js
-         attributes: calls.artist
+         attributes: query.artist
       })
       .then(data => {
         let results = data.dataValues;
@@ -38,7 +38,7 @@ module.exports = function(app) {
         songify.spotifySucks(results,function(results) {
              var data = results;
             //  console.log("adsfadfadfadfad",gradient.summer(data));
-             res.render("artists", data);
+             res.render("profiles/artists", data);
            });
        
       });
@@ -54,22 +54,20 @@ module.exports = function(app) {
           id: id
         },
         // queries are stored in queries.js
-         attributes: calls.band
+         attributes: query.band
       })
       .then(data => {
         let results = data.dataValues;
         //combine city and state for one location variable
         results.location = `${results.city}, ${results.state}`;
         //converting to arrays for handlebars 
-        console.log(gradient.summer(results.past_bands));
         results.past_bands = results.pastband_names.split(",");
         results.members = results.members.split(",");
         results.genres = results.genres.split(",");
         // call the spotify api with a call back function to render the page
         songify.spotifySucks(results,function(results) {
              var data = results;
-             console.log(gradient.summer(data));
-             res.render("bands", data);
+             res.render("profiles/bands", data);
            });
        
       });
@@ -85,7 +83,7 @@ module.exports = function(app) {
           id: id
         },
         // queries are stored in queries.js
-         attributes: calls.backstage
+         attributes: query.backstage
       })
       .then(data => {
         let results = data.dataValues;
@@ -99,7 +97,7 @@ module.exports = function(app) {
         songify.spotifySucks(results,function(results) {
              var data = results;
              console.log(gradient.summer(data));
-             res.render("backstage", data);
+             res.render("profiles/backstage", data);
            });
        
       });
@@ -115,7 +113,7 @@ module.exports = function(app) {
           id: id
         },
         // queries are stored in queries.js
-         attributes: calls.venue
+         attributes: query.venue
       })
       .then(data => {
         let results = data.dataValues;
@@ -127,7 +125,7 @@ module.exports = function(app) {
         songify.spotifySucks(results,function(results) {
              var data = results;
              console.log(gradient.summer(data));
-             res.render("venues", data);
+             res.render("profiles/venues", data);
            });
        
       });
@@ -136,19 +134,8 @@ module.exports = function(app) {
   app.get("/api/homepage", function(req, res) {
 
     // sequelize call
-    db.community
-      .findAll({
-    
-   include: [
-          {model:db.bands, attributes: calls.band},
-          {model:db.backstages, attributes: calls.backstage},
-          {model:db.venues, attributes: calls.venue}
-   ]      
-  })
-      .then(data => {
-        console.log(data);
-             res.render("homepage", data);
-           });
+  
+      res.render("homepage");
        
       });
   

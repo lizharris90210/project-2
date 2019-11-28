@@ -1,6 +1,6 @@
 // gradient string package
 const gradient = require("gradient-string");
-console.log(gradient.summer("this is loaded"));
+console.log(gradient.summer("keys loaded"));
 
 exports.spotify = {
   id: process.env.SPOTIFY_ID,
@@ -15,9 +15,9 @@ exports.database = {
   user: process.env.DB_USER,
   secret: process.env.DB_PASS,
   live: process.env.DB_NAME,
-  test: process.env.DB_NAME1
+  test: process.env.DB_TEST
 };
 
 exports.subject = {
-  genre : "country-music"
+  genre : "pop-rock-music"
 };
