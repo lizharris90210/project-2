@@ -19,5 +19,5 @@ exports.database = {
 };
 
 exports.subject = {
-  genre: "pop-rock-music"
+  genre: "classicRock"
 };

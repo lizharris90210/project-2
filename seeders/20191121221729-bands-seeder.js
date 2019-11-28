@@ -9,7 +9,7 @@ module.exports = {
         {
           band_name: "Dethlok",
           band_pic:
-            "https://images-na.ssl-images-amazon.com/images/I/6118ZiilG-L.jpg",
+            "https://amtshows.com/wp-content/uploads/2014/01/bands-on-the-rise-silhouette-of-rock-band-on-stage.jpg",
           location_city: "Mt. Olympus",
           location_state: "unknown",
           contact_email: "dethlok@zmail.com",
@@ -23,7 +23,7 @@ module.exports = {
         {
           band_name: "Josie and the Pussycat Dolls",
           band_pic:
-            "https://images-na.ssl-images-amazon.com/images/I/6118ZiilG-L.jpg",
+            "https://amtshows.com/wp-content/uploads/2014/01/bands-on-the-rise-silhouette-of-rock-band-on-stage.jpg",
           location_city: "Riverdale",
           location_state: "CA",
           contact_email: "JPCband@zmail.com",
@@ -36,7 +36,7 @@ module.exports = {
         {
           band_name: "The Monkees",
           band_pic:
-            "https://images-na.ssl-images-amazon.com/images/I/6118ZiilG-L.jpg",
+            "https://amtshows.com/wp-content/uploads/2014/01/bands-on-the-rise-silhouette-of-rock-band-on-stage.jpg",
           location_city: "Hollywood",
           location_state: "CA",
           contact_email: "heyheywerethemonkees@zmail.com",
@@ -50,7 +50,7 @@ module.exports = {
         {
           band_name: "the Venture Brothers",
           band_pic:
-            "https://images-na.ssl-images-amazon.com/images/I/6118ZiilG-L.jpg",
+            "https://amtshows.com/wp-content/uploads/2014/01/bands-on-the-rise-silhouette-of-rock-band-on-stage.jpg",
           location_city: "Cherry Hill",
           location_state: "NJ",
           contact_email: "vbros@zmail.com",

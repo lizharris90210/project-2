@@ -9,7 +9,8 @@ const spotify = new Spotify(keys.spotify);
 const songSearch = {
   spotifySucks: function(data1, cb) {
     spotify.search(
-      { type: "playlist", query: keys.subject.genre, limit: 3 },
+      // you can adjust the number of spotify images here with the limit variable
+      { type: "playlist", query: keys.subject.genre, limit: 2 },
       function(err, response) {
         if (err) {
           console.log("Error occurred: " + err);

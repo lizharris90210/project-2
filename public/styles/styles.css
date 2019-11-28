@@ -43,8 +43,9 @@ body {
   .col {
     margin: 10px;
   }
-  .spotify {
-    max-width: 120px;;
+  /* Spotify and Youtube images */
+  .spotify, .youtube {
+    max-width: 120px;
     max-height: 90px;
 
   }

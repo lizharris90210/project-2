@@ -2,9 +2,10 @@
 require("dotenv");
 // keys.js
 const keys = require("../keys");
-const API_KEY = keys.youtube.key;
+
+//const API_KEY = keys.youtube.key;
 // eslint-disable-next-line no-unused-vars
-var search = require("youtube-search");
+const search = require("youtube-search");
 // gradient string package
 var gradient = require("gradient-string");
 
@@ -13,8 +14,9 @@ var loglog = require("./logger");
 // testData package
 var testData = require("./tester");
 // for devOps, comment in one of the following to change the genre of videos populated. this as the genre of data pulled from testData example: testData.classicRock, testData.punk, testData.jazz etc...
-var testGenre = testData.alternative;
-// testData.classicRock;
+var testGenre = testData.classicRock;
+// testData.alternative;
+ 
 // testData.country;
 // testData.jazz;
 // testData.punk;
@@ -23,28 +25,29 @@ var testGenre = testData.alternative;
 // testData.dance;
 // testData.rock;
 // testData.metal;
-// testData.pop'
-
+// testData.pop;
+console.log(gradient.vice(testGenre));
 // =============================================================================
 // Youtube API
 // =============================================================================
 var WebSearch = {
   videoSearch: function(subject, cb) {
-    var opts = {
-      part: "snippet",
-      maxResults: 10,
-      q: keys.subject.genre,
-      key: API_KEY,
-      videoEmbeddable: "true",
-      order: "viewCount",
-      type: "video"
-    };
+    
     //  Call
 
     // ===========================================================================
     // comment this section out to activate youtube api and data logger
     // ===========================================================================
     // console.log(gradient.summer("Youtube Api running"));
+    // var opts = {
+    //   part: "snippet",
+    //   maxResults: 10,
+    //   q: keys.subject.genre,
+    //   key: API_KEY,
+    //   videoEmbeddable: "true",
+    //   order: "viewCount",
+    //   type: "video"
+    // };
     //  search(subject.genres, opts, function(err, results) {
     //   if (err) return console.log(err);
     //  for (let i = 0; i < results.length; i++) {
@@ -65,13 +68,12 @@ var WebSearch = {
     // ==========================================================================
 
     console.log(gradient.summer("Cue Api running"));
-    // console.log(gradient.summer(JSON.stringify(testData,null,2)));
+    console.log(gradient.summer(JSON.stringify(testGenre,null,2)));
     // for loop to un-nest thumbnail link
-    for (let i = 0; i < testGenre.length; i++) {
-      let { url } = testGenre[i].thumbnails.default;
-      testGenre[i].vidIMG = url;
-      console.log(url);
-    }
+    // for (let i = 0; i < testGenre.length; i++) {
+    //   let { url } = testGenre[i].thumbnails.default;
+    //   testGenre[i].vidIMG = url;
+    // }
     subject.videos = testGenre;
     cb(subject);
   }
