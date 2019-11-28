@@ -1,9 +1,9 @@
 // require environment variables
 require("dotenv");
 // require models
-var db = require("../models");
+const db = require("../models");
 // require passport
-var passport = require("../config/passport");
+const passport = require("../config/passport");
 
 
 module.exports = function(app){
