@@ -160,10 +160,4 @@ module.exports = function(app) {
         });
       });
   });
-
-  app.get("/api/homepage", function(req, res) {
-    // sequelize call
-
-    res.render("homepage");
-  });
 };

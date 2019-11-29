@@ -5,7 +5,7 @@ $(document).ready(function() {
   // and updates the HTML on the page
   $.get("/api/user_data").then(function(data) {
     $(".member-name").text(data.name);
-    console.log(`data: ${data}`);
+    console.log(`data: ${JSON.stringify(data)}`);
     console.log(`data.firstname: ${data.firstname}`);
     console.log(`data.name: ${data.name}`);
   });

@@ -4,8 +4,8 @@ console.log("/js/authentication/login.js loaded\nThis file controls the login be
 $(document).ready(function() {
     // Getting references to our form and inputs
     var loginForm = $("form.login");
-    var emailInput = $("input#email-input");
-    var passwordInput = $("input#password-input");
+    var emailInput = $("input#login-email-input");
+    var passwordInput = $("input#login-password-input");
   
     // When the form is submitted, we validate there's an email and password entered
     loginForm.on("submit", function(event) {
@@ -32,7 +32,7 @@ $(document).ready(function() {
         password: password
       })
         .then(function() {
-          window.location.replace("/members");
+          window.location.replace("homepage");
           // If there's an error, log the error
         })
         .catch(function(err) {

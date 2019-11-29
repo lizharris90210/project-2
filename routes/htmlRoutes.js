@@ -4,10 +4,15 @@ console.log(`${gradient.summer("/routes/htmlRoutes.js loaded")}\n===============
 
 require("dotenv");
 var db = require("../models");
-var isAuthenticated = require("../config/middleware/isAuthenticated"); 
+// NOT WORKING
+// var isAuthenticated = require("../config/middleware/isAuthenticated"); 
  
 module.exports = function(app) {
   app.get("/", function(req, res) {
+    res.render("index");
+  });
+
+  app.get("/login", function(req, res) {
     // If the user already has an account send them to the members page
     if (req.user) {
       res.render("homepage");
@@ -43,6 +48,6 @@ module.exports = function(app) {
 
   // Render 404 page for any unmatched routes
   app.get("*", function(req, res) {
-    res.render("404");
+    res.render("404", {layout: "404layout.handlebars"});
   });
 };
