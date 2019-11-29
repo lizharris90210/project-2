@@ -1,6 +1,11 @@
+// Validation
+const gradient = require("gradient-string");
+console.log(`${gradient.summer("/models/artist.js loaded")}\n=========================`);
+
 "use strict";
+
 module.exports = function (sequelize, DataTypes) {
-  const Artist = sequelize.define("artists", {
+  const Artist = sequelize.define("artists",{
     id: {
       type: DataTypes.INTEGER,
       autoIncrement: true,

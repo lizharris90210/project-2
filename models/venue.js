@@ -1,3 +1,7 @@
+// Validation
+const gradient = require("gradient-string");
+console.log(`${gradient.summer("/models/venue.js loaded")}\n=========================`);
+
 module.exports = function(sequelize, DataTypes) {
 const Venue = sequelize.define("venues", {
   id: {

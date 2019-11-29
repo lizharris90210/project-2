@@ -3,3 +3,9 @@
     top: 0;
     z-index: 100000;
 }
+
+.sticky-footer {
+    position: absolute fixed;
+    bottom: 0;
+    z-index: 100000;
+}

@@ -1,3 +1,7 @@
+// Validation
+const gradient = require("gradient-string");
+console.log(`${gradient.summer("/api/videos.js loaded")}\n=========================`);
+
 /* eslint-disable no-unused-vars */
 require("dotenv");
 // keys.js
@@ -6,8 +10,6 @@ const keys = require("../keys");
 //const API_KEY = keys.youtube.key;
 // eslint-disable-next-line no-unused-vars
 const search = require("youtube-search");
-// gradient string package
-var gradient = require("gradient-string");
 
 // eslint-disable-next-line no-unused-vars
 var loglog = require("./logger");
@@ -26,7 +28,7 @@ var testGenre = testData.classicRock;
 // testData.rock;
 // testData.metal;
 // testData.pop;
-console.log(gradient.vice(testGenre));
+// console.log(gradient.vice(testGenre)); <<--This logs as Object object repeatedly
 // =============================================================================
 // Youtube API
 // =============================================================================

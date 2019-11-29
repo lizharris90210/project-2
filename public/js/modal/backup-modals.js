@@ -1,3 +1,4 @@
+console.log("/js/modal/modals.js\nThis file controls the behavior of the modals");
 //  VARIABLE DECLARATION
 // ----------------------
 var modal = document.getElementById("sign-up-modal"); // Get the modal
@@ -62,7 +63,6 @@ mSubmit2.onclick = modalSubmit2;
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function (event) {
-  console.log(event.target, "Window Clicked");
   if (event.target === modal) {
     modal.style.display = "none";
   }

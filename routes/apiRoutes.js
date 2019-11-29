@@ -1,25 +1,57 @@
-// require environment variables
-require("dotenv");
-// require models
-const db = require("../models");
-// require passport
-// var passport = require("../config/passport");
-// require spotify api
-const songify = require("../api/songs");
-// require queries.js
-const query = require("../api/queries");
-// require gradient string
+// Validation
 const gradient = require("gradient-string");
+console.log(`${gradient.summer("/routes/apiRoutes.js loaded")}\n=========================`);
+
+
+require("dotenv"); // require environment variables
+var db = require("../models");// require models
+var passport = require("../config/passport"); // require passport
+
+var songify = require("../api/songs"); // require spotify api
+var query = require("../api/queries"); // require queries.js
 
 module.exports = function(app) {
-  // This is just the default route Ive been using to build the page 3 template.
-  // =============================================================================
-  // API Artist Routing
-  // =============================================================================
+  // ========================================================
+  //  BEGIN API Routing Info from Authentication Boilerplate
+  // ========================================================
+  // Using the passport.authenticate middleware with our local strategy. If the user has valid login credentials, send them to the members page.  Otherwise the user will be sent an error
+  app.post("/api/login", passport.authenticate("local"), function(req, res) {
+    res.json(req.user);
+  });
+  
+  // Route for signing up a user. The user's password is automatically hashed and stored securely thanks to how we configured our Sequelize User Model. If the user is created successfully, proceed to log the user in, otherwise send back an error
+  app.post("/api/signup", function(req, res) {
+  db.User.create({
+      email: req.body.email,
+      password: req.body.password,
+      firstname: req.body.name
+  })
+      .then(function() {
+      res.redirect(307, "/api/login");
+      })
+      .catch(function(err) {
+      res.status(401).json(err);
+      });
+  });
+  
+  // Route for getting some data about our user to be used client side
+  app.get("/api/user_data", function(req, res) {
+    if (!req.user) {
+      // The user is not logged in, send back an empty object
+      res.json({});
+    } else {
+      // Otherwise send back the user's email and id
+      // Sending back a password, even a hashed password, isn't a good idea
+      res.json({
+        email: req.user.email,
+        id: req.user.id,
+        name: req.user.firstname
+      });
+    }
+  });
+
   app.get("/api/artist/profile/:id", function(req, res) {
-    // setting the id
-    const id = req.params.id;
-    // sequelize call
+    const id = req.params.id; // setting the id
     db.artists
       .findOne({
         where: {
@@ -127,37 +159,5 @@ module.exports = function(app) {
           res.render("profiles/venues", data);
         });
       });
-  });
-
-  app.get("/api/homepage", function(req, res) {
-    // sequelize call
-
-    res.render("homepage");
-  });
-
-  // ===========================================================================
-  // END API Routing
-  // ===========================================================================
-  // Get all examples
-  app.get("/api/examples", function(req, res) {
-    db.Example.findAll({}).then(function(dbExamples) {
-      res.json(dbExamples);
-    });
-  });
-
-  // Create a new example
-  app.post("/api/examples", function(req, res) {
-    db.Example.create(req.body).then(function(dbExample) {
-      res.json(dbExample);
-    });
-  });
-
-  // Delete an example by id
-  app.delete("/api/examples/:id", function(req, res) {
-    db.Example.destroy({ where: { id: req.params.id } }).then(function(
-      dbExample
-    ) {
-      res.json(dbExample);
-    });
   });
 };
