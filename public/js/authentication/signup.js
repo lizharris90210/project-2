@@ -4,8 +4,7 @@ $(document).ready(function() {
   var emailInput = $("input#email-input");
   var passwordInput = $("input#password-input");
   var firstNameInput = $("input#first-name-input");
-  console.log(`firstNameInput: ${JSON.stringify(firstNameInput)}`);
-
+  
   // When the signup button is clicked, we validate the email and password are not blank
   signUpForm.on("submit", function(event) {
     event.preventDefault();
@@ -14,7 +13,7 @@ $(document).ready(function() {
       password: passwordInput.val().trim(),
       firstName: firstNameInput.val().trim()
     };
-    console.log(`userData: ${userData}`);
+
     if (!userData.email || !userData.password) {
       return;
     }
@@ -33,7 +32,7 @@ $(document).ready(function() {
       password: password,
       name: firstName
     })
-      .then(function(data) {
+      .then(function() {
         window.location.replace("/members");
         // If there's an error, handle it by throwing up a bootstrap alert
       })
