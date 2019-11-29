@@ -1,3 +1,7 @@
+// Validation
+const gradient = require("gradient-string");
+console.log(`${gradient.summer("/models/band.js loaded")}\n=========================`);
+
 module.exports = function(sequelize, DataTypes) {
   var Bands = sequelize.define(
     "bands",

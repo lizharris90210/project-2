@@ -1,3 +1,5 @@
+console.log("/js/design/navbar.js\nThis file controls the behavior of the header.");
+
 // When the user scrolls the page, execute myFunction
 window.onscroll = function() {navBar();};
 

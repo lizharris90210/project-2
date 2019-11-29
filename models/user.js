@@ -1,3 +1,7 @@
+// Validation
+const gradient = require("gradient-string");
+console.log(`${gradient.summer("/models/user.js loaded")}\n=========================`);
+
 // Requiring bcrypt for password hashing. Using the bcryptjs version as the regular bcrypt module sometimes causes errors on Windows machines
 var bcrypt = require("bcryptjs");
 // Creating our User model
@@ -14,6 +18,10 @@ module.exports = function(sequelize, DataTypes) {
     },
     // The password cannot be null
     password: {
+      type: DataTypes.STRING,
+      allowNull: false
+    },
+    firstname: {
       type: DataTypes.STRING,
       allowNull: false
     }

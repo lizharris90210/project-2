@@ -1,3 +1,6 @@
+console.log("/js/authentication/login.js loaded\nThis file controls the login behavior");
+
+
 $(document).ready(function() {
     // Getting references to our form and inputs
     var loginForm = $("form.login");

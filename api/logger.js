@@ -1,8 +1,9 @@
-// Logger.js logs data I pulled from Youtube and stores the data in a corresponding js file.
+// VALIDATION
+const gradient = require("gradient-string");
+console.log(`${gradient.summer("/api/logger.js")}\nLogger.js logs data pulled from Youtube and stores the data in a corresponding js file.\n\nPackages:\n- file-system\n- ../keys\n=========================`);
+
 // file system package
 const fs = require("file-system");
-// gradient string package
-const gradient = require("gradient-string");
 // keys.js import
 const keys = require("../keys");
 

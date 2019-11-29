@@ -1,3 +1,7 @@
+// Validation
+const gradient = require("gradient-string");
+console.log(`${gradient.summer("db/index.js loaded")}\n=========================`);
+
 "use strict";
 
 const fs = require("fs");

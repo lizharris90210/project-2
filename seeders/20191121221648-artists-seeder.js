@@ -1,3 +1,7 @@
+// Validation
+const gradient = require("gradient-string");
+console.log(`${gradient.summer("/seeders/20191121221648-artists-seeder.js loaded")}\n=========================`);
+
 "use strict";
 
 module.exports = {
