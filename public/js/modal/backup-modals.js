@@ -14,67 +14,28 @@ var mSubmit2 = document.getElementById("login-signupbtn"); // Get the submit but
 // ----------------------
 //  FUNCTION DECLARATION
 // ----------------------
-var closeModal = function () {
+var closeModal = function(){
   modal.style.display = "none";
 };
 
-var openModal = function () {
+var openModal = function(){
   modal.style.display = "block";
 };
 
-var modalSubmit = function () {
+var modalSubmit = function(){
   // Needs something here to get and save the email and password information into the database
-  // Getting references to our form and input
-  var emailInput = $("input#email-input");
-  var passwordInput = $("input#password-input");
-  var nameInput = $("input#first-name-input");
-
-  event.preventDefault();
-  var userData = {
-    email: emailInput.val().trim(),
-    password: passwordInput.val().trim(),
-    firstname: nameInput.val().trim()
-  };
-
-  if (!userData.email || !userData.password) {
-    return;
-  }
-  // If we have an email and password, run the signUpUser function
-  signUpUser(userData.email, userData.password, userData.firstname);
-  emailInput.val("");
-  passwordInput.val("");
-  nameInput.val("");
+  location.replace("/homepage");
 };
 
-// Does a post to the signup route. If successful, we are redirected to the members page
-// Otherwise we log any errors
-function signUpUser(email, password, firstname) {
-  $.post("/api/signup", {
-    email: email,
-    password: password,
-    name: firstname
-  })
-    .then(function () {
-      location.replace("/homepage");
-      // If there's an error, handle it by throwing up a bootstrap alert
-    })
-    .catch(handleLoginErr);
-}
-
-function handleLoginErr(err) {
-  $("#alert .msg").text(err.responseJSON);
-  $("#alert").fadeIn(500);
-}
-
-var closeModal2 = function () {
+var closeModal2 = function(){
   modal2.style.display = "none";
 };
 
-var openModal2 = function () {
+var openModal2 = function(){
   modal2.style.display = "block";
 };
 
-var modalSubmit2 = function () {
+var modalSubmit2 = function(){
   // Needs something here to get and save the email and password information into the database
   location.replace("/homepage");
 };

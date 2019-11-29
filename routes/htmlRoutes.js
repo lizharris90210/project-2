@@ -5,7 +5,7 @@ console.log(`${gradient.summer("/routes/htmlRoutes.js loaded")}\n===============
 require("dotenv");
 var db = require("../models");
 // NOT WORKING
-// var isAuthenticated = require("../config/middleware/isAuthenticated"); 
+var isAuthenticated = require("../config/middleware/isAuthenticated"); 
  
 module.exports = function(app) {
   app.get("/", function(req, res) {
@@ -20,7 +20,7 @@ module.exports = function(app) {
     res.render("index");
   });
 
-  app.get("/homepage", function(req, res) {
+  app.get("/homepage", isAuthenticated, function(req, res) {
     //set by default to pull first entry from artist table
     res.render("homepage", {layout: "profiles.handlebars"});
   });
