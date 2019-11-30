@@ -1,6 +1,6 @@
 // Validation
 var gradient = require("gradient-string");
-console.log(`${gradient.summer("/routes/htmlRoutes.js loaded")}\n=========================`);
+console.log(`${gradient.summer("/routes/htmlRoutes.js loaded\n")}=========================\n`);
 
 require("dotenv");
 var db = require("../models");

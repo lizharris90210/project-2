@@ -1,6 +1,6 @@
 // VALIDATION
 const gradient = require("gradient-string");
-console.log(`${gradient.summer("/api/queries.js")}\nThis file allows for customized sequelize queries\n=========================`);
+console.log(`${gradient.summer("/api/queries.js\n")} This file allows for customized sequelize queries\n=========================\n`);
 
 // Custom sequelize queries
 const artist = [

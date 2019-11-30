@@ -1,6 +1,6 @@
 // Validation
 const gradient = require("gradient-string");
-console.log(`${gradient.summer("/models/index.js loaded")}\n=========================`);
+console.log(`${gradient.summer("/models/index.js loaded")}\n=========================\n`);
 
 "use strict";
 

@@ -1,6 +1,6 @@
 // Validation
 const gradient = require("gradient-string");
-console.log(`${gradient.summer("/models/user.js loaded")}\n=========================`);
+console.log(`${gradient.summer("/models/user.js loaded")}\n=========================\n`);
 
 // Requiring bcrypt for password hashing. Using the bcryptjs version as the regular bcrypt module sometimes causes errors on Windows machines
 var bcrypt = require("bcryptjs");

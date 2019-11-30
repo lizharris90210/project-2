@@ -1,6 +1,6 @@
 // Validation
 const gradient = require("gradient-string");
-console.log(`${gradient.summer("/api/videos.js loaded")}\n=========================`);
+console.log(`${gradient.summer("/api/videos.js loaded\n")}=========================\n`);
 
 /* eslint-disable no-unused-vars */
 require("dotenv");
@@ -18,7 +18,6 @@ var testData = require("./tester");
 // for devOps, comment in one of the following to change the genre of videos populated. this as the genre of data pulled from testData example: testData.classicRock, testData.punk, testData.jazz etc...
 var testGenre = testData.classicRock;
 // testData.alternative;
- 
 // testData.country;
 // testData.jazz;
 // testData.punk;
@@ -28,7 +27,7 @@ var testGenre = testData.classicRock;
 // testData.rock;
 // testData.metal;
 // testData.pop;
-// console.log(gradient.vice(testGenre)); <<--This logs as Object object repeatedly
+// console.log(gradient.vice("test genre data selected\n", JSON.stringify(testGenre,null,2))); 
 // =============================================================================
 // Youtube API
 // =============================================================================
@@ -70,7 +69,7 @@ var WebSearch = {
     // ==========================================================================
 
     console.log(gradient.summer("Cue Api running"));
-    console.log(gradient.summer(JSON.stringify(testGenre,null,2)));
+    // console.log(gradient.summer(JSON.stringify(testGenre,null,2)));
     // for loop to un-nest thumbnail link
     // for (let i = 0; i < testGenre.length; i++) {
     //   let { url } = testGenre[i].thumbnails.default;

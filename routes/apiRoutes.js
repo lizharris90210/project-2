@@ -1,6 +1,6 @@
 // Validation
 const gradient = require("gradient-string");
-console.log(`${gradient.summer("/routes/apiRoutes.js loaded")}\n=========================`);
+console.log(`${gradient.summer("/routes/apiRoutes.js loaded")}\n=========================\n`);
 
 
 require("dotenv"); // require environment variables
@@ -70,9 +70,7 @@ module.exports = function(app) {
         results.genres = results.genres.split(",");
         // call the spotify api with a call back function to render the page
         songify.spotifySucks(results, function(results) {
-          var data = results;
-          //  console.log("adsfadfadfadfad",gradient.summer(data));
-          res.render("profiles/artists", data);
+          res.render("profiles/artists", {layout: "profiles", results});
         });
       });
   });
@@ -99,8 +97,7 @@ module.exports = function(app) {
         results.genres = results.genres.split(",");
         // call the spotify api with a call back function to render the page
         songify.spotifySucks(results, function(results) {
-          var data = results;
-          res.render("profiles/bands", data);
+          res.render("profiles/bands", {layout: "profiles", results});
         });
       });
   });
@@ -127,9 +124,7 @@ module.exports = function(app) {
         results.genres = results.genres.split(",");
         // call the spotify api with a call back function to render the page
         songify.spotifySucks(results, function(results) {
-          var data = results;
-          console.log(gradient.summer(data));
-          res.render("profiles/backstage", data);
+          res.render("profiles/backstage", {layout: "profiles", results});
         });
       });
   });
@@ -154,9 +149,7 @@ module.exports = function(app) {
         results.genres = results.genres.split(",");
         // call the spotify api with a call back function to render the page
         songify.spotifySucks(results, function(results) {
-          var data = results;
-          console.log(gradient.summer(data));
-          res.render("profiles/venues", data);
+          res.render("profiles/venues", {layout: "profiles", results} );
         });
       });
   });

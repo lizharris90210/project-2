@@ -38,19 +38,19 @@
         <div class="col s12 m4 l4">
             <div class="card">
                 <div class="card-image hoverable">
-                    <img class="responsive-img" src={{pic}}>
+                    <img class="responsive-img" src={{results.pic}}>
                 </div>
             </div>
             <div class="card">
                 <div class="card-content hoverable">
-                    <p>{{name}}</p>
-                    <p>{{location}}</p>
+                    <p>{{results.name}}</p>
+                    <p>{{results.location}}</p>
                 </div>
             </div>
             <div class="card hoverable">
                 <div class="card-content center-align">
                     <div class="card-title">Related Playlist</div>
-                    {{#each songs}}
+                    {{#each results.songs}}
                     {{> artist/Spotify}}
                     {{/each}}
                 </div>
@@ -58,9 +58,9 @@
             <div class="card hoverable">
                 <ul class="collection with-header">
                     <li class="collection-header center-align">Contact Info</li>
-                    <li class="collection-item">Email: {{email}}</li>
-                    <li class="collection-item">Instagram: {{instagram}}</li>
-                    <li class="collection-item">Twitter: {{twitter}}</li>
+                    <li class="collection-item">Email: {{results.email}}</li>
+                    <li class="collection-item">Instagram: {{results.instagram}}</li>
+                    <li class="collection-item">Twitter: {{results.twitter}}</li>
                 </ul>
             </div>
         </div>
@@ -68,7 +68,7 @@
             <div class="card hoverable">
                 <ul class="collection with-header center-align">
                     <li class="collection-header ">Members</li>
-                    {{#each members}}
+                    {{#each results.members}}
                     {{> band/members}}
                     {{/each}}
                 </ul>
@@ -76,7 +76,7 @@
             <div class="card hoverable">
                 <ul class="collection with-header center-align">
                     <li class="collection-header ">Past Groups</li>
-                    {{#each past_bands}}
+                    {{#each results.past_bands}}
                     {{> artist/past_bands}}
                     {{/each}}
                 </ul>
@@ -84,7 +84,7 @@
             <div class="card hoverable">
                 <ul class="collection with-header center-align">
                     <li class="collection-header ">Genres</li>
-                    {{#each genres}}
+                    {{#each results.genres}}
                     {{> artist/genres}}
                     {{/each}}
                 </ul>
@@ -96,7 +96,7 @@
             <div class="card hoverable">
                 <div class="card-content center-align">
                     <div class="card-title">Related Videos</div>
-                    {{#each videos}}
+                    {{#each results.videos}}
                     {{> artist/YT}}
                     {{/each}}
 

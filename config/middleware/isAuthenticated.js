@@ -1,6 +1,6 @@
 // Validation
 const gradient = require("gradient-string");
-console.log(`${gradient.summer("/config/middleware/isAuthenticated.js loaded")}\n\n${gradient.morning("A special thanks to Patrick is in order for helping me to get this working!!!")}\n\n=========================`);
+console.log(`${gradient.summer("/config/middleware/isAuthenticated.js loaded")}\n${gradient.morning(" A special thanks to Patrick is in order for helping me to get this working!!!")}\n=========================`);
 
 // This is middleware for restricting routes a user is not allowed to visit if not logged in
 module.exports = function(req, res, next) {
