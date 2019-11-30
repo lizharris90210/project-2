@@ -1,4 +1,4 @@
-console.log("/js/authentication/login.js loaded\nThis file controls the login behavior");
+console.log("/js/authentication/login.js loaded\nThis file controls the login behavior\n");
 
 
 $(document).ready(function() {

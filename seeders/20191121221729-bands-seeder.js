@@ -1,6 +1,6 @@
 // Validation
 const gradient = require("gradient-string");
-console.log(`${gradient.summer("/seeders/20191121221729-bands-seeder.js loaded")}\n=========================`);
+console.log(`${gradient.summer("/seeders/20191121221729-bands-seeder.js loaded")}\n=========================\n`);
 
 "use strict";
 

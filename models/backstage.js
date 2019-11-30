@@ -1,6 +1,6 @@
 // Validation
 const gradient = require("gradient-string");
-console.log(`${gradient.summer("/models/backstage.js loaded")}\n=========================`);
+console.log(`${gradient.summer("/models/backstage.js loaded")}\n=========================\n`);
 
 module.exports = function (sequelize, DataTypes) {
   const Backstage = sequelize.define("backstages", {
