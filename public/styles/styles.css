@@ -49,4 +49,7 @@ html {
   .card {
     opacity: .9;
   }
-  
+
+h4{
+  font-family: 'Megrim', cursive;
+}
