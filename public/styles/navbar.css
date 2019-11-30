@@ -5,7 +5,10 @@
 }
 
 .sticky-footer {
-    position: absolute fixed;
+    position: fixed;
+    background-color: black;
+    color: #fff;
+    width: 100%;
     bottom: 0;
     z-index: 100000;
 }
