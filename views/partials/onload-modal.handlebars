@@ -1,21 +1,65 @@
+{{!-- Photo Upload --}}
+<div id="photo-modal" class="modal">
+    <form class="modal-content">
+        <h1>You're done!  But first...</h1>
+        <h3>You should take a selfie</h3>
+        <div>
+            <button type="button" id="photo-cancel">Cancel</button>
+            <!--Button doesn't work yet-->
+            <button type="submit" id="photo-submit">Done</button>
+        </div>
+    </form>
+</div>
+
 {{!-- Preliminary Modal --}}
 <div id="preliminary-modal" class="modal">
     <form class="modal-content">
         <h1>Hold up...</h1>
-        <p>Before you get started, we just have a few more questions to ask</p>
-
-        <label for="firstname"><b>First Name</b></label>
-        <input type="text" placeholder="First Name" name="firstname" required>
-
-        <label for="lastname"><b>Last Name</b><i>(optional)</i></label>
-        <input type="text" placeholder="Last Name" name="lastname" required>
+        <p>...I have questions</p>
 
         <div>
+            <label for="lastname"><b>Last Name</b><i>(optional)</i></label>
+            <input type="text" placeholder="Last Name" name="lastname">
+        </div>
+        <div>
+            <select>
+                <p>What's your scene?</p>
+                <option selected="selected">Artist</option>
+                <option>Band</option>
+                <option>Backstage</option>
+                <option>Venue</option>
+                <option>Other</option>
+            </select>
+        </div>
+        <div>
+            <!-- Appears based on response to the previous question -->
+        </div>
+        <div>
+           <p>What's your main instrument?</p>
+            <input type="radio" id="guitar" name="drone" value="guitar"><label for="guitar">Guitar</label>
+        </div>
+        <div>
+            <p>Do you have any side instruments?</p>
+            <input type="checkbox" id="guitar" name="guitar"><label for="guitar">Guitar</label>
+        </div>
+        <div>
+            
+        </div>
+        <div>
+            
+        </div>
+        <div>
+            
+        </div>
+        <div>
+        </div>
+        <div>
             <button type="button" id="cancelbtn">Cancel</button>
-            <!--Button doesn't work yet-->
-            <button type="submit" id="signupbtn">Done</button>
+            <button type="submit" id="nextBtn">Next</button>
         </div>
     </form>
 </div>
+
+
 
 <script src='/js/modal/profile-onload-modal.js'></script>
