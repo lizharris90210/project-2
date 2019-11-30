@@ -12,10 +12,14 @@ module.exports = function(app) {
     res.render("index");
   });
 
-  app.get("/login", function(req, res) {
+  app.get("/signedup", isAuthenticated, function(req, res){
+    res.render("homepage", {layout: "firsttime.handlebars"});
+  });
+
+  app.get("/login", isAuthenticated, function(req, res) {
     // If the user already has an account send them to the members page
     if (req.user) {
-      res.render("homepage");
+      res.render("homepage", {layout: "profiles.handlebars"});
     }
     res.render("index");
   });
