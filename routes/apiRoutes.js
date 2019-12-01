@@ -7,8 +7,8 @@ require("dotenv"); // require environment variables
 var db = require("../models");// require models
 var passport = require("../migrations/passport"); // require passport
 
-var songify = require("../api/songs"); // require spotify api
-var query = require("../api/queries"); // require queries.js
+var songify = require("../Cue_Api/songs"); // require spotify api
+var query = require("../Cue_Api/queries"); // require queries.js
 
 module.exports = function(app) {
   // ========================================================

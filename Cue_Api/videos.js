@@ -14,7 +14,7 @@ const search = require("youtube-search");
 // eslint-disable-next-line no-unused-vars
 var loglog = require("./logger");
 // testData package
-var testData = require("./tester");
+var testData = require("./testerVid");
 // for devOps, comment in one of the following to change the genre of videos populated. this as the genre of data pulled from testData example: testData.classicRock, testData.punk, testData.jazz etc...
 var testGenre = testData.classicRock;
 // testData.alternative;
