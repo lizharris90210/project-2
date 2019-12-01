@@ -1,7 +1,3 @@
-// Validation
-const gradient = require("gradient-string");
-console.log(`${gradient.summer("/api/tester.js loaded")}\n=========================\n`);
-
 // data storage for data pulled from youtube api stored locally
 var testData = {
   classicRock: [

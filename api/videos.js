@@ -1,11 +1,8 @@
-// Validation
-const gradient = require("gradient-string");
-console.log(`${gradient.summer("/api/videos.js loaded\n")}=========================\n`);
-
 /* eslint-disable no-unused-vars */
 require("dotenv");
 // keys.js
 const keys = require("../keys");
+const gradient = require("gradient-string");
 
 //const API_KEY = keys.youtube.key;
 // eslint-disable-next-line no-unused-vars

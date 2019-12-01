@@ -1,8 +1,3 @@
-// Validation
-const gradient = require("gradient-string");
-console.log(`${gradient.summer("/routes/apiRoutes.js loaded")}\n=========================\n`);
-
-
 require("dotenv"); // require environment variables
 var db = require("../models");// require models
 var passport = require("../config/passport"); // require passport

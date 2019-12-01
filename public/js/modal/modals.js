@@ -1,4 +1,3 @@
-console.log("/js/modal/modals.js\nThis file controls the behavior of the modals");
 //  VARIABLE DECLARATION
 // ----------------------
 var signupModal = document.getElementById("sign-up-modal"); // Get the modal

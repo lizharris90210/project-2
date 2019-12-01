@@ -1,7 +1,3 @@
-// Validation
-const gradient = require("gradient-string");
-console.log(`${gradient.summer("/models/artist.js loaded")}\n=========================\n`);
-
 "use strict";
 
 module.exports = function (sequelize, DataTypes) {

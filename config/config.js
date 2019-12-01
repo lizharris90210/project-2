@@ -1,7 +1,3 @@
-// Validation
-const gradient = require("gradient-string");
-console.log(`${gradient.summer("/config/config.js loaded")}\n=========================\n`);
-
 require("dotenv");
 module.exports = {
   development: {

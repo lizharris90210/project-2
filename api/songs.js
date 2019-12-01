@@ -1,7 +1,3 @@
-// VALIDATION
-const gradient = require("gradient-string");
-console.log(`${gradient.summer("/api/songs.js")}\n Packages:\n - ../keys\n - ./videos\n - node-spotify-api\n=========================`);
-
 require("dotenv");
 const keys = require("../keys");
 const tube = require("./videos");
