@@ -19,19 +19,16 @@
             
             <!-- Dropdown for Settings/Logout/Etc-->
             <li>
-                <a class="dropdown-trigger" href="#!" data-target="dropdown1">
-                    <!-- UP NEXT: Profile Image Thumbnail Here -->
-                    Profile<i class="material-icons right">arrow_drop_down</i>
-                </a>
-
-                <!-- Dropdown Structure -->
-                <ul id="dropdown1" class="dropdown-content">
-                    <li><a href="/settings">Settings</a></li>
-                    <li></li>
-                    {{!-- <li class="divider"></li> --}}
-                    <li><a href="/logout">Logout</a></li>
-                </ul>
-
+                <div class="dropdown">
+                    <button class="dropbtn">
+                        Dropdown <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        <a href="#">Link 1</a>
+                        <a href="#">Link 2</a>
+                        <a href="#">Link 3</a>
+                    </div>
+                </div> 
             </li>
         </ul>
     </div>
