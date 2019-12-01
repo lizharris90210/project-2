@@ -2,7 +2,7 @@
 
 ## A social media app for musicians and music industry professionals
 
-### Installation
+Presently, there are several options for social networks, but none cater specifically to the music industry. Cue serves musicians, industry professionals, and venues to connect the community and meet like-minded people. Whether a musician is looking for a band to join, a lighting-technician wants a job with a tour or venue, or an artist wants a personal page to post songs and list gig dates, Cue connects them all. 
 
 ### Usage
 
@@ -14,16 +14,19 @@ Spice this up with code blocks and potentially more screenshots.
 
 ### Technology Used
 
-Javascript
-JQuery
-AJAX
-CSS
-Bootstrap
-Sequelize
-Google Fonts
-Parallax
-Express
-ESLint
+- Javascript
+- JQuery
+- AJAX
+- CSS
+- Bootstrap
+- Sequelize
+- MySql Workbench
+- Google Fonts
+- Parallax
+- Express
+- ESLint
+- Travis CI
+- Handlebars
 
 ### Release History
 
@@ -45,3 +48,7 @@ ESLint
   - [GitHub](https://github.com/lizharris90210)
 
 #### [Project 2 for UNC Coding Bootcamp](https://github.com/lizharris90210/project-2)
+
+### Credits
+
+Thanks to the teachers, TAs, tutors, stackoverflow, and classmates for their support and knowledge. Thanks also to Jimmy Johns, who have the best pickles.
