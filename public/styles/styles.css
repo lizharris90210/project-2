@@ -39,4 +39,16 @@ html {
   .col {
     margin: 10px;
   }
-  
+  /* Spotify and Youtube images */
+  .spotify, .youtube {
+    max-width: 120px;
+    max-height: 90px;
+
+  }
+  .card {
+    opacity: .9;
+  }
+
+h4{
+  font-family: 'Megrim', cursive;
+}

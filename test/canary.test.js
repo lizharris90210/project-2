@@ -1,3 +1,7 @@
+// Validation
+const gradient = require("gradient-string");
+console.log(`${gradient.summer("/test/canary.test.js loaded")}\n=========================\n`);
+
 var expect = require("chai").expect;
 
 describe("canary test", function () {

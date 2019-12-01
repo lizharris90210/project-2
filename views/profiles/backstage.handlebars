@@ -1,0 +1,125 @@
+{{!--// ============================================================================= --}}
+{{!--// Navbar --}}
+{{!--// =============================================================================--}}
+
+<nav>
+    <div class="nav-wrapper black">
+        {{{logo}}}
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+            {{!-- <li><a href="/homepage">Our Mission</a></li> --}}
+            {{!-- <li><a href="/login">Login</a></li> --}}
+            {{!-- <li><button id="sign-up-button">Sign Up</button></li><!--Changed to a button while I fiddled with modals--> --}}
+        </ul>
+    </div>
+</nav>
+
+<div class="parallax-container">
+    <div class="container">
+        <div class="row">
+            <div class="col l8 s12 white-text">
+                <h4 class="thin-text valign">HomePage</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col 14">
+                <a class="waves-effect waves-light btn-large hoverable black">Link</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="parallax">
+        <img src="/images/img038 copy.jpg" alt="Picture of band">
+    </div>
+</div>
+
+
+<div class="container animated fadeIn">
+    <div class="row">
+        <div class="col s12 m4 l4">
+            <div class="card">
+                <div class="card-image hoverable">
+                    <img class="responsive-img" src={{results.pic}}>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-content hoverable">
+                    <p>{{results.name}}</p>
+                    <p>{{results.location}}</p>
+                </div>
+            </div>
+            <div class="card hoverable">
+                <div class="card-content center-align">
+                    <div class="card-title">Related Playlist</div>
+                    {{#each results.songs}}
+                    {{> artist/Spotify}}
+                    {{/each}}
+
+                </div>
+            </div>
+        </div>
+        <div class="col s12 m4 l3">
+            <div class="card hoverable">
+                <ul class="collection with-header center-align">
+                    <li class="collection-header ">Equipment</li>
+                    {{#each results.equipment}}
+                    {{> backstage/equipment}}
+                    {{/each}}
+                </ul>
+            </div>
+            <div class="card hoverable">
+                <ul class="collection with-header center-align">
+                    <li class="collection-header ">Experience</li>
+                    {{#each results.experience}}
+                    {{> backstage/experience}}
+                    {{/each}}
+                </ul>
+            </div>
+            <div class="card hoverable">
+                <ul class="collection with-header center-align">
+                    <li class="collection-header ">Genres</li>
+                    {{#each results.genres}}
+                    {{> artist/genres}}
+                    {{/each}}
+                </ul>
+            </div>
+            <div class="card hoverable">
+                <ul class="collection with-header">
+                    <li class="collection-header center-align">Contact Info</li>
+                    <li class="collection-item">Email: {{results.email}}</li>
+                    <li class="collection-item">Instagram: {{results.instagram}}</li>
+                    <li class="collection-item">Twitter: {{results.twitter}}</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col s12 m4 l4">
+            <div class="card hoverable">
+                <div class="card-content center-align">
+                    <div class="card-title">Related Videos</div>
+                    {{#each results.videos}}
+                    {{> artist/YT}}
+                    {{/each}}
+
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="parallax-container valign-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="column l10 offset-l1 valign">
+                <h2 class="center-align white-text cta">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Incidunt, suscipit natus. Perferendis perspiciatis minima non possimus omnis, voluptatem nemo,
+                    ex
+                    autem ratione quaerat repellendus blanditiis! Saepe, pariatur! Exercitationem, odio unde.</h2>
+                <a href="#" class="center btn-large hoverable black">text</a>
+            </div>
+        </div>
+    </div>
+    <div class="parallax"><img src="/images/band.jpg"></div>
+</div>

@@ -1,3 +1,4 @@
+console.log("/js/input.js loaded\nDon't know what this file does.\n");
 $(".create-form").on("NewArtistSubmit", function(event) {
   event.preventDefault();
   var newArtist = {

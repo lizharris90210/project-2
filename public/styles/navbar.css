@@ -3,3 +3,12 @@
     top: 0;
     z-index: 100000;
 }
+
+.sticky-footer {
+    position: fixed;
+    background-color: black;
+    color: #fff;
+    width: 100%;
+    bottom: 0;
+    z-index: 100000;
+}
