@@ -5,7 +5,7 @@ console.log(`${gradient.summer("/routes/apiRoutes.js loaded")}\n================
 
 require("dotenv"); // require environment variables
 var db = require("../models");// require models
-var passport = require("../config/passport"); // require passport
+var passport = require("../migrations/passport"); // require passport
 
 var songify = require("../api/songs"); // require spotify api
 var query = require("../api/queries"); // require queries.js

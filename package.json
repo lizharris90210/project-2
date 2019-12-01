@@ -4,7 +4,7 @@
   "description": "Project 2 Starter",
   "main": "server.js",
   "scripts": {
-    "start": "node_modules/nodemon/bin/nodemon.js server",
+    "start": "node server",
     "lint": "eslint --quiet .",
     "fix": "eslint --fix .",
     "test": "npm run lint && cross-env NODE_ENV=test mocha -u bdd --reporter spec --exit"
