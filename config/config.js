@@ -1,8 +1,6 @@
 // Validation
-const gradient = require("gradient-string");
-console.log(`${gradient.summer("/config/config.js loaded")}\n=========================\n`);
+require("dotenv").config();
 
-require("dotenv");
 module.exports = {
   development: {
     username: process.env.DB_USER,
@@ -21,7 +19,7 @@ module.exports = {
   },
   production: {
     // eslint-disable-next-line camelcase
-    use_env_variable: "JAWSDB_URL",
+    use_env_variable: "JAWSDB_GRAY_URL",
     dialect: "mysql"
   }
 };
