@@ -2,7 +2,7 @@
 
 ## A social media app for musicians and music industry professionals
 
-Presently, there are several options for social networks, but none cater specifically to the music industry. Cue serves musicians, industry professionals, and venues to connect the community and meet like-minded people. Whether a musician is looking for a band to join, a lighting-technician wants a job with a tour or venue, or an artist wants a personal page to post songs and list gig dates, Cue connects them all. 
+Presently, there are several options for social networks, but none cater specifically to the music industry. Cue serves musicians, industry professionals, and venues to connect the community and meet like-minded people. Whether a musician is looking for a band to join, a lighting-technician wants a job with a tour or venue, or an artist wants a personal page to post songs and list gig dates, Cue connects them all.
 
 ### Usage
 
@@ -14,19 +14,21 @@ Spice this up with code blocks and potentially more screenshots.
 
 ### Technology Used
 
-- Javascript
-- JQuery
-- AJAX
-- CSS
-- Bootstrap
-- Sequelize
-- MySql Workbench
-- Google Fonts
-- Parallax
-- Express
-- ESLint
-- Travis CI
-- Handlebars
+Express
+ESLint
+Travis CI
+Handlebars
+bcrypt.js
+Spotify API
+Youtube API
+Javascript
+JQuery
+AJAX
+CSS
+Sequelize
+MySql Workbench
+Parallax
+Passport
 
 ### Release History
 
@@ -34,18 +36,10 @@ Spice this up with code blocks and potentially more screenshots.
 
 ### Meta
 
-- Hilary Lamb
-  - Email
-  - [Github](https://github.com/hilarykathleen)
-- Armon Roberts
-  - Email
-  - [Github](http://github.com/armonkahil)
-- Jackson Pearce
-  - Email
-  - [Github](http://github.com/Jackson-Pearce)
-- Liz Harris
-  - [Email](lizharris90210@gmail.com)
-  - [GitHub](https://github.com/lizharris90210)
+ - [Hilary Lamb](https://github.com/hilarykathleen)
+ - [Armon Roberts](http://github.com/armonkahil)
+ - [Jackson Pearce](http://github.com/Jackson-Pearce)
+ - [Liz Harris](https://github.com/lizharris90210)
 
 #### [Project 2 for UNC Coding Bootcamp](https://github.com/lizharris90210/project-2)
 
