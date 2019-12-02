@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 require("dotenv");
+=======
+// Validation
+require("dotenv").config();
+
+>>>>>>> 961256a6baf525e53d6396b8717c6c1ce2b1dbcc
 module.exports = {
   development: {
     username: process.env.DB_USER,
@@ -17,7 +23,7 @@ module.exports = {
   },
   production: {
     // eslint-disable-next-line camelcase
-    use_env_variable: "JAWSDB_URL",
+    use_env_variable: "JAWSDB_GRAY_URL",
     dialect: "mysql"
   }
 };

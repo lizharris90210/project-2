@@ -4,7 +4,7 @@ var exphbs = require("express-handlebars");
 var session = require("express-session"); // Required for passport (username/pw authentication)
 var gradient = require("gradient-string");
 
-var passport = require("./config/passport"); // Required for passport (username/pw authentication)
+var passport = require("./migrations/passport"); // Required for passport (username/pw authentication)
 
 var PORT = process.env.PORT || 3000;
 var db = require("./models");

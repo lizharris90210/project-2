@@ -52,3 +52,42 @@ html {
 h4{
   font-family: 'Megrim', cursive;
 }
+
+div.shape-img {
+  position: relative;
+  margin-top: -50px;
+  margin-bottom: -150px;
+}
+
+div.sync-txt {
+  position: relative;
+  margin-bottom: -50px;
+}
+
+div.text-collab {
+  margin-top: -300px;
+  position: relative;
+  right: 150px;
+  top: 50px;
+}
+
+div.section-one {
+  position: relative;
+  left: 400px;
+}
+
+p.paragraph-vision {
+  position: relative;
+}
+
+div.on-txt {
+  position: relative;
+  margin-top: -800px;
+  right: -450px;
+}
+
+div.cue-txt {
+  position: relative;
+  right: -200px;
+  margin-top: -50px;
+}

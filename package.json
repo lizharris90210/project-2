@@ -1,10 +1,10 @@
 {
-  "name": "handlebars-boilerplate",
+  "name": "Cue_App",
   "version": "1.0.0",
-  "description": "Project 2 Starter",
+  "description": "Social Network",
   "main": "server.js",
   "scripts": {
-    "start": "node_modules/nodemon/bin/nodemon.js server",
+    "start": "node server.js",
     "lint": "eslint --quiet .",
     "fix": "eslint --fix .",
     "test": "npm run lint && cross-env NODE_ENV=test mocha -u bdd --reporter spec --exit"

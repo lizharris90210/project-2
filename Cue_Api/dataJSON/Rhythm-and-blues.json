@@ -1,0 +1,379 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "description": "Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXaOWYud3Cg4V"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXaOWYud3Cg4V",
+      "id": "37i9dQZF1DXaOWYud3Cg4V",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f000000024c8291061440e9470181360b",
+          "width": null
+        }
+      ],
+      "name": "The Birth of Rhythm & Blues",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU2NzY3NTIzMCwwMDAwMDAxNzAwMDAwMTY4YzQ4YWYwNDUwMDAwMDE2ZDAwYjlhYTNm",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXaOWYud3Cg4V/tracks",
+        "total": 44
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXaOWYud3Cg4V",
+      "pic": "https://i.scdn.co/image/ab67706f000000024c8291061440e9470181360b"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3ZTxRbVhCbG17A77N547Hd"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3ZTxRbVhCbG17A77N547Hd",
+      "id": "3ZTxRbVhCbG17A77N547Hd",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/9176d7f11b78b2ff85a66588b44e84bd1895fbda",
+          "width": null
+        }
+      ],
+      "name": "Rhythm and Blues",
+      "owner": {
+        "display_name": "jake",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xfdsz0fdmm7llhmyg7k3b9oed"
+        },
+        "href": "https://api.spotify.com/v1/users/xfdsz0fdmm7llhmyg7k3b9oed",
+        "id": "xfdsz0fdmm7llhmyg7k3b9oed",
+        "type": "user",
+        "uri": "spotify:user:xfdsz0fdmm7llhmyg7k3b9oed"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "NzAsZTIzN2QxYTkzZmI0MWYxZTY2NTBkMzM1MWMyMjQ0MTZkZWMzN2ZhYQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3ZTxRbVhCbG17A77N547Hd/tracks",
+        "total": 52
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3ZTxRbVhCbG17A77N547Hd",
+      "pic": "https://pl.scdn.co/images/pl/default/9176d7f11b78b2ff85a66588b44e84bd1895fbda"
+    }
+  ],
+  "videos": [
+    {
+      "id": "n4RjJKxsamQ",
+      "link": "https://www.youtube.com/watch?v=n4RjJKxsamQ",
+      "kind": "youtube#video",
+      "publishedAt": "2009-11-01T09:42:41.000Z",
+      "channelId": "UCqfmagAXUrUTHpJldTPRseg",
+      "channelTitle": "ScorpionsVEVO",
+      "title": "Scorpions - Wind Of Change (Official Music Video)",
+      "description": "Best of Scorpions: https://goo.gl/dtfDmo Subscribe here: https://goo.gl/jQbFpy Music video by Scorpions performing Wind Of Change. (C) 1991 The Island Def ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n4RjJKxsamQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n4RjJKxsamQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n4RjJKxsamQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/n4RjJKxsamQ/default.jpg"
+    },
+    {
+      "id": "2X_2IdybTV0",
+      "link": "https://www.youtube.com/watch?v=2X_2IdybTV0",
+      "kind": "youtube#video",
+      "publishedAt": "2012-12-06T02:50:47.000Z",
+      "channelId": "UCD58rE0B2PDe3se2nCv1yRA",
+      "channelTitle": "kansasVEVO",
+      "title": "Kansas - Carry On Wayward Son (Official Audio)",
+      "description": "Playlist Best of Kansas: https://goo.gl/LK42Ru Subscribe for more: https://goo.gl/VHTUin Kansas' official audio for 'Carry On Wayward Son'. Click to listen to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2X_2IdybTV0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2X_2IdybTV0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2X_2IdybTV0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/2X_2IdybTV0/default.jpg"
+    },
+    {
+      "id": "VcjzHMhBtf0",
+      "link": "https://www.youtube.com/watch?v=VcjzHMhBtf0",
+      "kind": "youtube#video",
+      "publishedAt": "2010-10-20T00:20:44.000Z",
+      "channelId": "UCoehRqkqt8QGZCWPrXxltXg",
+      "channelTitle": "journeyVEVO",
+      "title": "Journey - Don&#39;t Stop Believin&#39; (Live in Houston)",
+      "description": "Journey's official live video for 'Don't Stop Believin'' performed in Houston. Click to listen to Journey on Spotify: http://smarturl.it/JourneySpot?IQid=JouDSBliveH ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VcjzHMhBtf0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VcjzHMhBtf0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VcjzHMhBtf0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/VcjzHMhBtf0/default.jpg"
+    },
+    {
+      "id": "WyF8RHM1OCg",
+      "link": "https://www.youtube.com/watch?v=WyF8RHM1OCg",
+      "kind": "youtube#video",
+      "publishedAt": "2009-02-27T22:16:25.000Z",
+      "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+      "channelTitle": "RHINO",
+      "title": "Whitesnake - Here I Go Again &#39;87 (Official Music Video)",
+      "description": "You're watching the official music video for Whitesnake - \"Here I Go Again '87\" from the album 'Whitesnake'. \"Here I Go Again\" reached No. 1 on the Billboard ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WyF8RHM1OCg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WyF8RHM1OCg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WyF8RHM1OCg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/WyF8RHM1OCg/default.jpg"
+    },
+    {
+      "id": "xiC__IjCa2s",
+      "link": "https://www.youtube.com/watch?v=xiC__IjCa2s",
+      "kind": "youtube#video",
+      "publishedAt": "2012-06-04T23:44:58.000Z",
+      "channelId": "UCI5tGbwiVHy4BsZUXcSWvwQ",
+      "channelTitle": "chicagomusicexchange",
+      "title": "100 Riffs (A Brief History of Rock N&#39; Roll)",
+      "description": "Alex Chadwick plays 100 famous guitar riffs in one take giving you a chronological history of rock n' roll. http://100riffs.com See the full detailed list of all the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xiC__IjCa2s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xiC__IjCa2s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xiC__IjCa2s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/xiC__IjCa2s/default.jpg"
+    },
+    {
+      "id": "dJe1iUuAW4M",
+      "link": "https://www.youtube.com/watch?v=dJe1iUuAW4M",
+      "kind": "youtube#video",
+      "publishedAt": "2011-01-31T04:42:25.000Z",
+      "channelId": "UC9V5v_c7ga7jFsOm8r07yRQ",
+      "channelTitle": "2chann",
+      "title": "Doobie Brothers ~ What A fool Believes (1979) Classic Rock R&amp;B Pop",
+      "description": "Doobie Brothers: https://thedoobiebrothers.com/ itunes: https://itunes.apple.com/us/artist/the-doobie-brothers/id117992093 What a Fool Believes\" is a song ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dJe1iUuAW4M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dJe1iUuAW4M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dJe1iUuAW4M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/dJe1iUuAW4M/default.jpg"
+    },
+    {
+      "id": "JkhX5W7JoWI",
+      "link": "https://www.youtube.com/watch?v=JkhX5W7JoWI",
+      "kind": "youtube#video",
+      "publishedAt": "2008-06-16T17:43:29.000Z",
+      "channelId": "UCIqAgiBgpjltQ-nSYKJMIeA",
+      "channelTitle": "ClassicRockMusic",
+      "title": "Money - Pink Floyd + Lyrics",
+      "description": "Lyrics* Money (Waters) 6:32 Money, get away. Get a good job with good pay and you're okay. Money, it's a gas. Grab that cash with both hands and make a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JkhX5W7JoWI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JkhX5W7JoWI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JkhX5W7JoWI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/JkhX5W7JoWI/default.jpg"
+    },
+    {
+      "id": "swPt9HBRXuE",
+      "link": "https://www.youtube.com/watch?v=swPt9HBRXuE",
+      "kind": "youtube#video",
+      "publishedAt": "2009-02-27T22:16:37.000Z",
+      "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+      "channelTitle": "RHINO",
+      "title": "Whitesnake - Still of the Night (Official Music Video)",
+      "description": "You're watching the official music video for Whitesnake - \"Still of the Night\" from the album 'Whitesnake' (1987) Subscribe to the Rhino Channel!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/swPt9HBRXuE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/swPt9HBRXuE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/swPt9HBRXuE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/swPt9HBRXuE/default.jpg"
+    },
+    {
+      "id": "b6iBclM2CkI",
+      "link": "https://www.youtube.com/watch?v=b6iBclM2CkI",
+      "kind": "youtube#video",
+      "publishedAt": "2018-09-22T03:42:43.000Z",
+      "channelId": "UC3t8VzN8aICGfFmOSVTeBmQ",
+      "channelTitle": "SoundMix Dj【ツ】HD",
+      "title": "Classic Rock Greatest Hits 60s,70s,80s || Rock Clasicos Universal - Vol.2",
+      "description": "The Best of Rock of the 60s, 70s, 80s, Classic Rock Greatest Hits Rock Clásicos Universales , 3 Décadas de Rock and Roll ----- Classic Rock Greatest Hits ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b6iBclM2CkI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b6iBclM2CkI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b6iBclM2CkI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/b6iBclM2CkI/default.jpg"
+    },
+    {
+      "id": "qjuEXKwnkLE",
+      "link": "https://www.youtube.com/watch?v=qjuEXKwnkLE",
+      "kind": "youtube#video",
+      "publishedAt": "2019-01-18T09:00:05.000Z",
+      "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+      "channelTitle": "RHINO",
+      "title": "Skid Row - I Remember You (Official Music Video)",
+      "description": "You're watching the official music video for Skid Row - 'I Remember You' from the 1989 album 'Skid Row'. Released as the third single from 'Skid Row', ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qjuEXKwnkLE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qjuEXKwnkLE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qjuEXKwnkLE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/qjuEXKwnkLE/default.jpg"
+    }
+  ]
+}
