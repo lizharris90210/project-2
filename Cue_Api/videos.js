@@ -17,6 +17,7 @@ const search = require("youtube-search");
 var loglog = require("./logger");
 // testData package
 var testData = require("./testerVid");
+var newGenre = keys.subject.genre;
 // =============================================================================
 // Youtube API
 // =============================================================================
@@ -37,15 +38,15 @@ var WebSearch = {
     //   order: "viewCount",
     //   type: "video"
     // };
-    // search(keys.subject.genres, opts, function(err, results) {
+    // console.log("current genre", newGenre);
+    // search(keys.subject.genre, opts, function(err, results) {
     //   if (err) return console.log(err);
     //   for (let i = 0; i < results.length; i++) {
     //     let { url } = results[i].thumbnails.default;
     //     results[i].vidIMG = url;
     //   }
-    //   console.log(results);
+    //   console.log(gradient.rainbow(JSON.stringify(results, null, 2)));
     //   subject.videos = results;
-    //   console. cb(subject);
     //   loglog.logger(subject);
     //   cb(subject);
     // });
@@ -55,16 +56,8 @@ var WebSearch = {
     // still sources Spotify, but will be fully self-sufficient by Friday evening
     // ==========================================================================
 
-    //console.log(gradient.summer("Cue Api running"));
-    // console.log(gradient.summer(JSON.stringify(testGenre,null,2)));
-    // for loop to un-nest thumbnail link
-    // for (let i = 0; i < testGenre.length; i++) {
-    //   let { url } = testGenre[i].thumbnails.default;
-    //   testGenre[i].vidIMG = url;
-    // }
-    //
-    // loglog.logger(subject);
-    console.log(subject.genres[0]);
+    console.log(gradient.summer("Cue Api running"));
+    // console.log(subject.genres[0]);
     switch (subject.genres[0]) {
       case "alternative":
         subject.videos = testData.alternative;

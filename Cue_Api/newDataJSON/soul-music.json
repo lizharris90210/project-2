@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "KUmZp8pR1uc",
+      "link": "https://www.youtube.com/watch?v=KUmZp8pR1uc",
+      "kind": "youtube#video",
+      "publishedAt": "2009-12-23T17:41:04.000Z",
+      "channelId": "UCHai12P6Gh7PaIYZGnzyrSA",
+      "channelTitle": "AmyWinehouseVEVO",
+      "title": "Amy Winehouse - Rehab",
+      "description": "Get AMY OST now: http://po.st/AMYOST3 Listen back to 'Frank', 'Back To Black', and 'Lioness: Hidden Treasures', the Amy Winehouse albums, now: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KUmZp8pR1uc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KUmZp8pR1uc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KUmZp8pR1uc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/KUmZp8pR1uc/default.jpg"
+    },
+    {
+      "id": "COiIC3A0ROM",
+      "link": "https://www.youtube.com/watch?v=COiIC3A0ROM",
+      "kind": "youtube#video",
+      "publishedAt": "2009-09-20T12:33:27.000Z",
+      "channelId": "UCBdtc2bB4hfb2f7rIwkVvCA",
+      "channelTitle": "Sunshine Sound",
+      "title": "Al Green - Let&#39;s Stay Together",
+      "description": "\"Let's Stay Together\" performed by Al Green Lyrics: I, I'm I'm so in love with you Whatever you want to do Is all right with me Cause you make me feel so brand ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/COiIC3A0ROM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/COiIC3A0ROM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/COiIC3A0ROM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/COiIC3A0ROM/default.jpg"
+    },
+    {
+      "id": "KtBbyglq37E",
+      "link": "https://www.youtube.com/watch?v=KtBbyglq37E",
+      "kind": "youtube#video",
+      "publishedAt": "2010-10-30T10:19:08.000Z",
+      "channelId": "UCqphStoS_KA2cGYX_Z-PMYQ",
+      "channelTitle": "Ioanna17",
+      "title": "Aretha Franklin - I say a little prayer",
+      "description": "Lyrics: The moment I wake up Before I put on my makeup I say a little pray for you While combing my hair now, And wondering what dress to wear now, I say a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KtBbyglq37E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KtBbyglq37E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KtBbyglq37E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/KtBbyglq37E/default.jpg"
+    },
+    {
+      "id": "x6QZn9xiuOE",
+      "link": "https://www.youtube.com/watch?v=x6QZn9xiuOE",
+      "kind": "youtube#video",
+      "publishedAt": "2010-07-22T20:18:53.000Z",
+      "channelId": "UCTvx0hgT3g8vDFjzTdmr1VQ",
+      "channelTitle": "Boblet233",
+      "title": "Marvin Gaye - Lets get it on",
+      "description": "Marvin Gaye - Lets get it on.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x6QZn9xiuOE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x6QZn9xiuOE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x6QZn9xiuOE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/x6QZn9xiuOE/default.jpg"
+    },
+    {
+      "id": "TB54dZkzZOY",
+      "link": "https://www.youtube.com/watch?v=TB54dZkzZOY",
+      "kind": "youtube#video",
+      "publishedAt": "2009-03-06T14:06:37.000Z",
+      "channelId": "UCaC8UhMxJFUx2hpg1uVnmfA",
+      "channelTitle": "SoulIISoulVEVO",
+      "title": "Soul II Soul - Back To Life (Official Video)",
+      "description": "Listen to more SoulIISoul https://SoulIISoul.lnk.to/Essentials Official video of Soul II Soul performing Back To Life (However Do You Want Me) from the album ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TB54dZkzZOY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TB54dZkzZOY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TB54dZkzZOY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/TB54dZkzZOY/default.jpg"
+    },
+    {
+      "id": "RCMXO9sBIcU",
+      "link": "https://www.youtube.com/watch?v=RCMXO9sBIcU",
+      "kind": "youtube#video",
+      "publishedAt": "2016-04-15T17:57:51.000Z",
+      "channelId": "UC26zQlW7dTNcyp9zKHVmv4Q",
+      "channelTitle": "HDSounDI",
+      "title": "Most Beautiful Music Ever: &quot;Everdream&quot; by Epic Soul Factory",
+      "description": "Subscribe: http://hdsoundi.com/go/subscribe Download (Bandcamp): http://bit.ly/2lAM1j4 Download (iTunes): http://apple.co/2lB79pp Music by: Epic Soul Factory ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RCMXO9sBIcU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RCMXO9sBIcU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RCMXO9sBIcU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/RCMXO9sBIcU/default.jpg"
+    },
+    {
+      "id": "R8GCc8OhTz8",
+      "link": "https://www.youtube.com/watch?v=R8GCc8OhTz8",
+      "kind": "youtube#video",
+      "publishedAt": "2009-07-13T18:38:03.000Z",
+      "channelId": "UC7dd3Fl8UFTr3yyTnRhu8dg",
+      "channelTitle": "Reggae Life",
+      "title": "Bob Marley - Satisfy My Soul",
+      "description": "Bob Marley & The Wailers performing; Satisfy My Soul Lyrics: Oh, please don't you rock my boat (don't rock my boat) Because I don't want my boat to be rocking ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R8GCc8OhTz8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R8GCc8OhTz8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R8GCc8OhTz8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/R8GCc8OhTz8/default.jpg"
+    },
+    {
+      "id": "HaC0s-FP-r4",
+      "link": "https://www.youtube.com/watch?v=HaC0s-FP-r4",
+      "kind": "youtube#video",
+      "publishedAt": "2014-06-30T00:36:40.000Z",
+      "channelId": "UCiXsh6CVvfigg8psfsTekUA",
+      "channelTitle": "AerosmithVEVO",
+      "title": "Aerosmith - Hole In My Soul",
+      "description": "Aerosmith's official music video for 'Hole In My Soul'. Click to listen to Aerosmith on Spotify: http://smarturl.it/AerosmithSpot?IQid=AeroHIMS As featured on Nine ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HaC0s-FP-r4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HaC0s-FP-r4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HaC0s-FP-r4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/HaC0s-FP-r4/default.jpg"
+    },
+    {
+      "id": "_m0bI82Rz_k",
+      "link": "https://www.youtube.com/watch?v=_m0bI82Rz_k",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-27T02:56:22.000Z",
+      "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
+      "channelTitle": "Atlantic Records",
+      "title": "Collective Soul - Shine (Official Video)",
+      "description": "The official video of \"Shine\" by Collective Soul from the album \"Hints, Allegations & Things Left Unsaid\". Subscribe for more official content from Atlantic Records: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_m0bI82Rz_k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_m0bI82Rz_k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_m0bI82Rz_k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/_m0bI82Rz_k/default.jpg"
+    },
+    {
+      "id": "ek2PDE1cAyY",
+      "link": "https://www.youtube.com/watch?v=ek2PDE1cAyY",
+      "kind": "youtube#video",
+      "publishedAt": "2014-08-19T22:33:48.000Z",
+      "channelId": "UCTnEJET2xJSHgi8yy3Ti9aQ",
+      "channelTitle": "JesseMcCartneyVEVO",
+      "title": "Jesse McCartney - Beautiful Soul (Official Video)",
+      "description": "\"Watch the official music video for \"\"Beautiful Soul\"\" performed by Jesse McCartney Music video by Jesse McCartney performing Beautiful Soul.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ek2PDE1cAyY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ek2PDE1cAyY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ek2PDE1cAyY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/ek2PDE1cAyY/default.jpg"
+    }
+  ]
+}

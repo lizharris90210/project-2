@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "n4RjJKxsamQ",
+      "link": "https://www.youtube.com/watch?v=n4RjJKxsamQ",
+      "kind": "youtube#video",
+      "publishedAt": "2009-11-01T09:42:41.000Z",
+      "channelId": "UCqfmagAXUrUTHpJldTPRseg",
+      "channelTitle": "ScorpionsVEVO",
+      "title": "Scorpions - Wind Of Change (Official Music Video)",
+      "description": "Best of Scorpions: https://goo.gl/dtfDmo Subscribe here: https://goo.gl/jQbFpy Music video by Scorpions performing Wind Of Change. (C) 1991 The Island Def ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n4RjJKxsamQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n4RjJKxsamQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n4RjJKxsamQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/n4RjJKxsamQ/default.jpg"
+    },
+    {
+      "id": "f4Mc-NYPHaQ",
+      "link": "https://www.youtube.com/watch?v=f4Mc-NYPHaQ",
+      "kind": "youtube#video",
+      "publishedAt": "2008-09-01T13:33:06.000Z",
+      "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+      "channelTitle": "Queen Official",
+      "title": "Queen - I Want To Break Free (Official Video)",
+      "description": "Click here to buy the DVD with this video at the Official Queen Store: http://www.queenonlinestore.com The official 'I Want To Break Free' music video.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f4Mc-NYPHaQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f4Mc-NYPHaQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f4Mc-NYPHaQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/f4Mc-NYPHaQ/default.jpg"
+    },
+    {
+      "id": "TLV4_xaYynY",
+      "link": "https://www.youtube.com/watch?v=TLV4_xaYynY",
+      "kind": "youtube#video",
+      "publishedAt": "2012-10-05T07:00:10.000Z",
+      "channelId": "UCXQWf0KEholU1zS7LElUBrA",
+      "channelTitle": "JimiHendrixVEVO",
+      "title": "The Jimi Hendrix Experience - All Along The Watchtower (Audio)",
+      "description": "Listen to the official audio for \"All Along The Watchtower\" by The Jimi Hendrix Experience Click to subscribe: http://smarturl.it/SubscribeJHVevo?IQ... Taken from ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TLV4_xaYynY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TLV4_xaYynY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TLV4_xaYynY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/TLV4_xaYynY/default.jpg"
+    },
+    {
+      "id": "VMnjF1O4eH0",
+      "link": "https://www.youtube.com/watch?v=VMnjF1O4eH0",
+      "kind": "youtube#video",
+      "publishedAt": "2008-08-01T12:29:43.000Z",
+      "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+      "channelTitle": "Queen Official",
+      "title": "Queen - Fat Bottomed Girls (Official Video)",
+      "description": "Taken from Jazz, 1978 and Greatest Video Hits 1. Click here to buy the DVD with this video at the Official Queen Store: http://www.queenonlinestore.com ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VMnjF1O4eH0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VMnjF1O4eH0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VMnjF1O4eH0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/VMnjF1O4eH0/default.jpg"
+    },
+    {
+      "id": "SRwrg0db_zY",
+      "link": "https://www.youtube.com/watch?v=SRwrg0db_zY",
+      "kind": "youtube#video",
+      "publishedAt": "2010-08-04T00:57:48.000Z",
+      "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+      "channelTitle": "RHINO",
+      "title": "Twisted Sister - I Wanna Rock (Official Music Video)",
+      "description": "You're watching the official music video for Twisted Sister - \"I Wanna Rock\" from the album 'Stay Hungry' (1984). \"I Wanna Rock\" was featured on VH1's list of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SRwrg0db_zY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SRwrg0db_zY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SRwrg0db_zY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/SRwrg0db_zY/default.jpg"
+    },
+    {
+      "id": "dJe1iUuAW4M",
+      "link": "https://www.youtube.com/watch?v=dJe1iUuAW4M",
+      "kind": "youtube#video",
+      "publishedAt": "2011-01-31T04:42:25.000Z",
+      "channelId": "UC9V5v_c7ga7jFsOm8r07yRQ",
+      "channelTitle": "2chann",
+      "title": "Doobie Brothers ~ What A fool Believes (1979) Classic Rock R&amp;B Pop",
+      "description": "Doobie Brothers: https://thedoobiebrothers.com/ itunes: https://itunes.apple.com/us/artist/the-doobie-brothers/id117992093 What a Fool Believes\" is a song ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dJe1iUuAW4M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dJe1iUuAW4M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dJe1iUuAW4M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/dJe1iUuAW4M/default.jpg"
+    },
+    {
+      "id": "z92bmlcmyq0",
+      "link": "https://www.youtube.com/watch?v=z92bmlcmyq0",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-07T22:58:02.000Z",
+      "channelId": "UCJXMEUBWWr987z625yhngWw",
+      "channelTitle": "NightRangerVEVO",
+      "title": "Night Ranger - Sister Christian (Official Video)",
+      "description": "Music video by Night Ranger performing Sister Christian. (C) 2004 Geffen Records #NightRanger #SisterChristian #Vevo.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z92bmlcmyq0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z92bmlcmyq0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z92bmlcmyq0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/z92bmlcmyq0/default.jpg"
+    },
+    {
+      "id": "-0kcet4aPpQ",
+      "link": "https://www.youtube.com/watch?v=-0kcet4aPpQ",
+      "kind": "youtube#video",
+      "publishedAt": "2014-06-25T15:14:35.000Z",
+      "channelId": "UCY2qt3dw2TQJxvBrDiYGHdQ",
+      "channelTitle": "Pink Floyd",
+      "title": "Pink Floyd - Money (Official Music Video)",
+      "description": "Pre-order Pink Floyd's 'The Later Years' box set now https://pinkfloyd.lnk.to/TheLaterYears The official promo video for 'Money' by Pink Floyd, taken from the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-0kcet4aPpQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-0kcet4aPpQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-0kcet4aPpQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/-0kcet4aPpQ/default.jpg"
+    },
+    {
+      "id": "5XcKBmdfpWs",
+      "link": "https://www.youtube.com/watch?v=5XcKBmdfpWs",
+      "kind": "youtube#video",
+      "publishedAt": "2009-12-25T04:43:45.000Z",
+      "channelId": "UCaEixIrNdUQjQr85zcQeuiw",
+      "channelTitle": "StyxVEVO",
+      "title": "Styx - Too Much Time On My Hands",
+      "description": "Best of Styx: https://goo.gl/n2JFbN Subscribe here: https://goo.gl/UiH6GG Music video by Styx performing Too Much Time On My Hands. (C) 1981 A&M Records.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5XcKBmdfpWs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5XcKBmdfpWs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5XcKBmdfpWs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/5XcKBmdfpWs/default.jpg"
+    },
+    {
+      "id": "b6iBclM2CkI",
+      "link": "https://www.youtube.com/watch?v=b6iBclM2CkI",
+      "kind": "youtube#video",
+      "publishedAt": "2018-09-22T03:42:43.000Z",
+      "channelId": "UC3t8VzN8aICGfFmOSVTeBmQ",
+      "channelTitle": "SoundMix Dj【ツ】HD",
+      "title": "Classic Rock Greatest Hits 60s,70s,80s || Rock Clasicos Universal - Vol.2",
+      "description": "The Best of Rock of the 60s, 70s, 80s, Classic Rock Greatest Hits Rock Clásicos Universales , 3 Décadas de Rock and Roll ----- Classic Rock Greatest Hits ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b6iBclM2CkI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b6iBclM2CkI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b6iBclM2CkI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/b6iBclM2CkI/default.jpg"
+    }
+  ]
+}

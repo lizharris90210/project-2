@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "71Gt46aX9Z4",
+      "link": "https://www.youtube.com/watch?v=71Gt46aX9Z4",
+      "kind": "youtube#video",
+      "publishedAt": "2017-04-18T16:17:27.000Z",
+      "channelId": "UCYY_YLVWFI_IZ51Eu6x9bgA",
+      "channelTitle": "Don's Tunes",
+      "title": "Gary B.B. Coleman - The Sky is Crying",
+      "description": "Album: Too Much Weekend https://amzn.to/2SwXcKO Lyrics: The sky is cryin....Can't you see the tears roll down the street The sky is cryin....Can't you see the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/71Gt46aX9Z4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/71Gt46aX9Z4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/71Gt46aX9Z4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/71Gt46aX9Z4/default.jpg"
+    },
+    {
+      "id": "9muzyOd4Lh8",
+      "link": "https://www.youtube.com/watch?v=9muzyOd4Lh8",
+      "kind": "youtube#video",
+      "publishedAt": "2006-10-14T15:27:06.000Z",
+      "channelId": "UCkq7qMbhhK67RSD10r8iyFQ",
+      "channelTitle": "RedBaron863",
+      "title": "The Moody Blues - Nights In White Satin",
+      "description": "One of the first official videos of \"Nights In White Satin\" in 1967. \"Nights\" in Paris. A timeless song.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9muzyOd4Lh8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9muzyOd4Lh8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9muzyOd4Lh8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/9muzyOd4Lh8/default.jpg"
+    },
+    {
+      "id": "4O_YMLDvvnw",
+      "link": "https://www.youtube.com/watch?v=4O_YMLDvvnw",
+      "kind": "youtube#video",
+      "publishedAt": "2006-11-01T18:42:51.000Z",
+      "channelId": "UCbEiEm0CAG9EOg4y5MjBqMQ",
+      "channelTitle": "UndeadKuntiz",
+      "title": "Gary Moore - Still Got The Blues (Live)",
+      "description": "Cry guitar, cry..",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4O_YMLDvvnw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4O_YMLDvvnw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4O_YMLDvvnw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/4O_YMLDvvnw/default.jpg"
+    },
+    {
+      "id": "_sI_Ps7JSEk",
+      "link": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+      "kind": "youtube#video",
+      "publishedAt": "2016-11-07T16:56:50.000Z",
+      "channelId": "UCLue5AhDOIpePYzlc3rOVVQ",
+      "channelTitle": "Jazz and Blues Experience",
+      "title": "New York Jazz Lounge - Bar Jazz Classics",
+      "description": "Great compilation of relaxing Bar Jazz Classics. Stream/Download here: https://lnk.to/NYJL_BJC Check out PART II of our Bar Jazz Classics by New York Jazz ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_sI_Ps7JSEk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_sI_Ps7JSEk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_sI_Ps7JSEk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/_sI_Ps7JSEk/default.jpg"
+    },
+    {
+      "id": "h6KYAVn8ons",
+      "link": "https://www.youtube.com/watch?v=h6KYAVn8ons",
+      "kind": "youtube#video",
+      "publishedAt": "2010-09-01T16:45:25.000Z",
+      "channelId": "UCI8Ry7NdFNLel-S8dWU7mDA",
+      "channelTitle": "EltonJohnVEVO",
+      "title": "Elton John - I Guess That&#39;s Why They Call It The Blues",
+      "description": "The video for \"I Guess That's Why They Call It The Blues\" was filmed in the Rivoli Ballroom in London. The song, featuring Stevie Wonder on harmonica, was ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h6KYAVn8ons/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h6KYAVn8ons/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h6KYAVn8ons/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/h6KYAVn8ons/default.jpg"
+    },
+    {
+      "id": "ioOzsi9aHQQ",
+      "link": "https://www.youtube.com/watch?v=ioOzsi9aHQQ",
+      "kind": "youtube#video",
+      "publishedAt": "2018-01-21T13:54:43.000Z",
+      "channelId": "UCYY_YLVWFI_IZ51Eu6x9bgA",
+      "channelTitle": "Don's Tunes",
+      "title": "Daniel Castro - I&#39;ll Play The Blues For You",
+      "description": "Album: No Surrender http://www.danielcastro.com/, https://www.ebay.com/itm/323224730947 , Albert King Cover Lyrics: If you're down and out and you feel real ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ioOzsi9aHQQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ioOzsi9aHQQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ioOzsi9aHQQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/ioOzsi9aHQQ/default.jpg"
+    },
+    {
+      "id": "4fk2prKnYnI",
+      "link": "https://www.youtube.com/watch?v=4fk2prKnYnI",
+      "kind": "youtube#video",
+      "publishedAt": "2009-07-21T16:32:30.000Z",
+      "channelId": "UCp0uxdUViQ2LTAqRePby68g",
+      "channelTitle": "Eagle Rock",
+      "title": "B. B. King - The Thrill Is Gone (Live at Montreux 1993)",
+      "description": "Available to order now at http://smarturl.it/BBKingMont93dvdbr More info at: https://smarturl.it/BBKingMont93 B.B. King is the greatest living exponent of the blues ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4fk2prKnYnI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4fk2prKnYnI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4fk2prKnYnI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/4fk2prKnYnI/default.jpg"
+    },
+    {
+      "id": "An4uDegHB8s",
+      "link": "https://www.youtube.com/watch?v=An4uDegHB8s",
+      "kind": "youtube#video",
+      "publishedAt": "2013-04-29T06:02:37.000Z",
+      "channelId": "UCHjd1dZM1mz4uASmeGhW6eQ",
+      "channelTitle": "American Blues Scene",
+      "title": "Stevie Ray Vaughan - Little Wing",
+      "description": "http://www.americanbluesscene.com Welcome to American Blues Scene Magazine's video channel. If you like what you see and hear, check us out on ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/An4uDegHB8s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/An4uDegHB8s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/An4uDegHB8s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/An4uDegHB8s/default.jpg"
+    },
+    {
+      "id": "d7Mxkap8XNc",
+      "link": "https://www.youtube.com/watch?v=d7Mxkap8XNc",
+      "kind": "youtube#video",
+      "publishedAt": "2016-03-04T08:00:00.000Z",
+      "channelId": "UC8mf8Qg-Py5MSb7RD6-pojw",
+      "channelTitle": "PokeyBearVEVO",
+      "title": "Pokey Bear - My Side Piece",
+      "description": "Music video for My Side Piece performed by Pokey Bear. http://www.pokeybear.com https://www.youtube.com/channel/UCDd1DZC-mQfoX35zBx65W3Q ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d7Mxkap8XNc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d7Mxkap8XNc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d7Mxkap8XNc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/d7Mxkap8XNc/default.jpg"
+    },
+    {
+      "id": "G9x0wbKHos0",
+      "link": "https://www.youtube.com/watch?v=G9x0wbKHos0",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-03T20:38:23.000Z",
+      "channelId": "UCakbeXKVr0gPtcwOlkHKptg",
+      "channelTitle": "alanjacksonVEVO",
+      "title": "Alan Jackson - Summertime Blues (Official Music Video)",
+      "description": "Alan Jackson's official music video for 'Summertime Blues'. Click to listen to Alan Jackson on Spotify: http://smarturl.it/AJacksonSpot?IQid=AlanJsSB As featured ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G9x0wbKHos0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G9x0wbKHos0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G9x0wbKHos0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/G9x0wbKHos0/default.jpg"
+    }
+  ]
+}
