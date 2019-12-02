@@ -1,6 +1,3 @@
-// VALIDATION
-console.log("/js/modal/profile-onload-modal.js loaded");
-
 // ----------------------
 //  VARIABLE DECLARATION
 // ----------------------

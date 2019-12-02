@@ -1,7 +1,3 @@
-// Validation
-const gradient = require("gradient-string");
-console.log(`${gradient.summer("/config/passport.js loaded")}\n=========================\n`);
-
 var passport = require("passport");
 var LocalStrategy = require("passport-local").Strategy;
 
