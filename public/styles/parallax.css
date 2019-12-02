@@ -2,10 +2,9 @@ body, html {
     height: 100%;
     margin: 0;
   }
-  
+/* doot doot */
   .bgimg-1, .bgimg-2, .label, .bgimg-3 {
     position: relative;
-    opacity: 0.65;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
