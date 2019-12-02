@@ -2,7 +2,7 @@
 
 ## A social media app for musicians and music industry professionals
 
-Presently, there are several options for social networks, but none cater specifically to the music industry. Cue serves musicians, industry professionals, and venues to connect the community and meet like-minded people. Whether a musician is looking for a band to join, a lighting-technician wants a job with a tour or venue, or an artist wants a personal page to post songs and list gig dates, Cue connects them all. 
+Presently, there are several options for social networks, but none cater specifically to the music industry. Cue serves musicians, industry professionals, and venues to connect the community and meet like-minded people. Whether a musician is looking for a band to join, a lighting-technician wants a job with a tour or venue, or an artist wants a personal page to post songs and list gig dates, Cue connects them all.
 
 ### Usage
 

@@ -1,0 +1,29 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "## A social media app for musicians and music industry professionals",
+  "main": "keys.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ajv-keywords": "^2.1.1",
+    "express-session": "^1.17.0",
+    "sequelize-auto": "^0.4.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizharris90210/project-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizharris90210/project-2/issues"
+  },
+  "homepage": "https://github.com/lizharris90210/project-2#readme"
+}
