@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "R-1wBk3H2LI",
+      "link": "https://www.youtube.com/watch?v=R-1wBk3H2LI",
+      "kind": "youtube#video",
+      "publishedAt": "2016-08-18T17:07:42.000Z",
+      "channelId": "UChv_K9--FKW8hFD_gJGk3Ig",
+      "channelTitle": "BassGutter",
+      "title": "BASS BOOSTED MUSIC MIX → Best Of EDM !!",
+      "description": "Bass Boosted Music Mix → Best Of EDM // Bass Boost // Bass Test // Trap Remix & Music ▻ Follow our Spotify : http://bit.ly/magicboosterz ▻ FREE Download + ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R-1wBk3H2LI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R-1wBk3H2LI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R-1wBk3H2LI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/R-1wBk3H2LI/default.jpg"
+    },
+    {
+      "id": "__CRWE-L45k",
+      "link": "https://www.youtube.com/watch?v=__CRWE-L45k",
+      "kind": "youtube#video",
+      "publishedAt": "2014-11-27T17:54:34.000Z",
+      "channelId": "UC_aEa8K-EOJ3D6gOs7HcyNg",
+      "channelTitle": "NoCopyrightSounds",
+      "title": "Electro-Light - Symbolism [NCS Release]",
+      "description": "NCS: Music Without Limitations NCS Spotify: http://spoti.fi/NCS Free Download / Stream: http://ncs.io/symbolism ▽ Connect with NCS Facebook ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/__CRWE-L45k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/__CRWE-L45k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/__CRWE-L45k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/__CRWE-L45k/default.jpg"
+    },
+    {
+      "id": "1oTUupME0-M",
+      "link": "https://www.youtube.com/watch?v=1oTUupME0-M",
+      "kind": "youtube#video",
+      "publishedAt": "2017-05-13T06:55:12.000Z",
+      "channelId": "UCrcumL7h3b_7WWPtLuz7UKA",
+      "channelTitle": "ELEMENTS",
+      "title": "Alan Walker - Faded (Remix) ♫ Shuffle Dance (Music video) Electro House",
+      "description": "Alan Walker - Faded (Remix) ♫ Shuffle Dance (Music video) Electro House Guys Follow my backup channel perfect Suicide ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1oTUupME0-M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1oTUupME0-M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1oTUupME0-M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/1oTUupME0-M/default.jpg"
+    },
+    {
+      "id": "ycBBygx299Q",
+      "link": "https://www.youtube.com/watch?v=ycBBygx299Q",
+      "kind": "youtube#video",
+      "publishedAt": "2018-07-28T18:02:09.000Z",
+      "channelId": "UCEFpNxeybzVwRbnYabQsXEg",
+      "channelTitle": "Bass Music Movement",
+      "title": "🔈BASS BOOSTED🔈 CAR MUSIC MIX 2018 🔥 BEST EDM, BOUNCE, ELECTRO HOUSE #19",
+      "description": "BASS BOOSTED   CAR MUSIC MIX 2018 BEST EDM, BOUNCE, ELECTRO HOUSE #19 Listen on Spotify: https://spoti.fi/2WWM6Fd Connect with Me: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ycBBygx299Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ycBBygx299Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ycBBygx299Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/ycBBygx299Q/default.jpg"
+    },
+    {
+      "id": "4XpDdIISlYo",
+      "link": "https://www.youtube.com/watch?v=4XpDdIISlYo",
+      "kind": "youtube#video",
+      "publishedAt": "2015-10-26T14:00:00.000Z",
+      "channelId": "UCPWBlX15fNBUw0cLqKM-V7g",
+      "channelTitle": "DJEkkiMusic",
+      "title": "Electro House 2016 Best Festival Party Video Mix | New EDM Dance Charts Songs | Club Music Remix",
+      "description": "Electro House 2016 Best Festival Party Video Mix | New 2015 EDM Dance Charts Songs | Club Music Remix 2017 Real Life Channel: http://bit.ly/2q57N1s ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4XpDdIISlYo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4XpDdIISlYo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4XpDdIISlYo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/4XpDdIISlYo/default.jpg"
+    },
+    {
+      "id": "tliJePo6vYs",
+      "link": "https://www.youtube.com/watch?v=tliJePo6vYs",
+      "kind": "youtube#video",
+      "publishedAt": "2018-12-28T15:25:44.000Z",
+      "channelId": "UCaEPAlUgIgvusw5T7QyEM0Q",
+      "channelTitle": "Bass HQ",
+      "title": "🔈BASS BOOSTED🔈 CAR MUSIC MIX 2019 🔥 BEST EDM, BOUNCE, ELECTRO HOUSE #3",
+      "description": "BASS BOOSTED   CAR MUSIC MIX 2019 BEST EDM, BOUNCE, ELECTRO HOUSE #3 Listen on Spotify: https://spoti.fi/2AlgcUX Turn on notifications to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tliJePo6vYs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tliJePo6vYs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tliJePo6vYs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/tliJePo6vYs/default.jpg"
+    },
+    {
+      "id": "YcTCIMKeiNQ",
+      "link": "https://www.youtube.com/watch?v=YcTCIMKeiNQ",
+      "kind": "youtube#video",
+      "publishedAt": "2018-03-07T17:46:33.000Z",
+      "channelId": "UCEFpNxeybzVwRbnYabQsXEg",
+      "channelTitle": "Bass Music Movement",
+      "title": "🔈BASS BOOSTED🔈 CAR MUSIC MIX 2018 🔥 BEST EDM, BOUNCE, ELECTRO HOUSE #2",
+      "description": "BASS BOOSTED   CAR MUSIC MIX 2018 BEST EDM, BOUNCE, ELECTRO HOUSE #2 ♫Playlist: http://spoti.fi/2D2tfJX Connect with Me: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YcTCIMKeiNQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YcTCIMKeiNQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YcTCIMKeiNQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/YcTCIMKeiNQ/default.jpg"
+    },
+    {
+      "id": "RkkdYdWMfQ0",
+      "link": "https://www.youtube.com/watch?v=RkkdYdWMfQ0",
+      "kind": "youtube#video",
+      "publishedAt": "2018-03-18T15:22:28.000Z",
+      "channelId": "UCEFpNxeybzVwRbnYabQsXEg",
+      "channelTitle": "Bass Music Movement",
+      "title": "🔈BASS BOOSTED🔈 CAR MUSIC MIX 2018 🔥 BEST EDM, BOUNCE, ELECTRO HOUSE #3",
+      "description": "BASS BOOSTED   CAR MUSIC MIX 2018 BEST EDM, BOUNCE, ELECTRO HOUSE #2 ♫Playlist: http://spoti.fi/2D2tfJX Connect with Me: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RkkdYdWMfQ0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RkkdYdWMfQ0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RkkdYdWMfQ0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/RkkdYdWMfQ0/default.jpg"
+    },
+    {
+      "id": "D7ztZ_qhx5Q",
+      "link": "https://www.youtube.com/watch?v=D7ztZ_qhx5Q",
+      "kind": "youtube#video",
+      "publishedAt": "2017-04-04T08:00:01.000Z",
+      "channelId": "UCAJ1rjf90IFwNGlZUYuoP1Q",
+      "channelTitle": "Magic Club",
+      "title": "Best Music Mix 2017- Shuffle Music Video HD - Melbourne Bounce Music Mix 2017",
+      "description": "Submit Ur Demo for Our Label: http://bit.ly/2IF07in Best Music Mix 2017- Shuffle Music Video HD - Melbourne Bounce Music Mix 2017 This Mix On Spotify➡️ ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D7ztZ_qhx5Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D7ztZ_qhx5Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D7ztZ_qhx5Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/D7ztZ_qhx5Q/default.jpg"
+    },
+    {
+      "id": "C6-TWRn0k4I",
+      "link": "https://www.youtube.com/watch?v=C6-TWRn0k4I",
+      "kind": "youtube#video",
+      "publishedAt": "2014-12-02T16:51:52.000Z",
+      "channelId": "UCg0llYMCi3Dn5a5SQmpc4Iw",
+      "channelTitle": "Leah Brown Music",
+      "title": "Electro Swing Collection",
+      "description": "TRACK LIST IS IN COMMENTS SCOTT BRADLEE'S THRIFT SHOP HAS BEEN REMOVED PLAYLIST OF INDIVIDUAL SONGS ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C6-TWRn0k4I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C6-TWRn0k4I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C6-TWRn0k4I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/C6-TWRn0k4I/default.jpg"
+    }
+  ]
+}

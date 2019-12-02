@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "hHW1oY26kxQ",
+      "link": "https://www.youtube.com/watch?v=hHW1oY26kxQ",
+      "kind": "youtube#video",
+      "publishedAt": "2018-08-22T19:51:06.000Z",
+      "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
+      "channelTitle": "ChilledCow",
+      "title": "lofi hip hop radio - beats to relax/study to",
+      "description": "Thank you for listening, I hope you will have a good time here :) 🧡Join the ChilledCow family to get awesome perks → https://bit.ly/chilledcow-family Check out ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hHW1oY26kxQ/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hHW1oY26kxQ/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hHW1oY26kxQ/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/hHW1oY26kxQ/default_live.jpg"
+    },
+    {
+      "id": "71Gt46aX9Z4",
+      "link": "https://www.youtube.com/watch?v=71Gt46aX9Z4",
+      "kind": "youtube#video",
+      "publishedAt": "2017-04-18T16:17:27.000Z",
+      "channelId": "UCYY_YLVWFI_IZ51Eu6x9bgA",
+      "channelTitle": "Don's Tunes",
+      "title": "Gary B.B. Coleman - The Sky is Crying",
+      "description": "Album: Too Much Weekend https://amzn.to/2SwXcKO Lyrics: The sky is cryin....Can't you see the tears roll down the street The sky is cryin....Can't you see the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/71Gt46aX9Z4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/71Gt46aX9Z4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/71Gt46aX9Z4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/71Gt46aX9Z4/default.jpg"
+    },
+    {
+      "id": "vmDDOFXSgAs",
+      "link": "https://www.youtube.com/watch?v=vmDDOFXSgAs",
+      "kind": "youtube#video",
+      "publishedAt": "2008-06-03T04:20:59.000Z",
+      "channelId": "UCIn_lAQ-pd3fu0Q_xNyltFQ",
+      "channelTitle": "buckinny",
+      "title": "Dave Brubeck - Take Five",
+      "description": "Dave Brubeck - Take Five.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vmDDOFXSgAs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vmDDOFXSgAs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vmDDOFXSgAs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/vmDDOFXSgAs/default.jpg"
+    },
+    {
+      "id": "k3_tw44QsZQ",
+      "link": "https://www.youtube.com/watch?v=k3_tw44QsZQ",
+      "kind": "youtube#video",
+      "publishedAt": "2015-06-17T11:41:49.000Z",
+      "channelId": "UCaPU4Zcr5Hoi6Io9G-xKexA",
+      "channelTitle": "Instrumental Music Playlist Collection",
+      "title": "Soft Jazz Sexy  Instrumental Relaxation Saxophone Music 2013 Collection",
+      "description": "Title: Soft Jazz Sexy Artist: Soft Jazz Year: 2013 Genre: Jazz Format / Codec: Mp3 Bitrate: 320 kbps Track list: 01. Ain't No Sunshine (When She's Gone) 02.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k3_tw44QsZQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k3_tw44QsZQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k3_tw44QsZQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/k3_tw44QsZQ/default.jpg"
+    },
+    {
+      "id": "_sI_Ps7JSEk",
+      "link": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+      "kind": "youtube#video",
+      "publishedAt": "2016-11-07T16:56:50.000Z",
+      "channelId": "UCLue5AhDOIpePYzlc3rOVVQ",
+      "channelTitle": "Jazz and Blues Experience",
+      "title": "New York Jazz Lounge - Bar Jazz Classics",
+      "description": "Great compilation of relaxing Bar Jazz Classics. Stream/Download here: https://lnk.to/NYJL_BJC Check out PART II of our Bar Jazz Classics by New York Jazz ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_sI_Ps7JSEk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_sI_Ps7JSEk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_sI_Ps7JSEk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/_sI_Ps7JSEk/default.jpg"
+    },
+    {
+      "id": "jpv2tMJJuz0",
+      "link": "https://www.youtube.com/watch?v=jpv2tMJJuz0",
+      "kind": "youtube#video",
+      "publishedAt": "2017-06-12T10:00:05.000Z",
+      "channelId": "UCLr_PnLF0aClbzrEnpyxx0A",
+      "channelTitle": "Ron Gelinas Chillout Lounge",
+      "title": "EHRLING - Nu Lounge Bar Music 2017 (Mix #1)",
+      "description": "TRACK LIST 00:00 - Ehrling - Sthlm Sunset - https://soundcloud.com/ehrling/ehrling-sthlm-sunset 02:53 - Ehrling - Stay Forever Ft. Yohanna Seifu ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jpv2tMJJuz0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jpv2tMJJuz0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jpv2tMJJuz0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/jpv2tMJJuz0/default.jpg"
+    },
+    {
+      "id": "9ka5bgHnHyg",
+      "link": "https://www.youtube.com/watch?v=9ka5bgHnHyg",
+      "kind": "youtube#video",
+      "publishedAt": "2014-10-16T14:33:30.000Z",
+      "channelId": "UCzcn2eAUHZ2Ba3x7hZF6q2w",
+      "channelTitle": "Stay See",
+      "title": "Hip Hop &#39; Funk &#39; Jazz - Ours Samplus",
+      "description": "Ours Samplus Vol.2 https://bit.ly/2JtPChA Similar Music on Spotify https://chillhop.lnk.to/spotifyEB If you like Gramatik , ProleteR , Parov Stelar .. this music is for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9ka5bgHnHyg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9ka5bgHnHyg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9ka5bgHnHyg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/9ka5bgHnHyg/default.jpg"
+    },
+    {
+      "id": "gwDoRPcPxtc",
+      "link": "https://www.youtube.com/watch?v=gwDoRPcPxtc",
+      "kind": "youtube#video",
+      "publishedAt": "2016-09-07T17:43:08.000Z",
+      "channelId": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+      "channelTitle": "Chillhop Music",
+      "title": "Chill Study Beats 2 • Instrumental &amp; Jazz Hip Hop Music [2016]",
+      "description": "Chill Study Beats 24/7 radio » https://chillhop.ffm.to/lofihiphopradio.eko 2 Hours of mellow jazzy beats from artists like J Dilla, Nujabes as well as a lot of lesser ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gwDoRPcPxtc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gwDoRPcPxtc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gwDoRPcPxtc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/gwDoRPcPxtc/default.jpg"
+    },
+    {
+      "id": "K2Q6YO3Ez44",
+      "link": "https://www.youtube.com/watch?v=K2Q6YO3Ez44",
+      "kind": "youtube#video",
+      "publishedAt": "2015-08-20T00:22:23.000Z",
+      "channelId": "UCJhjE7wbdYAae1G25m0tHAA",
+      "channelTitle": "Cafe Music BGM channel",
+      "title": "Cafe Music!!Jazz &amp; Bossa Nova instrumental Music!!",
+      "description": "Please Subscribe! https://www.youtube.com/user/cafemusicbgmchannel Music For Business「Cafe Music BGM Station」 English: https://bgm-station.com/en/ ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K2Q6YO3Ez44/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K2Q6YO3Ez44/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K2Q6YO3Ez44/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/K2Q6YO3Ez44/default.jpg"
+    },
+    {
+      "id": "_CI-0E_jses",
+      "link": "https://www.youtube.com/watch?v=_CI-0E_jses",
+      "kind": "youtube#video",
+      "publishedAt": "2010-12-07T05:58:25.000Z",
+      "channelId": "UCh6EL7766v3Ve5csF2NrW7g",
+      "channelTitle": "symir547",
+      "title": "Glenn Miller - In The Mood [HQ]",
+      "description": "Glenn Miller - In The Mood Picture is from the movie \"The Glenn Miller Story\" (1953) starring James Stewart \"In the Mood\" is a song popularized by the American ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_CI-0E_jses/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_CI-0E_jses/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_CI-0E_jses/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/_CI-0E_jses/default.jpg"
+    }
+  ]
+}

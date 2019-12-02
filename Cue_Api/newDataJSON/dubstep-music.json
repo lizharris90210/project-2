@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "2cXDgFwE13g",
+      "link": "https://www.youtube.com/watch?v=2cXDgFwE13g",
+      "kind": "youtube#video",
+      "publishedAt": "2011-08-17T16:53:59.000Z",
+      "channelId": "UC_TVqp_SyG6j5hG-xVRy95A",
+      "channelTitle": "Skrillex",
+      "title": "Skrillex - First Of The Year (Equinox) [Official Music Video]",
+      "description": "Skrillex - First Of The Year (Equinox) [Official Music Video] Watch the official video for “First Of The Year (Equinox)” by Skrillex from the album, 'More Monsters ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2cXDgFwE13g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2cXDgFwE13g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2cXDgFwE13g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/2cXDgFwE13g/default.jpg"
+    },
+    {
+      "id": "WSeNSzJ2-Jw",
+      "link": "https://www.youtube.com/watch?v=WSeNSzJ2-Jw",
+      "kind": "youtube#video",
+      "publishedAt": "2010-10-24T01:55:16.000Z",
+      "channelId": "UC_TVqp_SyG6j5hG-xVRy95A",
+      "channelTitle": "Skrillex",
+      "title": "Skrillex - Scary Monsters And Nice Sprites (Official Audio)",
+      "description": "Skrillex - Scary Monsters And Nice Sprites (Official Audio) Watch the official audio video for \"Scary Monsters And Nice Sprites\" by Skrillex From the \"Scary ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WSeNSzJ2-Jw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WSeNSzJ2-Jw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WSeNSzJ2-Jw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/WSeNSzJ2-Jw/default.jpg"
+    },
+    {
+      "id": "aHjpOzsQ9YI",
+      "link": "https://www.youtube.com/watch?v=aHjpOzsQ9YI",
+      "kind": "youtube#video",
+      "publishedAt": "2012-02-23T17:32:58.000Z",
+      "channelId": "UCyC_4jvPzLiSkJkLIkA7B8g",
+      "channelTitle": "Lindsey Stirling",
+      "title": "Crystallize - Lindsey Stirling (Dubstep Violin Original Song)",
+      "description": "My new album #Artemis is out now! https://found.ee/LS_Artemis Purchase my album Brave Enough on iTunes! http://found.ee/BEAppleMusic Come see me this ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aHjpOzsQ9YI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aHjpOzsQ9YI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aHjpOzsQ9YI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/aHjpOzsQ9YI/default.jpg"
+    },
+    {
+      "id": "LXO-jKksQkM",
+      "link": "https://www.youtube.com/watch?v=LXO-jKksQkM",
+      "kind": "youtube#video",
+      "publishedAt": "2011-09-23T16:19:51.000Z",
+      "channelId": "UCSiO9HSviL3d9WOCHcY8F-Q",
+      "channelTitle": "MARQUESE SCOTT",
+      "title": "PUMPED UP KICKS|DUBSTEP",
+      "description": "BOOKING: Nonstop7000@gmail.com TUTORIALS: Nonstop7000@gmail.com TWITTER: http://tinyurl.com/om56fzw INSTAGRAM: http://tinyurl.com/p9g9n8w ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LXO-jKksQkM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LXO-jKksQkM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LXO-jKksQkM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/LXO-jKksQkM/default.jpg"
+    },
+    {
+      "id": "sf6LD2B_kDQ",
+      "link": "https://www.youtube.com/watch?v=sf6LD2B_kDQ",
+      "kind": "youtube#video",
+      "publishedAt": "2012-09-19T05:09:51.000Z",
+      "channelId": "UCyC_4jvPzLiSkJkLIkA7B8g",
+      "channelTitle": "Lindsey Stirling",
+      "title": "Elements - Lindsey Stirling (Dubstep Violin Original Song)",
+      "description": "My new album #Artemis is out now! https://found.ee/LS_Artemis Come see me this winter for the #WarmerInTheWinterTour! Tickets are on sale now!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sf6LD2B_kDQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sf6LD2B_kDQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sf6LD2B_kDQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/sf6LD2B_kDQ/default.jpg"
+    },
+    {
+      "id": "nTXtOVaCaOU",
+      "link": "https://www.youtube.com/watch?v=nTXtOVaCaOU",
+      "kind": "youtube#video",
+      "publishedAt": "2011-11-10T13:37:31.000Z",
+      "channelId": "UCCqFKe1ZNvaMp5vNBDg9jvg",
+      "channelTitle": "Heymoonshaker",
+      "title": "Heymoonshaker - London Part 2 (Dave Crowe beatbox dubstep session)",
+      "description": "GET OUR NEW ALBUM LIVE HERE : ☛ https://fanlink.to/heymoonshaker-live Tracklist: 1. Find Myself a Home 2. Feel Love 3. Heavy Grip 4. Wheels in Motion 5.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nTXtOVaCaOU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nTXtOVaCaOU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nTXtOVaCaOU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/nTXtOVaCaOU/default.jpg"
+    },
+    {
+      "id": "T5UsrAxid74",
+      "link": "https://www.youtube.com/watch?v=T5UsrAxid74",
+      "kind": "youtube#video",
+      "publishedAt": "2015-07-29T10:27:04.000Z",
+      "channelId": "UCt0yiqIxYanefVOwP7yVPcw",
+      "channelTitle": "DubstepMusic HD",
+      "title": "BEST MUSIC MIX | ♫ 1H Gaming Music ♫ | Dubstep, EDM, Trap |",
+      "description": "Support me!! ♫♫ Subscribe YouTube: https://www.youtube.com/c/DubstepMusicHD Twitter: https://twitter.com/DubstepMusicHD Paypal: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T5UsrAxid74/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T5UsrAxid74/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T5UsrAxid74/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/T5UsrAxid74/default.jpg"
+    },
+    {
+      "id": "f9EM8T5K6d8",
+      "link": "https://www.youtube.com/watch?v=f9EM8T5K6d8",
+      "kind": "youtube#video",
+      "publishedAt": "2012-12-12T22:21:51.000Z",
+      "channelId": "UCfLFTP1uTuIizynWsZq2nkQ",
+      "channelTitle": "UKF Dubstep",
+      "title": "Modestep - Another Day (Ft. Popeska) (xKore Remix) (Official Video)",
+      "description": "Available on the deluxe version of Modestep's debut album 'Evolution Theory' pre-order now at: http://bit.ly/modestepalbum Become a fan of Modestep: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f9EM8T5K6d8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f9EM8T5K6d8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f9EM8T5K6d8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/f9EM8T5K6d8/default.jpg"
+    },
+    {
+      "id": "p6j8fuvQICI",
+      "link": "https://www.youtube.com/watch?v=p6j8fuvQICI",
+      "kind": "youtube#video",
+      "publishedAt": "2014-01-04T18:22:58.000Z",
+      "channelId": "UCJBpeNOjvbn9rRte3w_Kklg",
+      "channelTitle": "MrMoMMusic",
+      "title": "Best Melodic Dubstep Mix 2014",
+      "description": "Best of melodic dubstep 2014, by Tim Bryant. Enjoy the mellow side of dubstep :). Our dubstep mix 2016 can be found here: https://goo.gl/y6ALX2 .:::Follow Tim ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p6j8fuvQICI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p6j8fuvQICI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p6j8fuvQICI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/p6j8fuvQICI/default.jpg"
+    },
+    {
+      "id": "8xlDwukxjnA",
+      "link": "https://www.youtube.com/watch?v=8xlDwukxjnA",
+      "kind": "youtube#video",
+      "publishedAt": "2016-02-04T19:47:57.000Z",
+      "channelId": "UC_aEa8K-EOJ3D6gOs7HcyNg",
+      "channelTitle": "NoCopyrightSounds",
+      "title": "Ship Wrek &amp; Zookeepers - Ark [NCS Release]",
+      "description": "NCS: Music Without Limitations NCS Spotify: http://spoti.fi/NCS Free Download / Stream: http://ncs.io/ark Connect with NCS: Snapchat: ncsmusic ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8xlDwukxjnA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8xlDwukxjnA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8xlDwukxjnA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/8xlDwukxjnA/default.jpg"
+    }
+  ]
+}

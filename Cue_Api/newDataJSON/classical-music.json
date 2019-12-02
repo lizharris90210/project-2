@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "Rb0UmrCXxVA",
+      "link": "https://www.youtube.com/watch?v=Rb0UmrCXxVA",
+      "kind": "youtube#video",
+      "publishedAt": "2013-01-08T15:15:34.000Z",
+      "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+      "channelTitle": "HALIDONMUSIC",
+      "title": "The Best of Mozart",
+      "description": "Buy the MP3 album on the Official Halidon Music Store: http://bit.ly/2qsbyj3 iTunes & Apple Music: https://apple.co/2UlEXsR Listen to our playlist on Spotify: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Rb0UmrCXxVA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Rb0UmrCXxVA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Rb0UmrCXxVA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/Rb0UmrCXxVA/default.jpg"
+    },
+    {
+      "id": "4Tr0otuiQuU",
+      "link": "https://www.youtube.com/watch?v=4Tr0otuiQuU",
+      "kind": "youtube#video",
+      "publishedAt": "2010-12-15T15:44:53.000Z",
+      "channelId": "UC1Prrgck1S6abc3yPWhc7Jw",
+      "channelTitle": "andrea romano",
+      "title": "Beethoven - Moonlight Sonata (FULL)",
+      "description": "Beethoven - Moonlight Sonata (FULL) - Piano Sonata No. 14 http://www.facebook.com/9Beethoven Instagram: https://www.instagram.com/andrearomanoandrea ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4Tr0otuiQuU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4Tr0otuiQuU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4Tr0otuiQuU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/4Tr0otuiQuU/default.jpg"
+    },
+    {
+      "id": "9E6b3swbnWg",
+      "link": "https://www.youtube.com/watch?v=9E6b3swbnWg",
+      "kind": "youtube#video",
+      "publishedAt": "2013-06-19T10:46:07.000Z",
+      "channelId": "UC1Prrgck1S6abc3yPWhc7Jw",
+      "channelTitle": "andrea romano",
+      "title": "Chopin - Nocturne op.9 No.2",
+      "description": "Nocturne in E-flat major, Op. 9, No. 2 Played by Vadim Chaimovich (https://www.youtube.com/vadimchaimovich) FB-Vadim: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9E6b3swbnWg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9E6b3swbnWg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9E6b3swbnWg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/9E6b3swbnWg/default.jpg"
+    },
+    {
+      "id": "jgpJVI3tDbY",
+      "link": "https://www.youtube.com/watch?v=jgpJVI3tDbY",
+      "kind": "youtube#video",
+      "publishedAt": "2015-03-02T14:48:55.000Z",
+      "channelId": "UC68KnvCZ-nJzmmuSu_tKASA",
+      "channelTitle": "Just Instrumental Music",
+      "title": "The Best of Classical Music - Mozart, Beethoven, Bach, Chopin... Classical Music Piano Playlist Mix",
+      "description": "3 HOURS The Best Classical Music Playlist Mix (Mozart, Beethoven, Bach, Chopin) Beautiful Piano, Violin & Orchestral Masterpieces by the greatest composers ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jgpJVI3tDbY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jgpJVI3tDbY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jgpJVI3tDbY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/jgpJVI3tDbY/default.jpg"
+    },
+    {
+      "id": "YFD2PPAqNbw",
+      "link": "https://www.youtube.com/watch?v=YFD2PPAqNbw",
+      "kind": "youtube#video",
+      "publishedAt": "2014-02-05T11:00:42.000Z",
+      "channelId": "UCfPuO5IzFVtLMMjo38xEbUw",
+      "channelTitle": "Tat Parina",
+      "title": "Beethoven   Silence",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YFD2PPAqNbw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YFD2PPAqNbw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YFD2PPAqNbw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/YFD2PPAqNbw/default.jpg"
+    },
+    {
+      "id": "wygy721nzRc",
+      "link": "https://www.youtube.com/watch?v=wygy721nzRc",
+      "kind": "youtube#video",
+      "publishedAt": "2012-10-04T12:20:38.000Z",
+      "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+      "channelTitle": "HALIDONMUSIC",
+      "title": "The Best of Chopin",
+      "description": "Buy the MP3 album on the Official Halidon Music Store: http://bit.ly/VzxEKC Stream it on Spotify: https://spoti.fi/2NtSPPg iTunes & Apple Music: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wygy721nzRc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wygy721nzRc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wygy721nzRc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/wygy721nzRc/default.jpg"
+    },
+    {
+      "id": "mmCnQDUSO4I",
+      "link": "https://www.youtube.com/watch?v=mmCnQDUSO4I",
+      "kind": "youtube#video",
+      "publishedAt": "2009-01-31T07:51:33.000Z",
+      "channelId": "UC5I_q7gLdDoBn8klaztNdkQ",
+      "channelTitle": "TheWickedNorth",
+      "title": "Dmitri Shostakovich -  Waltz No. 2",
+      "description": "Dmitri Shostakovich - Waltz No. 2.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mmCnQDUSO4I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mmCnQDUSO4I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mmCnQDUSO4I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/mmCnQDUSO4I/default.jpg"
+    },
+    {
+      "id": "CvFH_6DNRCY",
+      "link": "https://www.youtube.com/watch?v=CvFH_6DNRCY",
+      "kind": "youtube#video",
+      "publishedAt": "2008-10-06T17:45:47.000Z",
+      "channelId": "UCW-5SJu1q2KvawG5prB5C4g",
+      "channelTitle": "CHANNEL3YOUTUBE",
+      "title": "CLAUDE DEBUSSY:  CLAIR DE LUNE",
+      "description": "PLEASE SUBSCRIBE= http://www.youtube.com/user/papadoc73?sub_confirmation=1 Stay current with our most recent uploads & updates Channel 3 YouTube.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CvFH_6DNRCY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CvFH_6DNRCY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CvFH_6DNRCY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/CvFH_6DNRCY/default.jpg"
+    },
+    {
+      "id": "k1-TrAvp_xs",
+      "link": "https://www.youtube.com/watch?v=k1-TrAvp_xs",
+      "kind": "youtube#video",
+      "publishedAt": "2008-05-22T17:41:25.000Z",
+      "channelId": "UC32P7DjuuEE8tNrklT9S0Yg",
+      "channelTitle": "Rosa Music",
+      "title": "Mozart - Lacrimosa",
+      "description": "Mozart - Lacrimosa.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k1-TrAvp_xs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k1-TrAvp_xs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k1-TrAvp_xs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/k1-TrAvp_xs/default.jpg"
+    },
+    {
+      "id": "6JQm5aSjX6g",
+      "link": "https://www.youtube.com/watch?v=6JQm5aSjX6g",
+      "kind": "youtube#video",
+      "publishedAt": "2012-10-16T09:20:00.000Z",
+      "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+      "channelTitle": "HALIDONMUSIC",
+      "title": "The Best of Bach",
+      "description": "Buy \"Bach: Complete Cello Suites\" on the Official Halidon Music Store: http://bit.ly/2JAHYlx Stream the album on Spotify: https://spoti.fi/36h8sCq iTunes ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6JQm5aSjX6g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6JQm5aSjX6g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6JQm5aSjX6g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/6JQm5aSjX6g/default.jpg"
+    }
+  ]
+}

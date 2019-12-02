@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "zDo0H8Fm7d0",
+      "link": "https://www.youtube.com/watch?v=zDo0H8Fm7d0",
+      "kind": "youtube#video",
+      "publishedAt": "2017-10-23T13:50:02.000Z",
+      "channelId": "UC5-gWZXAQqSGVfPHkA7NRiQ",
+      "channelTitle": "Bebe Rexha",
+      "title": "Bebe Rexha - Meant to Be (feat. Florida Georgia Line) [Official Music Video]",
+      "description": "Bebe Rexha - Meant to Be (feat. Florida Georgia Line) Listen now: https://BebeRexha.lnk.to/MeantToBe Spotify: https://BebeRexha.lnk.to/MeantToBe/Spotify ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zDo0H8Fm7d0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zDo0H8Fm7d0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zDo0H8Fm7d0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/zDo0H8Fm7d0/default.jpg"
+    },
+    {
+      "id": "YxIiPLVR6NA",
+      "link": "https://www.youtube.com/watch?v=YxIiPLVR6NA",
+      "kind": "youtube#video",
+      "publishedAt": "2013-11-01T13:00:05.000Z",
+      "channelId": "UC1SqP7_RfOC9Jf9L_GRHANg",
+      "channelTitle": "AviciiOfficialVEVO",
+      "title": "Avicii - Hey Brother (Lyric)",
+      "description": "Listen to Avicii's latest single “SOS” here: https://Avicii.lnk.to/SOS.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YxIiPLVR6NA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YxIiPLVR6NA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YxIiPLVR6NA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/YxIiPLVR6NA/default.jpg"
+    },
+    {
+      "id": "4zAThXFOy2c",
+      "link": "https://www.youtube.com/watch?v=4zAThXFOy2c",
+      "kind": "youtube#video",
+      "publishedAt": "2015-04-23T10:00:00.000Z",
+      "channelId": "UC_uPAFZghRvM1W89Rt-opZw",
+      "channelTitle": "ChrisStapletonVEVO",
+      "title": "Chris Stapleton - Tennessee Whiskey (Audio)",
+      "description": "Purchase Chris Stapleton's latest music: http://umgn.us/chrisstapletonpurchase Stream the latest from Chris Stapleton: http://umgn.us/chrisstapletonstream Sign ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4zAThXFOy2c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4zAThXFOy2c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4zAThXFOy2c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/4zAThXFOy2c/default.jpg"
+    },
+    {
+      "id": "eM213aMKTHg",
+      "link": "https://www.youtube.com/watch?v=eM213aMKTHg",
+      "kind": "youtube#video",
+      "publishedAt": "2011-01-28T20:40:32.000Z",
+      "channelId": "UClcR5Ho9kfnj40zaN1enC-Q",
+      "channelTitle": "LadyAntebellumVEVO",
+      "title": "Lady Antebellum - Need You Now (Official Music Video)",
+      "description": "REMASTERED IN HD! Pre-VEVO play count: 29104971 Music video by Lady Antebellum performing Need You Now. (P) (C) 2009 Capitol Records Nashville.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eM213aMKTHg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eM213aMKTHg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eM213aMKTHg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/eM213aMKTHg/default.jpg"
+    },
+    {
+      "id": "dRX0wDNK6S4",
+      "link": "https://www.youtube.com/watch?v=dRX0wDNK6S4",
+      "kind": "youtube#video",
+      "publishedAt": "2017-10-06T07:00:02.000Z",
+      "channelId": "UCsEj8E122ibbJetQe8BoV7g",
+      "channelTitle": "KaneBrownVEVO",
+      "title": "Kane Brown - Heaven (Official Music Video)",
+      "description": "Get \"Heaven\" now on the Kane Brown Deluxe Edition: http://smarturl.it/kanebrowndeluxe Director: Alex Alvga #KaneBrown #Heaven #Vevo #Country ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dRX0wDNK6S4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dRX0wDNK6S4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dRX0wDNK6S4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/dRX0wDNK6S4/default.jpg"
+    },
+    {
+      "id": "8MPbR6Cbwi4",
+      "link": "https://www.youtube.com/watch?v=8MPbR6Cbwi4",
+      "kind": "youtube#video",
+      "publishedAt": "2018-01-25T17:00:01.000Z",
+      "channelId": "UCsXfDf1CDgU3SCt0gxJNXGg",
+      "channelTitle": "justintimberlakeVEVO",
+      "title": "Justin Timberlake - Say Something ft. Chris Stapleton (Official Video)",
+      "description": "\"Say Something\" ft. Chris Stapleton from Man of the Woods Official Music Video directed by Arturo Perez Jr. - La Blogothèque Man of the Woods – An Album By ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8MPbR6Cbwi4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8MPbR6Cbwi4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8MPbR6Cbwi4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/8MPbR6Cbwi4/default.jpg"
+    },
+    {
+      "id": "7qaHdHpSjX8",
+      "link": "https://www.youtube.com/watch?v=7qaHdHpSjX8",
+      "kind": "youtube#video",
+      "publishedAt": "2017-01-13T05:01:30.000Z",
+      "channelId": "UChpgnPWp9RsKODOmExta_TA",
+      "channelTitle": "BrettYoungVEVO",
+      "title": "Brett Young - In Case You Didn&#39;t Know (Official Music Video)",
+      "description": "Click here to purchase Brett's new self-titled album including “In Case You Didn't Know”: iTunes / Google Play: http://smarturl.it/BrettYoung Amazon: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7qaHdHpSjX8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7qaHdHpSjX8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7qaHdHpSjX8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/7qaHdHpSjX8/default.jpg"
+    },
+    {
+      "id": "1vrEljMfXYo",
+      "link": "https://www.youtube.com/watch?v=1vrEljMfXYo",
+      "kind": "youtube#video",
+      "publishedAt": "2013-04-05T22:45:52.000Z",
+      "channelId": "UCB2ADTh5dbYcI46S-_ju7ww",
+      "channelTitle": "JohnDenverVEVO",
+      "title": "John Denver - Take Me Home, Country Roads (Audio)",
+      "description": "John Denver's official audio for 'Take Me Home, Country Roads', as featured on Fallout 76. Listen to John Denver: https://JohnDenver.lnk.to/listenYD Subscribe ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1vrEljMfXYo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1vrEljMfXYo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1vrEljMfXYo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/1vrEljMfXYo/default.jpg"
+    },
+    {
+      "id": "SoIKv3xxuMA",
+      "link": "https://www.youtube.com/watch?v=SoIKv3xxuMA",
+      "kind": "youtube#video",
+      "publishedAt": "2016-09-16T04:00:01.000Z",
+      "channelId": "UCK-GN21LMCsDoQgnZXNqLaw",
+      "channelTitle": "KeithUrbanVEVO",
+      "title": "Keith Urban - Blue Ain&#39;t Your Color (Official Music Video)",
+      "description": "Purchase Keith Urban's latest music: http://umgn.us/keithurbanpurchase Stream the latest from Keith Urban: http://umgn.us/keithurbanstream Sign up to receive ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SoIKv3xxuMA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SoIKv3xxuMA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SoIKv3xxuMA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/SoIKv3xxuMA/default.jpg"
+    },
+    {
+      "id": "fM8V1XOI-14",
+      "link": "https://www.youtube.com/watch?v=fM8V1XOI-14",
+      "kind": "youtube#video",
+      "publishedAt": "2017-05-14T07:00:02.000Z",
+      "channelId": "UCsEj8E122ibbJetQe8BoV7g",
+      "channelTitle": "KaneBrownVEVO",
+      "title": "Kane Brown - What Ifs ft. Lauren Alaina (Official Music Video)",
+      "description": "Get Kane Brown's “What Ifs” (featuring Lauren Alaina) on his self-titled debut album: http://smarturl.it/kanebrown?IQid=yt #KaneBrown #WhatIfs #Vevo #Country ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fM8V1XOI-14/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fM8V1XOI-14/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fM8V1XOI-14/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/fM8V1XOI-14/default.jpg"
+    }
+  ]
+}

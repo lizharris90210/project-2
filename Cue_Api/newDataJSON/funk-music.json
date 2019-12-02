@@ -1,0 +1,413 @@
+
+{
+  "name": "Hilary Lamb",
+  "pic": "http://1.bp.blogspot.com/-NzcNy2zRZQU/U-gcxm4S1UI/AAAAAAAADoQ/oRTB2dBEFTk/s1600/hilarylamb-1-26.png",
+  "city": "Los Angeles",
+  "state": "CA",
+  "email": "indiePOP@zmail.com",
+  "twitter": "@hilDawq",
+  "band": "the Swiftees",
+  "instruments": [
+    "lead singer"
+  ],
+  "past_bands": [
+    "Tay Tays"
+  ],
+  "genres": [
+    "indie",
+    "pop"
+  ],
+  "location": "Los Angeles, CA",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/552HZTSOgLmras3MaDvbkV"
+      },
+      "href": "https://api.spotify.com/v1/playlists/552HZTSOgLmras3MaDvbkV",
+      "id": "552HZTSOgLmras3MaDvbkV",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/059986ba23c1f4449ebc79aaf1afef629be3e453",
+          "width": null
+        }
+      ],
+      "name": "Sr Indie Music",
+      "owner": {
+        "display_name": "Jonatan Gutierrez",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/3whyf3u8z6j5aizjoqu5a203c"
+        },
+        "href": "https://api.spotify.com/v1/users/3whyf3u8z6j5aizjoqu5a203c",
+        "id": "3whyf3u8z6j5aizjoqu5a203c",
+        "type": "user",
+        "uri": "spotify:user:3whyf3u8z6j5aizjoqu5a203c"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTg4LDI0ZjhiMTQzOTg1NmUwMzNmOGRmYzc0ZWI2ODE2NTk3ZmU4Yzk0Zjc=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/552HZTSOgLmras3MaDvbkV/tracks",
+        "total": 158
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:552HZTSOgLmras3MaDvbkV",
+      "pic": "https://pl.scdn.co/images/pl/default/059986ba23c1f4449ebc79aaf1afef629be3e453"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8OdFBus1U8c",
+      "id": "37i9dQZF1DX8OdFBus1U8c",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/053a59811e8a527ae992047527866ff82ab2a7bd",
+          "width": null
+        }
+      ],
+      "name": "Malayalam Indie",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU2NTMzOTQ3MCwwMDAwMDAwNjAwMDAwMTZjNzU4MGNhNGIwMDAwMDE2YmJiZGFiMmI2",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8OdFBus1U8c/tracks",
+        "total": 33
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DX8OdFBus1U8c",
+      "pic": "https://pl.scdn.co/images/pl/default/053a59811e8a527ae992047527866ff82ab2a7bd"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4o1oenSJRJd"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4o1oenSJRJd",
+      "id": "37i9dQZF1DX4o1oenSJRJd",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002199f7cb02da81d08f730ba30",
+          "width": null
+        }
+      ],
+      "name": "All Out 00s",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDY2MiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4o1oenSJRJd/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DX4o1oenSJRJd",
+      "pic": "https://i.scdn.co/image/ab67706f00000002199f7cb02da81d08f730ba30"
+    }
+  ],
+  "videos": [
+    {
+      "id": "OPf0YbXqDm0",
+      "link": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
+      "kind": "youtube#video",
+      "publishedAt": "2014-11-19T14:00:18.000Z",
+      "channelId": "UCmfFGTSsfJVu6CGvL8r75qg",
+      "channelTitle": "MarkRonsonVEVO",
+      "title": "Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars",
+      "description": "Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars Follow on Spotify: http://ron.sn/stream/spotify Listen on Apple Music: http://ron.sn/stream/applemusic ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OPf0YbXqDm0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OPf0YbXqDm0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OPf0YbXqDm0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/OPf0YbXqDm0/default.jpg"
+    },
+    {
+      "id": "aRokmEJO8Cg",
+      "link": "https://www.youtube.com/watch?v=aRokmEJO8Cg",
+      "kind": "youtube#video",
+      "publishedAt": "2015-05-01T15:49:59.000Z",
+      "channelId": "UCMkfcY0uNTa7hccthSooPnQ",
+      "channelTitle": "Haschak Sisters",
+      "title": "Mark Ronson - Uptown Funk ft Bruno Mars (Haschak Sisters Cover)",
+      "description": "Click 2 Tweet \"Uptown Funk\" Cover! http://tiny.cc/brunohaschak Hi Guys! We are so happy to upload our first solo music video to Mark Ronson & Bruno Mars' hit ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aRokmEJO8Cg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aRokmEJO8Cg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aRokmEJO8Cg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/aRokmEJO8Cg/default.jpg"
+    },
+    {
+      "id": "lET-fk67F8o",
+      "link": "https://www.youtube.com/watch?v=lET-fk67F8o",
+      "kind": "youtube#video",
+      "publishedAt": "2015-03-03T12:24:15.000Z",
+      "channelId": "UCaAYydAFAyhiOh-VzFx1rCw",
+      "channelTitle": "Ky Baldwin",
+      "title": "Uptown Funk - Mark Ronson ft. Bruno Mars cover by Ky Baldwin",
+      "description": "Hey guys, ever since \"Uptown Funk\" by Mark Ronson ft. Bruno Mars came out i've wanted to do a cover, and finally i got myself together and made this video!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lET-fk67F8o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lET-fk67F8o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lET-fk67F8o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/lET-fk67F8o/default.jpg"
+    },
+    {
+      "id": "YgGzAKP_HuM",
+      "link": "https://www.youtube.com/watch?v=YgGzAKP_HuM",
+      "kind": "youtube#video",
+      "publishedAt": "2016-04-06T00:53:40.000Z",
+      "channelId": "UCZicpZM_VGC1lvk6q5mRWVg",
+      "channelTitle": "Pace Audio",
+      "title": "RASPUTIN - Vladimir Putin - Love The Way You Move (Funk Overload) @slocband",
+      "description": "iTunes: https://goo.gl/DDpdXN Spotify: https://goo.gl/5dEkoi RE-UPLOAD under permission with Slightly Left of Centre (SLC), FRESH and StudiaMONOLITH.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YgGzAKP_HuM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YgGzAKP_HuM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YgGzAKP_HuM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/YgGzAKP_HuM/default.jpg"
+    },
+    {
+      "id": "ziN7Y1M1v8s",
+      "link": "https://www.youtube.com/watch?v=ziN7Y1M1v8s",
+      "kind": "youtube#video",
+      "publishedAt": "2014-11-10T17:32:07.000Z",
+      "channelId": "UCpi-SYqaXdmr7sd63YGy52g",
+      "channelTitle": "A X",
+      "title": "Mark Ronson - Uptown Funk (feat. Bruno Mars) - Lyrics",
+      "description": "Buy Uptown Funk on iTunes: http://smarturl.it/UptownFunk?IQid=yt Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ziN7Y1M1v8s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ziN7Y1M1v8s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ziN7Y1M1v8s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/ziN7Y1M1v8s/default.jpg"
+    },
+    {
+      "id": "P-WdrMLLpPg",
+      "link": "https://www.youtube.com/watch?v=P-WdrMLLpPg",
+      "kind": "youtube#video",
+      "publishedAt": "2015-01-14T14:00:20.000Z",
+      "channelId": "UCp0hYYBW6IMayGgR-WeoCvQ",
+      "channelTitle": "TheEllenShow",
+      "title": "Mark Ronson &amp; Bruno Mars Perform &#39;Uptown Funk&#39;",
+      "description": "Bruno Mars and Mark Ronson were here for an incredible reenactment of the video for their unstoppable song! Everyone got in on the fun.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P-WdrMLLpPg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P-WdrMLLpPg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P-WdrMLLpPg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/P-WdrMLLpPg/default.jpg"
+    },
+    {
+      "id": "M1F0lBnsnkE",
+      "link": "https://www.youtube.com/watch?v=M1F0lBnsnkE",
+      "kind": "youtube#video",
+      "publishedAt": "2015-10-06T17:40:25.000Z",
+      "channelId": "UCIOVKMjnGa-hDnDoT_2jW2Q",
+      "channelTitle": "Nerd Fest UK",
+      "title": "Old Movie Stars Dance to Uptown Funk",
+      "description": "If you like this video, please support these film preservation charities: The British Film Institute, https://goo.gl/iwTkD7 The George Eastman Museum, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M1F0lBnsnkE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M1F0lBnsnkE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M1F0lBnsnkE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/M1F0lBnsnkE/default.jpg"
+    },
+    {
+      "id": "7Ya2U8XN_Zw",
+      "link": "https://www.youtube.com/watch?v=7Ya2U8XN_Zw",
+      "kind": "youtube#video",
+      "publishedAt": "2014-11-10T05:01:00.000Z",
+      "channelId": "UCmfFGTSsfJVu6CGvL8r75qg",
+      "channelTitle": "MarkRonsonVEVO",
+      "title": "Mark Ronson - Uptown Funk (Official Audio) ft. Bruno Mars",
+      "description": "You can vote Uptown Funk as British Artist Video Of The Year by tweeting using #BRITMarkRonson http://smarturl.it/BRITMarkRonson Mark Ronson – Uptown ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7Ya2U8XN_Zw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7Ya2U8XN_Zw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7Ya2U8XN_Zw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/7Ya2U8XN_Zw/default.jpg"
+    },
+    {
+      "id": "9ka5bgHnHyg",
+      "link": "https://www.youtube.com/watch?v=9ka5bgHnHyg",
+      "kind": "youtube#video",
+      "publishedAt": "2014-10-16T14:33:30.000Z",
+      "channelId": "UCzcn2eAUHZ2Ba3x7hZF6q2w",
+      "channelTitle": "Stay See",
+      "title": "Hip Hop &#39; Funk &#39; Jazz - Ours Samplus",
+      "description": "Ours Samplus Vol.2 https://bit.ly/2JtPChA Similar Music on Spotify https://chillhop.lnk.to/spotifyEB If you like Gramatik , ProleteR , Parov Stelar .. this music is for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9ka5bgHnHyg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9ka5bgHnHyg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9ka5bgHnHyg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/9ka5bgHnHyg/default.jpg"
+    },
+    {
+      "id": "GbGX1Sx0gvo",
+      "link": "https://www.youtube.com/watch?v=GbGX1Sx0gvo",
+      "kind": "youtube#video",
+      "publishedAt": "2014-11-23T16:00:07.000Z",
+      "channelId": "UCmfFGTSsfJVu6CGvL8r75qg",
+      "channelTitle": "MarkRonsonVEVO",
+      "title": "Mark Ronson - Uptown Funk (Live on SNL) ft. Bruno Mars",
+      "description": "Mark Ronson - Uptown Funk ft. Bruno Mars (Live on SNL) Follow on Spotify - http://smarturl.it/Spotify_MarkRonson Listen on Apple Music ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GbGX1Sx0gvo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GbGX1Sx0gvo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GbGX1Sx0gvo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/GbGX1Sx0gvo/default.jpg"
+    }
+  ]
+}

@@ -19,5 +19,5 @@ exports.database = {
 };
 
 exports.subject = {
-  genre: "alternative-music"
+  genre: "funk-music"
 };

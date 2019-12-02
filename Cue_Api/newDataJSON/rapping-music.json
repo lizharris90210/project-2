@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "XbGs_qK2PQA",
+      "link": "https://www.youtube.com/watch?v=XbGs_qK2PQA",
+      "kind": "youtube#video",
+      "publishedAt": "2013-11-27T16:50:00.000Z",
+      "channelId": "UC20vb-R_px4CguHzzBPhoyQ",
+      "channelTitle": "EminemVEVO",
+      "title": "Eminem - Rap God (Explicit) [Official Video]",
+      "description": "Download Eminem's 'MMLP2' Album on iTunes now:http://smarturl.it/MMLP2 Credits below Video Director: Rich Lee Video Producer: Justin Diener Video ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XbGs_qK2PQA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XbGs_qK2PQA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XbGs_qK2PQA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/XbGs_qK2PQA/default.jpg"
+    },
+    {
+      "id": "PEGccV-NOm8",
+      "link": "https://www.youtube.com/watch?v=PEGccV-NOm8",
+      "kind": "youtube#video",
+      "publishedAt": "2017-06-24T23:41:47.000Z",
+      "channelId": "UCxMAbVFmxKUVGAll0WVGpFw",
+      "channelTitle": "Cardi B",
+      "title": "Cardi B - Bodak Yellow [OFFICIAL MUSIC VIDEO]",
+      "description": "Cardi B - \"Bodak Yellow\" from the debut album Invasion of Privacy Stream/Download: https://CardiB.lnk.to/IOPAY Exclusive Bardi Gang merchandise available ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PEGccV-NOm8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PEGccV-NOm8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PEGccV-NOm8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/PEGccV-NOm8/default.jpg"
+    },
+    {
+      "id": "lwk5OUII9Vc",
+      "link": "https://www.youtube.com/watch?v=lwk5OUII9Vc",
+      "kind": "youtube#video",
+      "publishedAt": "2017-05-26T16:00:08.000Z",
+      "channelId": "UCNinLG7WHOoH4clPD8Hnssg",
+      "channelTitle": "AyoandTeoVEVO",
+      "title": "Ayo &amp; Teo - Rolex (Official Music Video)",
+      "description": "Ayo & Teo's Official Video for \"Rolex\" Get \"Rolex\" here: http://smarturl.it/Rolex Follow Ayo: Twitter: https://twitter.com/OgLeloo Instagram: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lwk5OUII9Vc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lwk5OUII9Vc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lwk5OUII9Vc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/lwk5OUII9Vc/default.jpg"
+    },
+    {
+      "id": "EHkozMIXZ8w",
+      "link": "https://www.youtube.com/watch?v=EHkozMIXZ8w",
+      "kind": "youtube#video",
+      "publishedAt": "2013-12-17T00:50:00.000Z",
+      "channelId": "UC20vb-R_px4CguHzzBPhoyQ",
+      "channelTitle": "EminemVEVO",
+      "title": "Eminem ft. Rihanna - The Monster (Explicit) [Official Video]",
+      "description": "Download Eminem's 'MMLP2' Album on iTunes now:http://smarturl.it/MMLP2 Music video by Eminem ft. Rihanna \"The Monster\" © 2013 Interscope Playlist Best ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EHkozMIXZ8w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EHkozMIXZ8w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EHkozMIXZ8w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/EHkozMIXZ8w/default.jpg"
+    },
+    {
+      "id": "4NJlUribp3c",
+      "link": "https://www.youtube.com/watch?v=4NJlUribp3c",
+      "kind": "youtube#video",
+      "publishedAt": "2016-03-10T08:00:00.000Z",
+      "channelId": "UCuoH9aFpJT0HltXb0XrKRNQ",
+      "channelTitle": "DesiignerVEVO",
+      "title": "Desiigner - Panda (Official Audio)",
+      "description": "Listen to “Panda” by Desiigner http://smarturl.it/dPanda iTunes http://smarturl.it/iPanda Google Play: http://smarturl.it/gPanda Amazon: http://smarturl.it/aPanda ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4NJlUribp3c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4NJlUribp3c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4NJlUribp3c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/4NJlUribp3c/default.jpg"
+    },
+    {
+      "id": "S9bCLPwzSC0",
+      "link": "https://www.youtube.com/watch?v=S9bCLPwzSC0",
+      "kind": "youtube#video",
+      "publishedAt": "2009-12-25T04:20:46.000Z",
+      "channelId": "UC20vb-R_px4CguHzzBPhoyQ",
+      "channelTitle": "EminemVEVO",
+      "title": "Eminem - Mockingbird (Official Music Video)",
+      "description": "Playlist Best of Eminem: https://goo.gl/AquNpo Subscribe for more: https://goo.gl/DxCrDV Music video by Eminem performing Mockingbird. YouTube view counts ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S9bCLPwzSC0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S9bCLPwzSC0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S9bCLPwzSC0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/S9bCLPwzSC0/default.jpg"
+    },
+    {
+      "id": "lsJLLEwUYZM",
+      "link": "https://www.youtube.com/watch?v=lsJLLEwUYZM",
+      "kind": "youtube#video",
+      "publishedAt": "2015-12-20T21:36:07.000Z",
+      "channelId": "UCAfvFXvjzEupwo2NtyDhRZA",
+      "channelTitle": "Desiigner LOD",
+      "title": "Desiigner- Panda (OFFICIAL SONG) Prod. By: Menace",
+      "description": "Check out the latest single from Desiigner. This is the OFFICIAL PANDA!! AVAILABLE ON iTUNES NOW: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lsJLLEwUYZM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lsJLLEwUYZM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lsJLLEwUYZM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/lsJLLEwUYZM/default.jpg"
+    },
+    {
+      "id": "K44j-sb1SRY",
+      "link": "https://www.youtube.com/watch?v=K44j-sb1SRY",
+      "kind": "youtube#video",
+      "publishedAt": "2016-07-22T17:01:22.000Z",
+      "channelId": "UC89dItegSy120X9dAhnKxMQ",
+      "channelTitle": "DRAM",
+      "title": "DRAM - Broccoli feat. Lil Yachty (Official Music Video)",
+      "description": "From the album Big Baby DRAM, available now. https://Empire.lnk.to/BigBabyDramDeluxeID Directed by Nathan R. Smith & Hidji Films ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K44j-sb1SRY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K44j-sb1SRY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K44j-sb1SRY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/K44j-sb1SRY/default.jpg"
+    },
+    {
+      "id": "ngH0fkiNo-g",
+      "link": "https://www.youtube.com/watch?v=ngH0fkiNo-g",
+      "kind": "youtube#video",
+      "publishedAt": "2009-12-25T06:41:03.000Z",
+      "channelId": "UC20vb-R_px4CguHzzBPhoyQ",
+      "channelTitle": "EminemVEVO",
+      "title": "Eminem ft. 50 Cent, Cashis, Lloyd Banks - You Don&#39;t Know (Official Video)",
+      "description": "Music video by Eminem performing You Don't Know. (C) 2006 Shady Records/Interscope Records #Eminem #YouDontKnow #Vevo.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ngH0fkiNo-g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ngH0fkiNo-g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ngH0fkiNo-g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/ngH0fkiNo-g/default.jpg"
+    },
+    {
+      "id": "LPTlvQ1Zet0",
+      "link": "https://www.youtube.com/watch?v=LPTlvQ1Zet0",
+      "kind": "youtube#video",
+      "publishedAt": "2018-03-01T14:00:02.000Z",
+      "channelId": "UCJTWqqBgwNNzF3p-YwPApKA",
+      "channelTitle": "21SavageVEVO",
+      "title": "21 Savage, Offset, Metro Boomin - Ric Flair Drip (Official Music Video)",
+      "description": "\"Without Warning\" available at http://smarturl.it/WithoutWarning 21 Savage online: https://twitter.com/21savage https://www.instagram.com/21savage ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LPTlvQ1Zet0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LPTlvQ1Zet0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LPTlvQ1Zet0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/LPTlvQ1Zet0/default.jpg"
+    }
+  ]
+}

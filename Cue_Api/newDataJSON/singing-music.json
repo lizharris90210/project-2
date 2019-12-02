@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "kffacxfA7G4",
+      "link": "https://www.youtube.com/watch?v=kffacxfA7G4",
+      "kind": "youtube#video",
+      "publishedAt": "2010-02-19T08:16:34.000Z",
+      "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+      "channelTitle": "JustinBieberVEVO",
+      "title": "Justin Bieber - Baby ft. Ludacris (Official Music Video)",
+      "description": "Music video by Justin Bieber performing Baby feat. Ludacris. #VEVOCertified on April 25, 2010. http://www.youtube.com/vevocertified #JustinBieber #Baby ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kffacxfA7G4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kffacxfA7G4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kffacxfA7G4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/kffacxfA7G4/default.jpg"
+    },
+    {
+      "id": "3JWTaaS7LdU",
+      "link": "https://www.youtube.com/watch?v=3JWTaaS7LdU",
+      "kind": "youtube#video",
+      "publishedAt": "2010-09-28T00:18:42.000Z",
+      "channelId": "UCG5fkJ8-2b2ZjWpVNpr7Dqg",
+      "channelTitle": "whitneyhoustonVEVO",
+      "title": "Whitney Houston - I Will Always Love You",
+      "description": "Watch the official music video for \"All The Man That I Need\" by Whitney Houston Listen to Whitney Houston: https://WhitneyHouston.lnk.to/listenYD Subscribe to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3JWTaaS7LdU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3JWTaaS7LdU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3JWTaaS7LdU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/3JWTaaS7LdU/default.jpg"
+    },
+    {
+      "id": "vx2u5uUu3DE",
+      "link": "https://www.youtube.com/watch?v=vx2u5uUu3DE",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-17T00:55:22.000Z",
+      "channelId": "UCwlTofOAY79PS_GhmborAdA",
+      "channelTitle": "BonJoviVEVO",
+      "title": "Bon Jovi - It&#39;s My Life",
+      "description": "Music video by Bon Jovi performing It's My Life. (C) 2003 The Island Def Jam Music Group.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/vx2u5uUu3DE/default.jpg"
+    },
+    {
+      "id": "lDK9QqIzhwk",
+      "link": "https://www.youtube.com/watch?v=lDK9QqIzhwk",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-17T00:35:28.000Z",
+      "channelId": "UCwlTofOAY79PS_GhmborAdA",
+      "channelTitle": "BonJoviVEVO",
+      "title": "Bon Jovi - Livin&#39; On A Prayer",
+      "description": "Music video by Bon Jovi performing Livin' On A Prayer. (C) 1986 The Island Def Jam Music Group.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lDK9QqIzhwk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lDK9QqIzhwk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lDK9QqIzhwk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/lDK9QqIzhwk/default.jpg"
+    },
+    {
+      "id": "LsoLEjrDogU",
+      "link": "https://www.youtube.com/watch?v=LsoLEjrDogU",
+      "kind": "youtube#video",
+      "publishedAt": "2018-01-04T04:49:43.000Z",
+      "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+      "channelTitle": "Bruno Mars",
+      "title": "Bruno Mars - Finesse (Remix) (feat. Cardi B] [Official Video]",
+      "description": "The official music video for Bruno Mars' \"Finesse (Remix)\" featuring Cardi B - Available Now: https://Atlantic.lnk.to/FinesseRemixID Directed by Bruno Mars ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LsoLEjrDogU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LsoLEjrDogU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LsoLEjrDogU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/LsoLEjrDogU/default.jpg"
+    },
+    {
+      "id": "9BMwcO6_hyA",
+      "link": "https://www.youtube.com/watch?v=9BMwcO6_hyA",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-17T00:24:48.000Z",
+      "channelId": "UCwlTofOAY79PS_GhmborAdA",
+      "channelTitle": "BonJoviVEVO",
+      "title": "Bon Jovi - Always",
+      "description": "Music video by Bon Jovi performing Always. (C) 1994 The Island Def Jam Music Group.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9BMwcO6_hyA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9BMwcO6_hyA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9BMwcO6_hyA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/9BMwcO6_hyA/default.jpg"
+    },
+    {
+      "id": "iEe_eraFWWs",
+      "link": "https://www.youtube.com/watch?v=iEe_eraFWWs",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-17T05:36:14.000Z",
+      "channelId": "UCrwmu-gceGOmtZeuTsn7DlQ",
+      "channelTitle": "BlackEyedPeasVEVO",
+      "title": "The Black Eyed Peas - My Humps (Official Music Video)",
+      "description": "REMASTERED IN HD! Music video by Black Eyed Peas performing My Humps. (C) 2005 Interscope Records #TheBlackEyedPeas #MyHumps #Remastered ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iEe_eraFWWs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iEe_eraFWWs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iEe_eraFWWs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/iEe_eraFWWs/default.jpg"
+    },
+    {
+      "id": "PWgvGjAhvIw",
+      "link": "https://www.youtube.com/watch?v=PWgvGjAhvIw",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-25T07:06:36.000Z",
+      "channelId": "UC5VK325YvY3G1PGBuEfMNdg",
+      "channelTitle": "OutkastVEVO",
+      "title": "OutKast - Hey Ya! (Official Music Video)",
+      "description": "OutKast's official music video for 'Hey Ya!'. Click to listen to OutKast on Spotify: http://smarturl.it/OutKastSpotify?IQi... As featured on SpeakerBoxxx/The Love ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PWgvGjAhvIw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PWgvGjAhvIw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PWgvGjAhvIw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/PWgvGjAhvIw/default.jpg"
+    },
+    {
+      "id": "bSfpSOBD30U",
+      "link": "https://www.youtube.com/watch?v=bSfpSOBD30U",
+      "kind": "youtube#video",
+      "publishedAt": "2015-10-29T07:53:26.000Z",
+      "channelId": "UCjjC1Jk_1o1VWpLalgo21XQ",
+      "channelTitle": "GEazyMusicVEVO",
+      "title": "G-Eazy x Bebe Rexha - Me, Myself &amp; I (Official Music Video)",
+      "description": "G-Eazy new album \"When It's Dark Out\" Available Now! Get it on: iTunes: http://smarturl.it/GEazyWIDO?IQid=yt Stream on Spotify: http://smarturl.it/GEazyWIDOs?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bSfpSOBD30U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bSfpSOBD30U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bSfpSOBD30U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/bSfpSOBD30U/default.jpg"
+    },
+    {
+      "id": "-rey3m8SWQI",
+      "link": "https://www.youtube.com/watch?v=-rey3m8SWQI",
+      "kind": "youtube#video",
+      "publishedAt": "2015-10-29T20:19:38.000Z",
+      "channelId": "UC-J-KZfRV8c13fOCkhXdLiQ",
+      "channelTitle": "Dua Lipa",
+      "title": "Dua Lipa - Be The One (Official Music Video)",
+      "description": "Dua Lipa - Be The One Director and Producer: Nicole Nodland Director of Photography and Editor: Jackson Ducasse The Complete Edition is here!!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-rey3m8SWQI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-rey3m8SWQI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-rey3m8SWQI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/-rey3m8SWQI/default.jpg"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "8Z5EjAmZS1o",
+      "link": "https://www.youtube.com/watch?v=8Z5EjAmZS1o",
+      "kind": "youtube#video",
+      "publishedAt": "2014-11-28T21:32:04.000Z",
+      "channelId": "UCiU8PeJF22EL5BXVpKY6bjQ",
+      "channelTitle": "Vida Marčiulionytė-Malyginienė\\Lithuania",
+      "title": "The Best Of YIRUMA | Yiruma&#39;s Greatest Hits ~ Best Piano",
+      "description": "The Case for Christ (2017) | Xpиcтoc пoд cлeдcтвиeм.2017 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8Z5EjAmZS1o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8Z5EjAmZS1o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8Z5EjAmZS1o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/8Z5EjAmZS1o/default.jpg"
+    },
+    {
+      "id": "ss7EJ-PW2Uk",
+      "link": "https://www.youtube.com/watch?v=ss7EJ-PW2Uk",
+      "kind": "youtube#video",
+      "publishedAt": "2015-10-01T18:45:22.000Z",
+      "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+      "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+      "title": "3 Hour Relaxing Guitar Music: Meditation Music, Instrumental Music, Calming Music, Soft Music, ☯2432",
+      "description": "3 Hour Relaxing Guitar Music: Meditation Music, Instrumental Music, Calming Music, Soft Music, ☯2432 – YellowBrickCinema's Instrumental Music includes ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ss7EJ-PW2Uk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ss7EJ-PW2Uk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ss7EJ-PW2Uk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/ss7EJ-PW2Uk/default.jpg"
+    },
+    {
+      "id": "luRkeDCoxZ4",
+      "link": "https://www.youtube.com/watch?v=luRkeDCoxZ4",
+      "kind": "youtube#video",
+      "publishedAt": "2013-06-18T18:48:29.000Z",
+      "channelId": "UC4jWo5kiyOCt4PnvF4jbaLg",
+      "channelTitle": "The Honest Guys - Meditations - Relaxation",
+      "title": "3 HOURS Relaxing Music with Water Sounds Meditation",
+      "description": "3 hours of some of the most relaxing music around, with added spa water sounds. Ideal peaceful background music for working, resting, studying, meditation, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/luRkeDCoxZ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/luRkeDCoxZ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/luRkeDCoxZ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/luRkeDCoxZ4/default.jpg"
+    },
+    {
+      "id": "jgpJVI3tDbY",
+      "link": "https://www.youtube.com/watch?v=jgpJVI3tDbY",
+      "kind": "youtube#video",
+      "publishedAt": "2015-03-02T14:48:55.000Z",
+      "channelId": "UC68KnvCZ-nJzmmuSu_tKASA",
+      "channelTitle": "Just Instrumental Music",
+      "title": "The Best of Classical Music - Mozart, Beethoven, Bach, Chopin... Classical Music Piano Playlist Mix",
+      "description": "3 HOURS The Best Classical Music Playlist Mix (Mozart, Beethoven, Bach, Chopin) Beautiful Piano, Violin & Orchestral Masterpieces by the greatest composers ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jgpJVI3tDbY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jgpJVI3tDbY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jgpJVI3tDbY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/jgpJVI3tDbY/default.jpg"
+    },
+    {
+      "id": "qycqF1CWcXg",
+      "link": "https://www.youtube.com/watch?v=qycqF1CWcXg",
+      "kind": "youtube#video",
+      "publishedAt": "2012-07-20T13:38:00.000Z",
+      "channelId": "UCc9EzBNAtdnNiDrMw5CAxUw",
+      "channelTitle": "relaxdaily",
+      "title": "Background Music Instrumentals - relaxdaily - B-Sides N°1",
+      "description": "Relaxing instrumental background music: soft, slow and relaxing music for work, to focus, study, or just to relax. Use it as music while you're studying, reading, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qycqF1CWcXg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qycqF1CWcXg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qycqF1CWcXg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/qycqF1CWcXg/default.jpg"
+    },
+    {
+      "id": "y7e-GC6oGhg",
+      "link": "https://www.youtube.com/watch?v=y7e-GC6oGhg",
+      "kind": "youtube#video",
+      "publishedAt": "2017-12-17T10:12:42.000Z",
+      "channelId": "UCjzHeG1KWoonmf9d5KBvSiw",
+      "channelTitle": "Soothing Relaxation",
+      "title": "Beautiful Piano Music 24/7 • Study Music, Relaxing Music, Sleep Music, Meditation Music",
+      "description": "Beautiful piano music 24/7 live stream featuring relaxing music by me, Peder B. Helland. Suitable as study music, sleep music, meditation music and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y7e-GC6oGhg/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y7e-GC6oGhg/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y7e-GC6oGhg/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/y7e-GC6oGhg/default_live.jpg"
+    },
+    {
+      "id": "k3_tw44QsZQ",
+      "link": "https://www.youtube.com/watch?v=k3_tw44QsZQ",
+      "kind": "youtube#video",
+      "publishedAt": "2015-06-17T11:41:49.000Z",
+      "channelId": "UCaPU4Zcr5Hoi6Io9G-xKexA",
+      "channelTitle": "Instrumental Music Playlist Collection",
+      "title": "Soft Jazz Sexy  Instrumental Relaxation Saxophone Music 2013 Collection",
+      "description": "Title: Soft Jazz Sexy Artist: Soft Jazz Year: 2013 Genre: Jazz Format / Codec: Mp3 Bitrate: 320 kbps Track list: 01. Ain't No Sunshine (When She's Gone) 02.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k3_tw44QsZQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k3_tw44QsZQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k3_tw44QsZQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/k3_tw44QsZQ/default.jpg"
+    },
+    {
+      "id": "CcsUYu0PVxY",
+      "link": "https://www.youtube.com/watch?v=CcsUYu0PVxY",
+      "kind": "youtube#video",
+      "publishedAt": "2014-02-05T10:05:04.000Z",
+      "channelId": "UCdQnjeuggsBIqkqnhIwdxSA",
+      "channelTitle": "utopiansounds",
+      "title": "4 hours Peaceful &amp; Relaxing Instrumental Music-Long Playlist",
+      "description": "If you want more relaxing music try the Relax Melodies app: https://relaxmelodies.com You can listen to it offline too! 4 hours of soothing background music for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CcsUYu0PVxY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CcsUYu0PVxY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CcsUYu0PVxY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/CcsUYu0PVxY/default.jpg"
+    },
+    {
+      "id": "_qzo8fRwWHc",
+      "link": "https://www.youtube.com/watch?v=_qzo8fRwWHc",
+      "kind": "youtube#video",
+      "publishedAt": "2018-10-30T23:45:01.000Z",
+      "channelId": "UCm1Tu7lM4zdbsZYHbzCfctg",
+      "channelTitle": "Rujay",
+      "title": "&quot;Next Level&quot; - Freestyle Trap Beat Free Rap Hip Hop Instrumental 2018 | SeriouzBeats #Instrumentals",
+      "description": "722 - \"Next Level\" - Freestyle Trap Beat Free New Rap Hip Hop Instrumental Music 2018, by Dutch producer SeriouzBeats. #Instrumentals | Purchase (No ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_qzo8fRwWHc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_qzo8fRwWHc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_qzo8fRwWHc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/_qzo8fRwWHc/default.jpg"
+    },
+    {
+      "id": "J65GxJ2v9Wg",
+      "link": "https://www.youtube.com/watch?v=J65GxJ2v9Wg",
+      "kind": "youtube#video",
+      "publishedAt": "2015-03-26T17:00:00.000Z",
+      "channelId": "UCYy9EGb3fvmUSgMVfJ7KXJw",
+      "channelTitle": "Nu Meditation Music",
+      "title": "Indian Background Flute Music: Instrumental Meditation Music | Yoga Music | Spa Music for Relaxation",
+      "description": "NuMeditationMusic youtube channel is devoted to create a new collection of LONG MEDITATION MUSIC videos for you to relax and enjoy in your daily ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J65GxJ2v9Wg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J65GxJ2v9Wg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J65GxJ2v9Wg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/J65GxJ2v9Wg/default.jpg"
+    }
+  ]
+}
