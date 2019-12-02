@@ -59,16 +59,20 @@ div.shape-img {
   margin-bottom: -150px;
 }
 
+.test{
+  position: fixed;
+}
+
 div.sync-txt {
   position: relative;
   margin-bottom: -50px;
 }
 
 div.text-collab {
-  margin-top: -300px;
+  /* margin-top: -300px; */
   position: relative;
   right: 150px;
-  top: 50px;
+  /* top: 20px; */
 }
 
 div.section-one {

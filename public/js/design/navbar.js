@@ -3,7 +3,7 @@ window.onscroll = function() {navBar();};
 
 // Get the header
 var header = document.getElementById("navBar");
-
+// var cue = document.getElementById("cue-image-2");
 // Get the offset position of the navbar
 var sticky = header.offsetTop;
 
@@ -11,7 +11,9 @@ var sticky = header.offsetTop;
 function navBar() {
   if (window.pageYOffset > sticky) {
     header.classList.add("sticky");
+    // cue.classList.add("sticky");
   } else {
     header.classList.remove("sticky");
+    // cue.classList.remove("sticky");
   }
 }
