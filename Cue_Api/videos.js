@@ -57,7 +57,7 @@ var WebSearch = {
     // ==========================================================================
 
     console.log(gradient.summer("Cue Api running"));
-    console.log(subject.genres[0]);
+    // console.log(subject.genres[0]);
     switch (subject.genres[0]) {
       case "alternative":
         subject.videos = testData.alternative;
