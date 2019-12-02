@@ -8,9 +8,7 @@ Presently, there are several options for social networks, but none cater specifi
 
 Login to the cue app homepage and fill out the survey. You will be directed to a site section specifically for your interests and goals. For example, if I answer that I play guitar in a band, you with be filtered onto a band page as well as an artists page. Your information is then placed onto each page with your specifics, making your information searchable for other musicians and music professionals.
 
-Spice this up with code blocks and potentially more screenshots.
-
-![Screenshot](/screenshot.png)
+![Cue](/public/images/cue-screen-record.mov)
 
 ### Technology Used
 
