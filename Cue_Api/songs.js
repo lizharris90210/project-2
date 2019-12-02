@@ -8,18 +8,20 @@ const tube = require("./videos");
 // Spotify package
 const Spotify = require("node-spotify-api");
 // adding keys to spotify
-const spotify = new Spotify(keys.spotify);
+const spotify = new Spotify({
+  id: process.env.SPOTIFY_ID,
+secret: process.env.SPOTIFY_SECRET});
 
 const songSearch = {
   spotifySucks: function(data1, cb) {
-    spotify.search(
-      // you can adjust the number of spotify images here with the limit variable
-      { type: "playlist", query: keys.subject.genre, limit: 2 },
-      function(err, response) {
-        if (err) {
-          console.log("Error occurred: " + err);
-          return;
-        }
+   spotify.search(
+//      you can adjust the number of spotify images here with the limit variable
+     { type: "playlist", query: keys.subject.genre, limit: 2 },
+     function(err, response) {
+       if (err) {
+         console.log("Error occurred: " + err);
+         return;
+       }
 
         let { items } = response.playlists;
         for (let i = 0; i < items.length; i++) {
