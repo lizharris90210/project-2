@@ -19,5 +19,5 @@ exports.database = {
 };
 
 exports.subject = {
-  genre: "death-metal-music"
+  genre: "alternative-music"
 };
