@@ -22,18 +22,18 @@
     {
       "collaborative": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX"
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTqYqGLu7kTX",
-      "id": "37i9dQZF1DWTqYqGLu7kTX",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8OdFBus1U8c",
+      "id": "37i9dQZF1DX8OdFBus1U8c",
       "images": [
         {
           "height": null,
-          "url": "https://pl.scdn.co/images/pl/default/4791f703e618fa8ecc2759d10ae447b098aefdf0",
+          "url": "https://pl.scdn.co/images/pl/default/053a59811e8a527ae992047527866ff82ab2a7bd",
           "width": null
         }
       ],
-      "name": "Hip Te Hop",
+      "name": "Malayalam Indie",
       "owner": {
         "display_name": "Spotify",
         "external_urls": {
@@ -46,30 +46,66 @@
       },
       "primary_color": null,
       "public": null,
-      "snapshot_id": "MTU3NDc1OTE0NSwwMDAwMDA2NTAwMDAwMTZlYTZmNWExYWEwMDAwMDE2ZGI0NGNlYWNk",
+      "snapshot_id": "MTU2NTMzOTQ3MCwwMDAwMDAwNjAwMDAwMTZjNzU4MGNhNGIwMDAwMDE2YmJiZGFiMmI2",
       "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTqYqGLu7kTX/tracks",
-        "total": 76
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8OdFBus1U8c/tracks",
+        "total": 33
       },
       "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1DWTqYqGLu7kTX",
-      "pic": "https://pl.scdn.co/images/pl/default/4791f703e618fa8ecc2759d10ae447b098aefdf0"
+      "uri": "spotify:playlist:37i9dQZF1DX8OdFBus1U8c",
+      "pic": "https://pl.scdn.co/images/pl/default/053a59811e8a527ae992047527866ff82ab2a7bd"
     },
     {
       "collaborative": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/4OrmIW22XCKdqgbXcypQap"
+        "spotify": "https://open.spotify.com/playlist/552HZTSOgLmras3MaDvbkV"
       },
-      "href": "https://api.spotify.com/v1/playlists/4OrmIW22XCKdqgbXcypQap",
-      "id": "4OrmIW22XCKdqgbXcypQap",
+      "href": "https://api.spotify.com/v1/playlists/552HZTSOgLmras3MaDvbkV",
+      "id": "552HZTSOgLmras3MaDvbkV",
       "images": [
         {
           "height": null,
-          "url": "https://pl.scdn.co/images/pl/default/0317f46ab14bc43eece5564c67b0d0ddaec779d6",
+          "url": "https://pl.scdn.co/images/pl/default/059986ba23c1f4449ebc79aaf1afef629be3e453",
           "width": null
         }
       ],
-      "name": "Hip Hop Trap Music",
+      "name": "Sr Indie Music",
+      "owner": {
+        "display_name": "Jonatan Gutierrez",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/3whyf3u8z6j5aizjoqu5a203c"
+        },
+        "href": "https://api.spotify.com/v1/users/3whyf3u8z6j5aizjoqu5a203c",
+        "id": "3whyf3u8z6j5aizjoqu5a203c",
+        "type": "user",
+        "uri": "spotify:user:3whyf3u8z6j5aizjoqu5a203c"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTg4LDI0ZjhiMTQzOTg1NmUwMzNmOGRmYzc0ZWI2ODE2NTk3ZmU4Yzk0Zjc=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/552HZTSOgLmras3MaDvbkV/tracks",
+        "total": 158
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:552HZTSOgLmras3MaDvbkV",
+      "pic": "https://pl.scdn.co/images/pl/default/059986ba23c1f4449ebc79aaf1afef629be3e453"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4ycIAGqf9BoQMHiNobxGUc"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4ycIAGqf9BoQMHiNobxGUc",
+      "id": "4ycIAGqf9BoQMHiNobxGUc",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/94634ff4087ddfba9b49817b058b84a49b8dfdbb",
+          "width": null
+        }
+      ],
+      "name": "Indie Rock",
       "owner": {
         "display_name": "henry",
         "external_urls": {
@@ -82,50 +118,14 @@
       },
       "primary_color": null,
       "public": null,
-      "snapshot_id": "MjkyMSxjMmM3MDJjYmRmMTAyOWMwZTFhMTI1Zjg1M2E2ZjM3MjU1Y2NkZjBh",
+      "snapshot_id": "ODMwLGU4NzM3N2E5YTRjNmQ0NWQ4NjVjZmU2MDViNjAwZjRhNmUxYjNlMDQ=",
       "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/4OrmIW22XCKdqgbXcypQap/tracks",
-        "total": 20
+        "href": "https://api.spotify.com/v1/playlists/4ycIAGqf9BoQMHiNobxGUc/tracks",
+        "total": 17
       },
       "type": "playlist",
-      "uri": "spotify:playlist:4OrmIW22XCKdqgbXcypQap",
-      "pic": "https://pl.scdn.co/images/pl/default/0317f46ab14bc43eece5564c67b0d0ddaec779d6"
-    },
-    {
-      "collaborative": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM"
-      },
-      "href": "https://api.spotify.com/v1/playlists/0vvXsWCC9xrXsKd4FyS8kM",
-      "id": "0vvXsWCC9xrXsKd4FyS8kM",
-      "images": [
-        {
-          "height": null,
-          "url": "https://pl.scdn.co/images/pl/default/902e1adb4722c5089c446bddb4a318e0784da964",
-          "width": null
-        }
-      ],
-      "name": "lofi hip hop music - beats to relax/study to",
-      "owner": {
-        "display_name": "chilledcow",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/chilledcow"
-        },
-        "href": "https://api.spotify.com/v1/users/chilledcow",
-        "id": "chilledcow",
-        "type": "user",
-        "uri": "spotify:user:chilledcow"
-      },
-      "primary_color": null,
-      "public": null,
-      "snapshot_id": "MTc5LDE1YzdiZmQwNmNjMzZlYzQxMWU1Zjk5YmI4M2U5OGQ3ZjI0NDYwM2Q=",
-      "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/0vvXsWCC9xrXsKd4FyS8kM/tracks",
-        "total": 208
-      },
-      "type": "playlist",
-      "uri": "spotify:playlist:0vvXsWCC9xrXsKd4FyS8kM",
-      "pic": "https://pl.scdn.co/images/pl/default/902e1adb4722c5089c446bddb4a318e0784da964"
+      "uri": "spotify:playlist:4ycIAGqf9BoQMHiNobxGUc",
+      "pic": "https://pl.scdn.co/images/pl/default/94634ff4087ddfba9b49817b058b84a49b8dfdbb"
     }
   ],
   "_locals": {},

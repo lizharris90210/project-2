@@ -19,5 +19,5 @@ exports.database = {
 };
 
 exports.subject = {
-  genre: "classicRock"
+  genre: "death-metal-music"
 };
