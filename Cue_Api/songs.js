@@ -3,12 +3,13 @@ require("dotenv");
 const gradient = require("gradient-string");
 console.log(`${gradient.summer("/api/songs.js")}\n Packages:\n - ../keys\n - ./videos\n - node-spotify-api\n=========================`);
 
-const keys = require("../keys")
+const keys = require("../keys");
 const tube = require("./videos");
 // Spotify package
 const Spotify = require("node-spotify-api");
 // adding keys to spotify
 
+// eslint-disable-next-line no-unused-vars
 const spotify = new Spotify(keys.spotify);
 const test = require("./testerPlaylist");
 var testGenre = test.alternative;
