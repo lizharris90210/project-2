@@ -59,6 +59,10 @@ div.shape-img {
   margin-bottom: -150px;
 }
 
+.test{
+  position: fixed;
+}
+
 div.sync-txt {
   position: relative;
   margin-bottom: -50px;
