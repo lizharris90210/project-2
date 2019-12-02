@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-require("dotenv");
-=======
+
 // Validation
 require("dotenv").config();
 
->>>>>>> 961256a6baf525e53d6396b8717c6c1ce2b1dbcc
 module.exports = {
   development: {
     username: process.env.DB_USER,
