@@ -19,7 +19,7 @@ module.exports = {
   },
   production: {
     // eslint-disable-next-line camelcase
-    use_env_variable: "JAWSDB_GRAY",
+    use_env_variable: "JAWSDB_GRAY_URL",
     dialect: "mysql"
   }
 };
