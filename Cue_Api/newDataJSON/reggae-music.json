@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "vdB-8eLEW8g",
+      "link": "https://www.youtube.com/watch?v=vdB-8eLEW8g",
+      "kind": "youtube#video",
+      "publishedAt": "2010-04-20T11:11:07.000Z",
+      "channelId": "UCnglEcOPMmqSZCXg5-eiIiA",
+      "channelTitle": "Reggae Man",
+      "title": "Bob Marley - One Love",
+      "description": "One love, One heart Let's get together and feel all right Hear the children crying (One Love) Hear the children crying (One Heart) Sayin' give thanks and praise to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vdB-8eLEW8g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vdB-8eLEW8g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vdB-8eLEW8g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/vdB-8eLEW8g/default.jpg"
+    },
+    {
+      "id": "zXt56MB-3vc",
+      "link": "https://www.youtube.com/watch?v=zXt56MB-3vc",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-02T23:49:39.000Z",
+      "channelId": "UCXwJE0iEj-xADTskRw3EaXg",
+      "channelTitle": "UB40VEVO",
+      "title": "UB40 - Red Red Wine (Official Video)",
+      "description": "Check out the official music video for \"Red Red Wine\" by UB40 Listen to more UB40 https://UB40.lnk.to/Essentials Music video by UB40 performing Red Red ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zXt56MB-3vc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zXt56MB-3vc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zXt56MB-3vc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/zXt56MB-3vc/default.jpg"
+    },
+    {
+      "id": "hzqFmXZ8tOE",
+      "link": "https://www.youtube.com/watch?v=hzqFmXZ8tOE",
+      "kind": "youtube#video",
+      "publishedAt": "2014-05-02T17:04:53.000Z",
+      "channelId": "UCYZo7CbLJjjfEOqYwknzzow",
+      "channelTitle": "Protoje",
+      "title": "Protoje - Who Knows ft. Chronixx (Official Music Video)",
+      "description": "\"Who Knows\" is the first official single from Protoje's third studio album, Pre-Order the album \"Ancient Future,\" now on iTunes and get \"Who Knows\" instantly: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hzqFmXZ8tOE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hzqFmXZ8tOE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hzqFmXZ8tOE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/hzqFmXZ8tOE/default.jpg"
+    },
+    {
+      "id": "9PukqhfMxfc",
+      "link": "https://www.youtube.com/watch?v=9PukqhfMxfc",
+      "kind": "youtube#video",
+      "publishedAt": "2017-06-09T04:00:00.000Z",
+      "channelId": "UCZKXNdqxqIFavuBFwci1Slg",
+      "channelTitle": "DamianMarleyVEVO",
+      "title": "Damian &quot;Jr. Gong&quot; Marley - Medication ft. Stephen Marley",
+      "description": "Check out the official music video for \"Medication\" by Damian \"Jr. Gong\" ft. Stephen Marley (Official Video) Song Available Here: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9PukqhfMxfc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9PukqhfMxfc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9PukqhfMxfc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/9PukqhfMxfc/default.jpg"
+    },
+    {
+      "id": "p8HoEvDh70Y",
+      "link": "https://www.youtube.com/watch?v=p8HoEvDh70Y",
+      "kind": "youtube#video",
+      "publishedAt": "2018-11-16T11:00:06.000Z",
+      "channelId": "UCIOoP9FirTzjvgeAYTJWLcg",
+      "channelTitle": "KoffeeVEVO",
+      "title": "Koffee - Toast (Official Video)",
+      "description": "Koffee - Toast Listen to/download the 'Rapture' EP here: http://smarturl.it/KoffeeRapture?IQid=yt Listen to/download 'Toast' here: http://smarturl.it/KoffeeToast?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p8HoEvDh70Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p8HoEvDh70Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p8HoEvDh70Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/p8HoEvDh70Y/default.jpg"
+    },
+    {
+      "id": "LfeIfiiBTfY",
+      "link": "https://www.youtube.com/watch?v=LfeIfiiBTfY",
+      "kind": "youtube#video",
+      "publishedAt": "2013-10-02T02:59:46.000Z",
+      "channelId": "UCJnYM0A1ec_yqU3vpNGWyAw",
+      "channelTitle": "ChronixxMusic",
+      "title": "Chronixx - Here Comes Trouble (Official Music Video)",
+      "description": "Purchase on Itunes now : https://itunes.apple.com/us/album/dread-terrible/id841489884 Subscribe to Chronixx's Youtube Channel - http://bit.ly/chronixx-sub ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LfeIfiiBTfY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LfeIfiiBTfY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LfeIfiiBTfY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/LfeIfiiBTfY/default.jpg"
+    },
+    {
+      "id": "S3UqvWk8-uw",
+      "link": "https://www.youtube.com/watch?v=S3UqvWk8-uw",
+      "kind": "youtube#video",
+      "publishedAt": "2008-08-07T17:03:22.000Z",
+      "channelId": "UCAb4KW-3Vr99HcqQnYQYA9Q",
+      "channelTitle": "BoBMArleySong1",
+      "title": "Bob Marley - Stir it up",
+      "description": "One of the best song in History.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S3UqvWk8-uw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S3UqvWk8-uw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S3UqvWk8-uw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/S3UqvWk8-uw/default.jpg"
+    },
+    {
+      "id": "qGuLqe-NMKg",
+      "link": "https://www.youtube.com/watch?v=qGuLqe-NMKg",
+      "kind": "youtube#video",
+      "publishedAt": "2007-07-12T22:40:44.000Z",
+      "channelId": "UCZng8TYQxSMYuRS7CZd-nvg",
+      "channelTitle": "VP Records",
+      "title": "Tarrus Riley - She&#39;s Royal | Official Music Video",
+      "description": "Music video by Tarrus Riley performing She's Royal. Watch Estelle ft. Tarrus Riley's \"Love Like Ours\" music video now: https://youtu.be/0T1tlWZI03A.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qGuLqe-NMKg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qGuLqe-NMKg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qGuLqe-NMKg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/qGuLqe-NMKg/default.jpg"
+    },
+    {
+      "id": "K6oYyG0KcvQ",
+      "link": "https://www.youtube.com/watch?v=K6oYyG0KcvQ",
+      "kind": "youtube#video",
+      "publishedAt": "2007-09-06T14:44:16.000Z",
+      "channelId": "UC8Uc6mdsUb1GDEhKW1C_t8g",
+      "channelTitle": "0646271191",
+      "title": "Gregory Isaacs - Night Nurse",
+      "description": "Song: Night Nurse Artist: Gregory Isaacs Year: 1982 LP/CD: Night Nurse Composers: Gregory Isaacs, Sylvester Weise.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K6oYyG0KcvQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K6oYyG0KcvQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K6oYyG0KcvQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/K6oYyG0KcvQ/default.jpg"
+    },
+    {
+      "id": "WkfvL3Nz0SI",
+      "link": "https://www.youtube.com/watch?v=WkfvL3Nz0SI",
+      "kind": "youtube#video",
+      "publishedAt": "2014-09-15T10:57:09.000Z",
+      "channelId": "UCgoQEkyu4m9-Bj68TXCaxWQ",
+      "channelTitle": "Dj Influence Mr Flavor",
+      "title": "Positive Reggae Vybz MIX  by DJ INFLUENCE",
+      "description": "DOWNLOAD FULL MIX HERE:https://sellfy.com/p/fvt0/ or Visit my store at https://sellfy.com/djinfluence1 to get get a larger selection on mixes to download.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WkfvL3Nz0SI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WkfvL3Nz0SI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WkfvL3Nz0SI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/WkfvL3Nz0SI/default.jpg"
+    }
+  ]
+}

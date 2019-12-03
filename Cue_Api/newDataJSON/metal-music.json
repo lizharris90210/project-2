@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "CSvFpBOe8eY",
+      "link": "https://www.youtube.com/watch?v=CSvFpBOe8eY",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-03T04:45:02.000Z",
+      "channelId": "UCvtZDkeFxMkRTNqfqXtxxkw",
+      "channelTitle": "systemofadownVEVO",
+      "title": "System Of A Down - Chop Suey!",
+      "description": "System of a Down's official music video for 'Chop Suey!'. Click to listen to System of a Down on Spotify: http://smarturl.it/SystemSpotify?IQid=SystemCS As ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CSvFpBOe8eY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CSvFpBOe8eY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CSvFpBOe8eY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/CSvFpBOe8eY/default.jpg"
+    },
+    {
+      "id": "ScNNfyq3d_w",
+      "link": "https://www.youtube.com/watch?v=ScNNfyq3d_w",
+      "kind": "youtube#video",
+      "publishedAt": "2012-10-10T13:00:23.000Z",
+      "channelId": "UCZU9T1ceaOgwfLRq7OKFU4Q",
+      "channelTitle": "Linkin Park",
+      "title": "CASTLE OF GLASS (Official Video) - Linkin Park",
+      "description": "Linkin Park \"CASTLE OF GLASS\" off of the album LIVING THINGS. \"CASTLE OF GLASS\" is featured in the EA game Medal of Honor Warfighter. Directed by ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ScNNfyq3d_w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ScNNfyq3d_w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ScNNfyq3d_w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/ScNNfyq3d_w/default.jpg"
+    },
+    {
+      "id": "CD-E-LDc384",
+      "link": "https://www.youtube.com/watch?v=CD-E-LDc384",
+      "kind": "youtube#video",
+      "publishedAt": "2012-03-19T20:34:06.000Z",
+      "channelId": "UCbulh9WdLtEXiooRcYK7SWw",
+      "channelTitle": "MetallicaTV",
+      "title": "Metallica - Enter Sandman [Official Music Video]",
+      "description": "Enter Sandman [Official Music Video] From the album \"Metallica\" Director: Wayne Isham Filmed in June 1991 in Los Angeles, CA Video Premiere Date: July 30, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CD-E-LDc384/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CD-E-LDc384/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CD-E-LDc384/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/CD-E-LDc384/default.jpg"
+    },
+    {
+      "id": "5abamRO41fE",
+      "link": "https://www.youtube.com/watch?v=5abamRO41fE",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-29T21:25:38.000Z",
+      "channelId": "UCOJZ1tna8yj8mAEITPkHNCQ",
+      "channelTitle": "Slipknot",
+      "title": "Slipknot - Psychosocial [OFFICIAL VIDEO]",
+      "description": "Slipknot's music video for 'Psychosocial' from the album, All Hope Is Gone - available now on Roadrunner Records. Download the album on iTunes: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5abamRO41fE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5abamRO41fE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5abamRO41fE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/5abamRO41fE/default.jpg"
+    },
+    {
+      "id": "L-iepu3EtyE",
+      "link": "https://www.youtube.com/watch?v=L-iepu3EtyE",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-03T04:51:24.000Z",
+      "channelId": "UCvtZDkeFxMkRTNqfqXtxxkw",
+      "channelTitle": "systemofadownVEVO",
+      "title": "System Of A Down - Aerials (Official Video)",
+      "description": "Best of System Of A Down https://goo.gl/rFVz2W Subscribe for more https://goo.gl/LnL81c Music video by System Of A Down performing Aerials. (C) 2002 SONY ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L-iepu3EtyE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L-iepu3EtyE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L-iepu3EtyE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/L-iepu3EtyE/default.jpg"
+    },
+    {
+      "id": "9sTQ0QdkN3Q",
+      "link": "https://www.youtube.com/watch?v=9sTQ0QdkN3Q",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-25T07:03:11.000Z",
+      "channelId": "UC47Xz8LVxEJBX5gmkW9mALQ",
+      "channelTitle": "bulletvalentineVEVO",
+      "title": "Bullet For My Valentine - Tears Don&#39;t Fall (Album Edit - with Scream / with Lighter)",
+      "description": "Amazing LIVE EP out Oct 16th...COMPLETELY FREE! If you are in Europe, Australia or New Zealand you can pre-order now. http://smarturl.it/VenomGPD Bullet ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9sTQ0QdkN3Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9sTQ0QdkN3Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9sTQ0QdkN3Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/9sTQ0QdkN3Q/default.jpg"
+    },
+    {
+      "id": "RYnFIRc0k6E",
+      "link": "https://www.youtube.com/watch?v=RYnFIRc0k6E",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-05T13:19:02.000Z",
+      "channelId": "UCUPvo-jwM02Fp-vigFEiG2A",
+      "channelTitle": "LimpBizkitVEVO",
+      "title": "Limp Bizkit - Rollin&#39; (Official Video)",
+      "description": "Official Website: http://limpbizkit.com/ Stream: https://lnk.to/_C92p Facebook: https://www.facebook.com/limpbizkit Twitter: https://twitter.com/limpbizkit Instagram: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RYnFIRc0k6E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RYnFIRc0k6E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RYnFIRc0k6E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/RYnFIRc0k6E/default.jpg"
+    },
+    {
+      "id": "OYjZK_6i37M",
+      "link": "https://www.youtube.com/watch?v=OYjZK_6i37M",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-07T16:50:49.000Z",
+      "channelId": "UC0a4ZRoauYMqgllbEbFBnaw",
+      "channelTitle": "GodsmackVEVO",
+      "title": "Godsmack - I Stand Alone (Official Music Video)",
+      "description": "Music video by Godsmack performing I Stand Alone. (C) 2001 Universal Motown Records, a division of UMG Recordings, Inc. Distributed by Universal Music ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OYjZK_6i37M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OYjZK_6i37M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OYjZK_6i37M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/OYjZK_6i37M/default.jpg"
+    },
+    {
+      "id": "WM8bTdBs-cw",
+      "link": "https://www.youtube.com/watch?v=WM8bTdBs-cw",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-27T01:53:30.000Z",
+      "channelId": "UCbulh9WdLtEXiooRcYK7SWw",
+      "channelTitle": "MetallicaTV",
+      "title": "Metallica - One [Official Music Video]",
+      "description": "One [Official Music Video] From the album \"...And Justice For All\" Director: Bill Pope and Michael Salomon Filmed in December 1988 in Long Beach, CA Video ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WM8bTdBs-cw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WM8bTdBs-cw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WM8bTdBs-cw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/WM8bTdBs-cw/default.jpg"
+    },
+    {
+      "id": "AkFqg5wAuFk",
+      "link": "https://www.youtube.com/watch?v=AkFqg5wAuFk",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-27T01:35:58.000Z",
+      "channelId": "UChTDORxN3YPmasEurM6kRoA",
+      "channelTitle": "pantera",
+      "title": "Pantera - Walk (Official Video)",
+      "description": "Watch the official video for Pantera \"Walk\" This song is considered to be one of the band's best tracks and is also the band's most well known song to both ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AkFqg5wAuFk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AkFqg5wAuFk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AkFqg5wAuFk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/AkFqg5wAuFk/default.jpg"
+    }
+  ]
+}

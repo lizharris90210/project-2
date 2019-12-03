@@ -1,7 +1,3 @@
-// Validation
-const gradient = require("gradient-string");
-console.log(`${gradient.summer("\n/keys.js loaded")}\n This is a file where we provide the app with API passwords stored in the .env file\n=========================\n`);
-
 exports.spotify = {
   id: process.env.SPOTIFY_ID,
   secret: process.env.SPOTIFY_SECRET
@@ -19,5 +15,5 @@ exports.database = {
 };
 
 exports.subject = {
-  genre: "classicRock"
+  genre: "funk-music"
 };

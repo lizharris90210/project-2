@@ -1,11 +1,8 @@
-const gradient = require("gradient-string");
-console.log(gradient.atlas("VALIDATION"));
-console.log(`${gradient.summer("/api/logger.js")}\n Logger.js logs data pulled from Youtube and stores the data in a corresponding js file.\n Packages:\n - file-system\n - ../keys\n=========================\n`);
-
 // file system package
 const fs = require("file-system");
 // keys.js import
 const keys = require("../keys");
+const gradient = require("gradient-string");
 
 // data logger to export into a json file.
 const APIBuilder = {

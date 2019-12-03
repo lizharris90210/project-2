@@ -38,6 +38,7 @@ Login to the cue app homepage and fill out the survey. You will be directed to a
 - [Jackson Pearce](http://github.com/Jackson-Pearce)
 - [Liz Harris](https://github.com/lizharris90210)
 
+
 #### [Project 2 for UNC Coding Bootcamp](https://github.com/lizharris90210/project-2)
 
 ### Credits

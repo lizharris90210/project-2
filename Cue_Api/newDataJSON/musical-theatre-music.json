@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "EGNOF1zB5aY",
+      "link": "https://www.youtube.com/watch?v=EGNOF1zB5aY",
+      "kind": "youtube#video",
+      "publishedAt": "2014-05-26T23:18:56.000Z",
+      "channelId": "UCUtZaxDF3hD5VK4xRYFBePQ",
+      "channelTitle": "Britain's Got Talent",
+      "title": "Musical theatre boyband Collabro sing Bring Him Home | Britain&#39;s Got Talent 2014",
+      "description": "See more from Britain's Got Talent at http://itv.com/talent Collabro give a rousing rendition of Bring Him Home from Les Miserables. Does the grand final stage ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EGNOF1zB5aY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EGNOF1zB5aY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EGNOF1zB5aY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/EGNOF1zB5aY/default.jpg"
+    },
+    {
+      "id": "o-gLbgpzCc8",
+      "link": "https://www.youtube.com/watch?v=o-gLbgpzCc8",
+      "kind": "youtube#video",
+      "publishedAt": "2016-01-10T06:33:43.000Z",
+      "channelId": "UCBh2MtapL0Qbcby_v_hyEXA",
+      "channelTitle": "Wesley Alfvin",
+      "title": "&quot;Disney&#39;s Aladdin - A Musical Spectacular&quot; (Full Performance 1080p HD)",
+      "description": "The 12:50 performance on January 8th, 2016 in the Hyperion Theatre at Disney California Adventure.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o-gLbgpzCc8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o-gLbgpzCc8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o-gLbgpzCc8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/o-gLbgpzCc8/default.jpg"
+    },
+    {
+      "id": "RTnDs3ujHXE",
+      "link": "https://www.youtube.com/watch?v=RTnDs3ujHXE",
+      "kind": "youtube#video",
+      "publishedAt": "2015-11-25T01:00:00.000Z",
+      "channelId": "UCaWd5_7JhbQBe4dknZhsHJg",
+      "channelTitle": "WatchMojo.com",
+      "title": "Top 10 Songs From Theatre Musicals",
+      "description": "Roll out the red carpet, and wind down your windows! Because you'll soon be singing along like you're the star of the show! Join http://www.WatchMojo.com as ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RTnDs3ujHXE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RTnDs3ujHXE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RTnDs3ujHXE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/RTnDs3ujHXE/default.jpg"
+    },
+    {
+      "id": "3797IrBzEkY",
+      "link": "https://www.youtube.com/watch?v=3797IrBzEkY",
+      "kind": "youtube#video",
+      "publishedAt": "2014-06-10T13:00:06.000Z",
+      "channelId": "UCNwfetrlhfJVTxwwXIFDYYw",
+      "channelTitle": "Spirit Young Performers Company",
+      "title": "MUSICAL THEATRE MEDLEY - Amazing Kids (live)!",
+      "description": "Performers aged 7-15 pay tribute to some of the best musicals through the decades in this medley. Arranged by Matthew Pallant. Musical Direction by Daniel ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3797IrBzEkY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3797IrBzEkY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3797IrBzEkY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/3797IrBzEkY/default.jpg"
+    },
+    {
+      "id": "mKuauz9tqKg",
+      "link": "https://www.youtube.com/watch?v=mKuauz9tqKg",
+      "kind": "youtube#video",
+      "publishedAt": "2017-12-19T10:57:14.000Z",
+      "channelId": "UCxdywJEJaJevLAK4mPtdTQA",
+      "channelTitle": "PhantomifyEponine",
+      "title": "Try Not To Sing Along Challenge - Musical Theatre Edition",
+      "description": "29 catchy songs. 29 amazing musicals. Can you try not to sing? RULES! Try not to sing any of these songs, or else you lose. If you do lose, then you're a true fan!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mKuauz9tqKg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mKuauz9tqKg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mKuauz9tqKg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/mKuauz9tqKg/default.jpg"
+    },
+    {
+      "id": "wG6XZb362gg",
+      "link": "https://www.youtube.com/watch?v=wG6XZb362gg",
+      "kind": "youtube#video",
+      "publishedAt": "2016-04-25T02:23:07.000Z",
+      "channelId": "UCecjFpsPcNDzpVSD2KepcsA",
+      "channelTitle": "ImprovAddiction",
+      "title": "Overdone Musical Theatre Medley",
+      "description": "Featuring the TheatreUCF Musical Theatre BFA Class of 2019 Arranged and Directed by Kent James Collins -- www.kentjamescollins.com Accompanied by Dr.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wG6XZb362gg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wG6XZb362gg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wG6XZb362gg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/wG6XZb362gg/default.jpg"
+    },
+    {
+      "id": "pnw4bnCEv-o",
+      "link": "https://www.youtube.com/watch?v=pnw4bnCEv-o",
+      "kind": "youtube#video",
+      "publishedAt": "2014-12-03T20:21:10.000Z",
+      "channelId": "UCay_OLhWtf9iklq8zg_or0g",
+      "channelTitle": "As/Is",
+      "title": "Things Musical Theatre Nerds Do (The Musical)",
+      "description": "Everyone's got a little wicked in them! Check out more awesome BuzzFeedYellow videos! http://bit.ly/YTbuzzfeedyellow MUSIC: “Things That Musical Nerds Do” ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pnw4bnCEv-o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pnw4bnCEv-o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pnw4bnCEv-o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/pnw4bnCEv-o/default.jpg"
+    },
+    {
+      "id": "va8VDBGcKS4",
+      "link": "https://www.youtube.com/watch?v=va8VDBGcKS4",
+      "kind": "youtube#video",
+      "publishedAt": "2012-04-04T18:01:26.000Z",
+      "channelId": "UC0nmrsKUDT6VnMukSK2LpzQ",
+      "channelTitle": "ATTPAC",
+      "title": "Chicago The Musical - &quot;All That Jazz&quot;",
+      "description": "Visit http://www.attpac.org/broadway for more information on our 2012/2013 Lexus Broadway Series. 6-Show Packages start at just $130 and include tickets to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/va8VDBGcKS4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/va8VDBGcKS4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/va8VDBGcKS4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/va8VDBGcKS4/default.jpg"
+    },
+    {
+      "id": "UtBR1qHK4CI",
+      "link": "https://www.youtube.com/watch?v=UtBR1qHK4CI",
+      "kind": "youtube#video",
+      "publishedAt": "2013-09-25T03:42:31.000Z",
+      "channelId": "UCVgtrMR95eCbXlQlN_uQK7Q",
+      "channelTitle": "Martin HS Fan",
+      "title": "INTO THE WOODS - Full Performance - Arlington Martin High School",
+      "description": "\"Into the Woods\" Book by James Lapine Music and Lyrics by Stephen Sondheim Directed by Larry Cure and Sharon Miller Assistant Directed and Choreography ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UtBR1qHK4CI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UtBR1qHK4CI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UtBR1qHK4CI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/UtBR1qHK4CI/default.jpg"
+    },
+    {
+      "id": "DHt2H71mf54",
+      "link": "https://www.youtube.com/watch?v=DHt2H71mf54",
+      "kind": "youtube#video",
+      "publishedAt": "2015-08-04T15:59:09.000Z",
+      "channelId": "UCNwfetrlhfJVTxwwXIFDYYw",
+      "channelTitle": "Spirit Young Performers Company",
+      "title": "Women in Musical Theatre - LIVE MEDLEY! From Spirit YPC",
+      "description": "Exceptional young singers aged 9-13 celebrate female characters in musical theatre. Put together in 8 hours during our July Summer Workshop. Musical ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DHt2H71mf54/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DHt2H71mf54/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DHt2H71mf54/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/DHt2H71mf54/default.jpg"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "QCXaa1mEUK0",
+      "link": "https://www.youtube.com/watch?v=QCXaa1mEUK0",
+      "kind": "youtube#video",
+      "publishedAt": "2019-07-18T05:30:03.000Z",
+      "channelId": "UCdNZZ9znjaiOXNi004mHxSg",
+      "channelTitle": "Indie Music Label",
+      "title": "Darshan Raval - Hawa Banke | Official Music Video | Nirmaan | Indie Music Label",
+      "description": "The wait for the annual monsoon song ends here with Hawa Banke. Shot in the divine lanes of Varanasi and bridging the gap of east and west, love will find a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QCXaa1mEUK0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QCXaa1mEUK0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QCXaa1mEUK0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/QCXaa1mEUK0/default.jpg"
+    },
+    {
+      "id": "TWcyIpul8OE",
+      "link": "https://www.youtube.com/watch?v=TWcyIpul8OE",
+      "kind": "youtube#video",
+      "publishedAt": "2011-08-17T16:45:14.000Z",
+      "channelId": "UCci2c90HJbY0VAS3_eLF3Wg",
+      "channelTitle": "Bon Iver",
+      "title": "Bon Iver - Holocene (Official Music Video)",
+      "description": "Director: NABIL (NABIL.com) Producer: Jill Hammer Production Company: NE Direction Editor: Isaac Hagy DOP: Larkin Sieple boniver.org jagjaguwar.com.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TWcyIpul8OE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TWcyIpul8OE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TWcyIpul8OE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/TWcyIpul8OE/default.jpg"
+    },
+    {
+      "id": "b3LJlZBWI8w",
+      "link": "https://www.youtube.com/watch?v=b3LJlZBWI8w",
+      "kind": "youtube#video",
+      "publishedAt": "2017-01-27T01:39:12.000Z",
+      "channelId": "UCVoraDictyd89xgZt-J2Frw",
+      "channelTitle": "IndieAir",
+      "title": "SYML - Where&#39;s My Love (Acoustic)",
+      "description": "SYML - Where's My Love (Acoustic) For lyrics turn on captions (CC) or look in the description! Some of my favorite songs on Spotify :) https://spoti.fi/2LmT7JR ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b3LJlZBWI8w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b3LJlZBWI8w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b3LJlZBWI8w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/b3LJlZBWI8w/default.jpg"
+    },
+    {
+      "id": "g7Gu9fc4hEI",
+      "link": "https://www.youtube.com/watch?v=g7Gu9fc4hEI",
+      "kind": "youtube#video",
+      "publishedAt": "2019-02-07T07:28:15.000Z",
+      "channelId": "UCdNZZ9znjaiOXNi004mHxSg",
+      "channelTitle": "Indie Music Label",
+      "title": "Bhula Diya - Darshan Raval | Official Video | Indie Music Label | Latest Hit Song 2019",
+      "description": "Bhuladiya #Darshanraval #indiemusiclabel Subscribe to Indie Music Channel: https://goo.gl/Ms33QZ Distributed by: Sony Music Entertainment India Pvt. Ltd.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g7Gu9fc4hEI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g7Gu9fc4hEI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g7Gu9fc4hEI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/g7Gu9fc4hEI/default.jpg"
+    },
+    {
+      "id": "DLxgg8HwhDg",
+      "link": "https://www.youtube.com/watch?v=DLxgg8HwhDg",
+      "kind": "youtube#video",
+      "publishedAt": "2018-02-07T06:20:34.000Z",
+      "channelId": "UCdNZZ9znjaiOXNi004mHxSg",
+      "channelTitle": "Indie Music Label",
+      "title": "Shab Tum Ho - Latest Hit Song 2018 | Darshan Raval | Sayeed Quadri | Indie Music Label",
+      "description": "Indie Music Label Presents Shab Tum Ho, Darshan Raval's First Love Ballad of 2018, Penned By Sayeed Quadri. An E Positive Entertainment Production For ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DLxgg8HwhDg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DLxgg8HwhDg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DLxgg8HwhDg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/DLxgg8HwhDg/default.jpg"
+    },
+    {
+      "id": "S2RYBkcAkVQ",
+      "link": "https://www.youtube.com/watch?v=S2RYBkcAkVQ",
+      "kind": "youtube#video",
+      "publishedAt": "2019-03-22T06:00:14.000Z",
+      "channelId": "UCdNZZ9znjaiOXNi004mHxSg",
+      "channelTitle": "Indie Music Label",
+      "title": "Kaash Aisa Hota - Darshan Raval | Official Video | Indie Music Label | Latest Hit Song 2019",
+      "description": "Kaashaisahota #Darshanraval #indiemusiclabel Subscribe to Indie Music Channel: https://goo.gl/Ms33QZ Website: www.indiemusiclabel.in Wynk: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S2RYBkcAkVQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S2RYBkcAkVQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S2RYBkcAkVQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/S2RYBkcAkVQ/default.jpg"
+    },
+    {
+      "id": "l1YtQ2YOZDg",
+      "link": "https://www.youtube.com/watch?v=l1YtQ2YOZDg",
+      "kind": "youtube#video",
+      "publishedAt": "2019-09-05T05:29:54.000Z",
+      "channelId": "UCdNZZ9znjaiOXNi004mHxSg",
+      "channelTitle": "Indie Music Label",
+      "title": "Darshan Raval - Dil Mera Blast | Official Music Video | Javed - Mohsin | Lijo G | Indie Music Label",
+      "description": "Put on your dancing shoes! Darshan Raval is back in a never seen before Avtaar - Bringing you the festive explosion \"Dil Mera Blast\", a romantic party number ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l1YtQ2YOZDg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l1YtQ2YOZDg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l1YtQ2YOZDg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/l1YtQ2YOZDg/default.jpg"
+    },
+    {
+      "id": "EFqkHIMbhQg",
+      "link": "https://www.youtube.com/watch?v=EFqkHIMbhQg",
+      "kind": "youtube#video",
+      "publishedAt": "2018-07-18T06:02:38.000Z",
+      "channelId": "UCdNZZ9znjaiOXNi004mHxSg",
+      "channelTitle": "Indie Music Label",
+      "title": "Baarish Lete Aana - Official Video | Darshan Raval | Indie Music Label",
+      "description": "An E Positive Entertainment Production Subscribe to Indie Music Channel : https://goo.gl/Ms33QZ Powered By: Indie Music Label Website: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EFqkHIMbhQg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EFqkHIMbhQg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EFqkHIMbhQg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/EFqkHIMbhQg/default.jpg"
+    },
+    {
+      "id": "-kBhum7f4rI",
+      "link": "https://www.youtube.com/watch?v=-kBhum7f4rI",
+      "kind": "youtube#video",
+      "publishedAt": "2016-11-11T11:10:41.000Z",
+      "channelId": "UCp6_KuNhT0kcFk-jXw9Tivg",
+      "channelTitle": "Magic Music",
+      "title": "Chill Out Music Mix ❄ Best Chill Trap, RnB, Indie ♫",
+      "description": "Chill Out Music Mix ❄ Best Chill Trap, RnB, Indie ♫ ⚡ Magic Spotify: https://lnk.to/magicmusic Magic No Copyright Music & USAGE POLICY: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-kBhum7f4rI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-kBhum7f4rI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-kBhum7f4rI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/-kBhum7f4rI/default.jpg"
+    },
+    {
+      "id": "Q1jE25zn8RU",
+      "link": "https://www.youtube.com/watch?v=Q1jE25zn8RU",
+      "kind": "youtube#video",
+      "publishedAt": "2017-04-16T09:57:41.000Z",
+      "channelId": "UCEi0EgWJ5m7gVBQ68a1L0TA",
+      "channelTitle": "alexrainbirdMusic",
+      "title": "Relaxing Sunday Mornings ☕ - An Indie/Folk/Pop Playlist | Vol. 1",
+      "description": "Make every day a Sunday with an hour of chilled indie music and laidback folk tracks. More info on my website: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q1jE25zn8RU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q1jE25zn8RU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q1jE25zn8RU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/Q1jE25zn8RU/default.jpg"
+    }
+  ]
+}

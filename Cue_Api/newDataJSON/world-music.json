@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "pa14VNsdSYM",
+      "link": "https://www.youtube.com/watch?v=pa14VNsdSYM",
+      "kind": "youtube#video",
+      "publishedAt": "2010-10-12T22:31:11.000Z",
+      "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+      "channelTitle": "RihannaVEVO",
+      "title": "Rihanna - Only Girl (In The World)",
+      "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: http://smarturl.it/streamANTIdlx Download ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pa14VNsdSYM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pa14VNsdSYM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pa14VNsdSYM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/pa14VNsdSYM/default.jpg"
+    },
+    {
+      "id": "-2U0Ivkn2Ds",
+      "link": "https://www.youtube.com/watch?v=-2U0Ivkn2Ds",
+      "kind": "youtube#video",
+      "publishedAt": "2013-11-20T15:00:05.000Z",
+      "channelId": "UCMsBZYIksLc5pW_28PBQrCg",
+      "channelTitle": "AGreatBigWorldVEVO",
+      "title": "A Great Big World &amp; Christina Aguilera - Say Something (Official Video)",
+      "description": "Check out the official music video for \"Say Something\" by A Great Big World & Christina Aguilera Download Is There Anybody Out There? on iTunes: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-2U0Ivkn2Ds/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-2U0Ivkn2Ds/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-2U0Ivkn2Ds/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/-2U0Ivkn2Ds/default.jpg"
+    },
+    {
+      "id": "VBmMU_iwe6U",
+      "link": "https://www.youtube.com/watch?v=VBmMU_iwe6U",
+      "kind": "youtube#video",
+      "publishedAt": "2011-05-18T22:35:23.000Z",
+      "channelId": "UC9zX2xZIJ4cnwRsgBpHGvMg",
+      "channelTitle": "BeyoncéVEVO",
+      "title": "Beyoncé - Run the World (Girls) (Video - Main Version)",
+      "description": "Beyoncé's official video for 'Run The World (Girls)'. Click to listen to Beyoncé on Spotify: http://smarturl.it/BeyonceSpot?IQid=B... As featured on 4. Click to buy the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VBmMU_iwe6U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VBmMU_iwe6U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VBmMU_iwe6U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/VBmMU_iwe6U/default.jpg"
+    },
+    {
+      "id": "fregObNcHC8",
+      "link": "https://www.youtube.com/watch?v=fregObNcHC8",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-16T22:56:31.000Z",
+      "channelId": "UCzGrGrvf9g8CVVzh_LvGf-g",
+      "channelTitle": "NirvanaVEVO",
+      "title": "Nirvana - The Man Who Sold The World (MTV Unplugged)",
+      "description": "REMASTERED IN HD! Taken from the 25th Anniversary Editions of Nirvana – MTV Unplugged in New York Order Now: https://Nirvana.lnk.to/Unplugged25 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fregObNcHC8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fregObNcHC8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fregObNcHC8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/fregObNcHC8/default.jpg"
+    },
+    {
+      "id": "ErCAOMi5EGM",
+      "link": "https://www.youtube.com/watch?v=ErCAOMi5EGM",
+      "kind": "youtube#video",
+      "publishedAt": "2010-03-19T23:30:26.000Z",
+      "channelId": "UCEOhcOACopL42xyOBIv1ekg",
+      "channelTitle": "LilWayneVEVO",
+      "title": "Lil Wayne - Drop The World (Official Music Video) ft. Eminem",
+      "description": "REMASTERED IN HD! #LilWayne #DropTheWorld #Remastered Music video by Lil Wayne performing Drop The World. (C) 2010 Cash Money Records Inc.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ErCAOMi5EGM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ErCAOMi5EGM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ErCAOMi5EGM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/ErCAOMi5EGM/default.jpg"
+    },
+    {
+      "id": "w5tWYmIOWGk",
+      "link": "https://www.youtube.com/watch?v=w5tWYmIOWGk",
+      "kind": "youtube#video",
+      "publishedAt": "2013-11-13T08:00:01.000Z",
+      "channelId": "UCpx_k19S2vUutWUUM9qmXEg",
+      "channelTitle": "ImagineDragonsVEVO",
+      "title": "Imagine Dragons - On Top Of The World (Official Music Video)",
+      "description": "Get Origins, ft. Natural, Zero, Machine and Bad Liar, out now: http://smarturl.it/OriginsID Directed by: Matt Eastin and Corey Fox Shop Imagine Dragons: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w5tWYmIOWGk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w5tWYmIOWGk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w5tWYmIOWGk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/w5tWYmIOWGk/default.jpg"
+    },
+    {
+      "id": "fmI_Ndrxy14",
+      "link": "https://www.youtube.com/watch?v=fmI_Ndrxy14",
+      "kind": "youtube#video",
+      "publishedAt": "2014-09-17T20:57:35.000Z",
+      "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+      "channelTitle": "League of Legends",
+      "title": "Warriors (ft. Imagine Dragons) | Worlds 2014 - League of Legends",
+      "description": "The battle begins, and sixteen teams across the globe are fighting towards one goal – to win the League of Legends World Championship. To kick off the start of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fmI_Ndrxy14/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fmI_Ndrxy14/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fmI_Ndrxy14/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/fmI_Ndrxy14/default.jpg"
+    },
+    {
+      "id": "pvuN_WvF1to",
+      "link": "https://www.youtube.com/watch?v=pvuN_WvF1to",
+      "kind": "youtube#video",
+      "publishedAt": "2019-04-19T03:57:44.000Z",
+      "channelId": "UC8rVJyj4zE0S9-sccMLifIA",
+      "channelTitle": "Lil Dicky",
+      "title": "Lil Dicky - Earth (Official Music Video)",
+      "description": "For more information on how to save the Earth go to https://welovetheearth.org To purchase or stream Earth go to https://LilDicky.lnk.to/Earth \"Earth\" Song: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pvuN_WvF1to/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pvuN_WvF1to/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pvuN_WvF1to/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/pvuN_WvF1to/default.jpg"
+    },
+    {
+      "id": "fB8TyLTD7EE",
+      "link": "https://www.youtube.com/watch?v=fB8TyLTD7EE",
+      "kind": "youtube#video",
+      "publishedAt": "2018-09-26T13:00:06.000Z",
+      "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+      "channelTitle": "League of Legends",
+      "title": "RISE (ft. The Glitch Mob, Mako, and The Word Alive) | Worlds 2018 - League of Legends",
+      "description": "Reaching the peak takes more than skill. Only those with the ambition to RISE above all others will know its height. For more information on the 2018 League of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fB8TyLTD7EE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fB8TyLTD7EE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fB8TyLTD7EE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/fB8TyLTD7EE/default.jpg"
+    },
+    {
+      "id": "1-7ABIM2qjU",
+      "link": "https://www.youtube.com/watch?v=1-7ABIM2qjU",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-03T07:52:30.000Z",
+      "channelId": "UCulYu1HEIa7f70L2lYZWHOw",
+      "channelTitle": "michaeljacksonVEVO",
+      "title": "Michael Jackson - You Rock My World (Official Video)",
+      "description": "The short film to \"You Rock My World,\" the Top 10 hit single from Michael Jackson's Invincible, features guest appearances from Chris Tucker, Michael Madsen ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1-7ABIM2qjU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1-7ABIM2qjU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1-7ABIM2qjU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/1-7ABIM2qjU/default.jpg"
+    }
+  ]
+}

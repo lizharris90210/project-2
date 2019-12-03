@@ -1,15 +1,37 @@
-// Validation
-var gradient = require("gradient-string");
-console.log(`${gradient.summer("/routes/htmlRoutes.js loaded\n")}=========================\n`);
-
 require("dotenv");
 var db = require("../models");
-// NOT WORKING
 var isAuthenticated = require("../config/middleware/isAuthenticated"); 
  
 module.exports = function(app) {
   app.get("/", function(req, res) {
-    res.render("index");
+    res.render("index", {layout: "main.handlebars"});
+  });
+
+  // <><><><> Route for Testing Purposes <><><><>
+  app.get("/test", function(req, res){
+    res.render("test", {layout:"test.handlebars"});
+  });
+  // <><><><> Not public facing <><><><>
+
+  // ====== What are these? ======
+  app.get("/artist", function(req, res){
+    res.render("profiles/artists");
+  });
+  app.get("/backstage", function(req, res){
+    res.render("profiles/backstage");
+  });
+
+  app.get("/band", function(req, res){
+    res.render("profiles/bands.handlebars");
+  });
+
+  app.get("/venues", function(req, res){
+    res.render("profiles/venues.handlebars");
+  });
+  // ============================
+
+  app.get("/settings", isAuthenticated, function(req, res){
+    res.render("settings");
   });
 
   app.get("/signedup", isAuthenticated, function(req, res){
@@ -19,19 +41,15 @@ module.exports = function(app) {
   app.get("/login", isAuthenticated, function(req, res) {
     // If the user already has an account send them to the members page
     if (req.user) {
-      res.render("homepage", {layout: "profiles.handlebars"});
+      res.render("homepage");
     }
-    res.render("index");
+    res.render("index", {layout: "main.handlebars"} );
   });
 
   app.get("/homepage", isAuthenticated, function(req, res) {
     //set by default to pull first entry from artist table
-    res.render("homepage", {layout: "profiles.handlebars"});
+    res.render("homepage");
   });
-
-  // app.get("/homepage", function(req, res){
-  //   res.render("homepage", {layout: "profiles.handlebars"});
-  // });
   
   // Route for logging user out
   app.get("/logout", function(req, res) {

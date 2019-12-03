@@ -1,7 +1,3 @@
-// Validation
-const gradient = require("gradient-string");
-console.log(`${gradient.summer("/models/index.js loaded")}\n=========================\n`);
-
 "use strict";
 
 const fs = require("fs");
@@ -12,11 +8,13 @@ const env = process.env.NODE_ENV || "development";
 const config = require(__dirname + "/../config/config.js")[env];
 const db = {};
 
-let sequelize;
+
+var sequelize;
+
 if (config.use_env_variable) {
-  sequelize = new Sequelize(process.env[config.use_env_variable], config, {logging: false, dialect: "mysql"});
+  sequelize = new Sequelize(process.env[config.use_env_variable],config);
 } else {
-  sequelize = new Sequelize(config.database, config.username, config.password, config, {logging: false, dialect: "mysql"});
+   sequelize = new Sequelize(config.database, config.username, config.password, config);
 }
 
 fs

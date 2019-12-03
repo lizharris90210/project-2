@@ -1,5 +1,3 @@
-console.log("cue.js loaded\nThis file allows for the parallax effect from Materialize.\n");
-
 /* eslint-disable no-unused-vars */
 // $(document).ready(function(){
 //     $('.parallax').parallax();

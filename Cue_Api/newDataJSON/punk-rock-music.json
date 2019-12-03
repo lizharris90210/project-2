@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "NUTGr5t3MoY",
+      "link": "https://www.youtube.com/watch?v=NUTGr5t3MoY",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-27T02:25:14.000Z",
+      "channelId": "UCqC_GY2ZiENFz2pwL0cSfAw",
+      "channelTitle": "Green Day",
+      "title": "Green Day - Basket Case [Official Music Video]",
+      "description": "\"Basket Case\" by Green Day from 'Dookie,' available now. Directed by Mark Kohr. Watch the best Green Day official videos here: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NUTGr5t3MoY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NUTGr5t3MoY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NUTGr5t3MoY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/NUTGr5t3MoY/default.jpg"
+    },
+    {
+      "id": "emGri7i8Y2Y",
+      "link": "https://www.youtube.com/watch?v=emGri7i8Y2Y",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-16T23:05:47.000Z",
+      "channelId": "UC7CB-tlRjK9GW-Exb1LhMyg",
+      "channelTitle": "Sum41VEVO",
+      "title": "Sum 41 - In Too Deep (Official Music Video)",
+      "description": "Music video by Sum 41 performing In Too Deep. (C) 2001 The Island Def Jam Music Group #Sum41 #InTooDeep #Vevo #Rock #OfficialMusicVideo.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/emGri7i8Y2Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/emGri7i8Y2Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/emGri7i8Y2Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/emGri7i8Y2Y/default.jpg"
+    },
+    {
+      "id": "Ee_uujKuJMI",
+      "link": "https://www.youtube.com/watch?v=Ee_uujKuJMI",
+      "kind": "youtube#video",
+      "publishedAt": "2012-08-22T00:41:14.000Z",
+      "channelId": "UCqC_GY2ZiENFz2pwL0cSfAw",
+      "channelTitle": "Green Day",
+      "title": "Green Day - American Idiot [OFFICIAL VIDEO]",
+      "description": "Watch Green Day's official video for \"American Idiot\" Get the new album ¡Tre! at http://smarturl.it/treamazon now! Watch the best Green Day official videos here: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ee_uujKuJMI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ee_uujKuJMI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ee_uujKuJMI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/Ee_uujKuJMI/default.jpg"
+    },
+    {
+      "id": "vVy9Lgpg1m8",
+      "link": "https://www.youtube.com/watch?v=vVy9Lgpg1m8",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-16T22:51:20.000Z",
+      "channelId": "UCf2WBemooP2gBBx3lrraNQw",
+      "channelTitle": "blink182VEVO",
+      "title": "blink-182 - First Date",
+      "description": "Listen to more from Blink-182: https://lnk.to/Blink182 Discover more about this classic song and the Take Off Your Pants And Jacket album here: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vVy9Lgpg1m8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vVy9Lgpg1m8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vVy9Lgpg1m8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/vVy9Lgpg1m8/default.jpg"
+    },
+    {
+      "id": "e8X3ACToii0",
+      "link": "https://www.youtube.com/watch?v=e8X3ACToii0",
+      "kind": "youtube#video",
+      "publishedAt": "2009-11-26T03:37:40.000Z",
+      "channelId": "UChMKB2AHNpeuWhalpRYhUaw",
+      "channelTitle": "RiseAgainstVEVO",
+      "title": "Rise Against - Savior (Official Video)",
+      "description": "Music video by Rise Against performing Savior. (C) 2009 DGC Records #RiseAgainst #Savior #Vevo #Rock #VevoOfficial.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/e8X3ACToii0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/e8X3ACToii0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/e8X3ACToii0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/e8X3ACToii0/default.jpg"
+    },
+    {
+      "id": "UCCyoocDxBA",
+      "link": "https://www.youtube.com/watch?v=UCCyoocDxBA",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-27T02:35:15.000Z",
+      "channelId": "UCCZGYab5SpD0I7Z5JqJZgww",
+      "channelTitle": "My Chemical Romance",
+      "title": "My Chemical Romance - Helena [Official Music Video]",
+      "description": "From 'Three Cheers for Sweet Revenge' Download/Stream: https://mcr.lnk.to/threecheers Connect with My Chemical Romance: http://MyChemicalRomance.com ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UCCyoocDxBA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UCCyoocDxBA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UCCyoocDxBA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/UCCyoocDxBA/default.jpg"
+    },
+    {
+      "id": "9d8SzG4FPyM",
+      "link": "https://www.youtube.com/watch?v=9d8SzG4FPyM",
+      "kind": "youtube#video",
+      "publishedAt": "2012-11-08T20:51:49.000Z",
+      "channelId": "UCcIRZxNH7xcEt1fu4pfqFRg",
+      "channelTitle": "Dropkick Murphys",
+      "title": "Dropkick Murphys - &quot;Rose Tattoo&quot; (Video)",
+      "description": "Dropkick Murphys \"Rose Tattoo\" from the album \"SIGNED and SEALED in BLOOD\" Directed by: Chris Friend - http://www.visionfriend.com Band footage by: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9d8SzG4FPyM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9d8SzG4FPyM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9d8SzG4FPyM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/9d8SzG4FPyM/default.jpg"
+    },
+    {
+      "id": "9-SQGOYOjxs",
+      "link": "https://www.youtube.com/watch?v=9-SQGOYOjxs",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-07T18:21:48.000Z",
+      "channelId": "UChMKB2AHNpeuWhalpRYhUaw",
+      "channelTitle": "RiseAgainstVEVO",
+      "title": "Rise Against - Prayer Of The Refugee (Official Music Video)",
+      "description": "Music video by Rise Against performing Prayer Of The Refugee. (C) 2006 Geffen Records #RiseAgainst #PrayerOfTheRefugee #Vevo #Rock.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9-SQGOYOjxs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9-SQGOYOjxs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9-SQGOYOjxs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/9-SQGOYOjxs/default.jpg"
+    },
+    {
+      "id": "7iNbnineUCI",
+      "link": "https://www.youtube.com/watch?v=7iNbnineUCI",
+      "kind": "youtube#video",
+      "publishedAt": "2017-01-18T01:08:42.000Z",
+      "channelId": "UCF3EnnuLjeab3r8l1k2rV9g",
+      "channelTitle": "OffspringVEVO",
+      "title": "The Offspring - The Kids Aren&#39;t Alright (Official Music Video)",
+      "description": "Playlist Best of Offspring: https://goo.gl/cwFfP6 Subscribe for more: https://goo.gl/JaSm1N Music video by The Offspring performing The Kids Aren't Alright.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7iNbnineUCI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7iNbnineUCI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7iNbnineUCI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/7iNbnineUCI/default.jpg"
+    },
+    {
+      "id": "uCUpvTMis-Y",
+      "link": "https://www.youtube.com/watch?v=uCUpvTMis-Y",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-27T00:32:03.000Z",
+      "channelId": "UCCZGYab5SpD0I7Z5JqJZgww",
+      "channelTitle": "My Chemical Romance",
+      "title": "My Chemical Romance - The Ghost Of You [Official Music Video]",
+      "description": "From 'Three Cheers for Sweet Revenge' Download/Stream: https://mcr.lnk.to/threecheers Connect with My Chemical Romance: http://MyChemicalRomance.com ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uCUpvTMis-Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uCUpvTMis-Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uCUpvTMis-Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/uCUpvTMis-Y/default.jpg"
+    }
+  ]
+}

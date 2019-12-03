@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "LjxulQ1bEWg",
+      "link": "https://www.youtube.com/watch?v=LjxulQ1bEWg",
+      "kind": "youtube#video",
+      "publishedAt": "2018-05-16T04:00:02.000Z",
+      "channelId": "UChXnu0HBydqedqhnClp0rJg",
+      "channelTitle": "TygaVEVO",
+      "title": "Tyga - Taste (Official Video) ft. Offset",
+      "description": "From the album, \"Legendary\". Stream: https://EMPIRE.lnk.to/LegendaryYo Produced by d.a. doman Official music video by Tyga featuring Offset performing ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LjxulQ1bEWg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LjxulQ1bEWg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LjxulQ1bEWg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/LjxulQ1bEWg/default.jpg"
+    },
+    {
+      "id": "4NJlUribp3c",
+      "link": "https://www.youtube.com/watch?v=4NJlUribp3c",
+      "kind": "youtube#video",
+      "publishedAt": "2016-03-10T08:00:00.000Z",
+      "channelId": "UCuoH9aFpJT0HltXb0XrKRNQ",
+      "channelTitle": "DesiignerVEVO",
+      "title": "Desiigner - Panda (Official Audio)",
+      "description": "Listen to “Panda” by Desiigner http://smarturl.it/dPanda iTunes http://smarturl.it/iPanda Google Play: http://smarturl.it/gPanda Amazon: http://smarturl.it/aPanda ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4NJlUribp3c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4NJlUribp3c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4NJlUribp3c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/4NJlUribp3c/default.jpg"
+    },
+    {
+      "id": "lsJLLEwUYZM",
+      "link": "https://www.youtube.com/watch?v=lsJLLEwUYZM",
+      "kind": "youtube#video",
+      "publishedAt": "2015-12-20T21:36:07.000Z",
+      "channelId": "UCAfvFXvjzEupwo2NtyDhRZA",
+      "channelTitle": "Desiigner LOD",
+      "title": "Desiigner- Panda (OFFICIAL SONG) Prod. By: Menace",
+      "description": "Check out the latest single from Desiigner. This is the OFFICIAL PANDA!! AVAILABLE ON iTUNES NOW: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lsJLLEwUYZM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lsJLLEwUYZM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lsJLLEwUYZM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/lsJLLEwUYZM/default.jpg"
+    },
+    {
+      "id": "8UFIYGkROII",
+      "link": "https://www.youtube.com/watch?v=8UFIYGkROII",
+      "kind": "youtube#video",
+      "publishedAt": "2009-11-22T10:24:58.000Z",
+      "channelId": "UCK5Z4cLoPQrbOXVsrD7Vigw",
+      "channelTitle": "SouljaBoyTellemVEVO",
+      "title": "Soulja Boy Tell&#39;em - Crank That (Soulja Boy) [Official Video]",
+      "description": "Best of Soulja Boy Tell'em: https://goo.gl/V4M688 Subscribe here: https://goo.gl/k2s6xJ Music video by Soulja Boy Tell`em performing Crank That (Soulja Boy).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8UFIYGkROII/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8UFIYGkROII/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8UFIYGkROII/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/8UFIYGkROII/default.jpg"
+    },
+    {
+      "id": "hHW1oY26kxQ",
+      "link": "https://www.youtube.com/watch?v=hHW1oY26kxQ",
+      "kind": "youtube#video",
+      "publishedAt": "2018-08-22T19:51:06.000Z",
+      "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
+      "channelTitle": "ChilledCow",
+      "title": "lofi hip hop radio - beats to relax/study to",
+      "description": "Thank you for listening, I hope you will have a good time here :) 🧡Join the ChilledCow family to get awesome perks → https://bit.ly/chilledcow-family Check out ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hHW1oY26kxQ/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hHW1oY26kxQ/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hHW1oY26kxQ/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/hHW1oY26kxQ/default_live.jpg"
+    },
+    {
+      "id": "TMZi25Pq3T8",
+      "link": "https://www.youtube.com/watch?v=TMZi25Pq3T8",
+      "kind": "youtube#video",
+      "publishedAt": "2009-02-27T12:44:03.000Z",
+      "channelId": "UC-BZqVQqpqSwVlU5Urw4egA",
+      "channelTitle": "NWAVEVO",
+      "title": "N.W.A. - Straight Outta Compton",
+      "description": "Get N.W.A vinyl here: http://smarturl.it/NWAstore Listen to N.W.A on Spotify: http://smarturl.it/NWASpotify Find N.W.A titles on Apple Music: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TMZi25Pq3T8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TMZi25Pq3T8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TMZi25Pq3T8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/TMZi25Pq3T8/default.jpg"
+    },
+    {
+      "id": "l-O5IHVhWj0",
+      "link": "https://www.youtube.com/watch?v=l-O5IHVhWj0",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-25T08:36:06.000Z",
+      "channelId": "UC-QezoqJgvxadJqhJbP199A",
+      "channelTitle": "RUNDMCVEVO",
+      "title": "RUN DMC - It&#39;s Tricky (Video)",
+      "description": "Run-DMC's official music video for 'It's Tricky'. Click to listen to Run-DMC on Spotify: http://smarturl.it/RUNDMCSpotify?IQid=RunDIT As featured on Run-DMC: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l-O5IHVhWj0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l-O5IHVhWj0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l-O5IHVhWj0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/l-O5IHVhWj0/default.jpg"
+    },
+    {
+      "id": "cJc7xWJbwJw",
+      "link": "https://www.youtube.com/watch?v=cJc7xWJbwJw",
+      "kind": "youtube#video",
+      "publishedAt": "2019-06-26T13:57:45.000Z",
+      "channelId": "UCxMAbVFmxKUVGAll0WVGpFw",
+      "channelTitle": "Cardi B",
+      "title": "Cardi B - Press [Official Music Video]",
+      "description": "Cardi B - Press Stream/Download: https://cardib.lnk.to/PressID Press Merch Drop! Shop the collection now: https://CardiB.lnk.to/PressMerchDropYT Subscribe ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cJc7xWJbwJw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cJc7xWJbwJw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cJc7xWJbwJw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/cJc7xWJbwJw/default.jpg"
+    },
+    {
+      "id": "28hYUZMufDg",
+      "link": "https://www.youtube.com/watch?v=28hYUZMufDg",
+      "kind": "youtube#video",
+      "publishedAt": "2019-11-15T16:32:59.000Z",
+      "channelId": "UC2CCXzC56k0b8L49R_iW-Yw",
+      "channelTitle": "DaBaby",
+      "title": "DaBaby - BOP on Broadway (Hip Hop Musical)",
+      "description": "BOP on Broadway DaBaby - BOP Produced by Jetsonmade Video Produced by Reel Goats Dir x Reel Goats Edited by Reel Goats Shoutout every single dancer ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/28hYUZMufDg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/28hYUZMufDg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/28hYUZMufDg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/28hYUZMufDg/default.jpg"
+    },
+    {
+      "id": "uaCYeQ9FtSI",
+      "link": "https://www.youtube.com/watch?v=uaCYeQ9FtSI",
+      "kind": "youtube#video",
+      "publishedAt": "2014-06-21T06:27:16.000Z",
+      "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "channelTitle": "T-Series",
+      "title": "Official: Issey Kehte Hain Hip Hop Full Video Song | Yo Yo Honey Singh | World Music Day",
+      "description": "T-Series presents to you the full video of Issey Kehte Hain Hip Hop by none other than Yo Yo Honey Singh. So put your party shoes ON and sing with us Issey ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uaCYeQ9FtSI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uaCYeQ9FtSI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uaCYeQ9FtSI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/uaCYeQ9FtSI/default.jpg"
+    }
+  ]
+}

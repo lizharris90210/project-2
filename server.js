@@ -1,14 +1,8 @@
-// VALIDATION
-const gradient = require("gradient-string");
-console.log("=========================");
-console.log(gradient.summer("/server.js loaded"));
-console.log(" This file is what launches the app\n741Packages:\n - dotenv\n - express\n - express-handlebars\n - express-session\n - gradient-string ./models\n - ./config/passport");
-console.log("\n=========================\n");
-
 require("dotenv").config();
 var express = require("express");
 var exphbs = require("express-handlebars");
 var session = require("express-session"); // Required for passport (username/pw authentication)
+var gradient = require("gradient-string");
 
 var passport = require("./migrations/passport"); // Required for passport (username/pw authentication)
 
@@ -27,7 +21,7 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 // Handlebars
-app.engine("handlebars", exphbs({defaultLayout: "main"}));
+app.engine("handlebars", exphbs({defaultLayout: "profiles"}));
 app.set("view engine", "handlebars");
 
 // Routes
@@ -43,7 +37,7 @@ if (process.env.NODE_ENV === "test") {
 // Starting the server, syncing our models ------------------------------------/
 db.sequelize.sync({ syncOptions }).then(function() {
   app.listen(PORT, function() {
-    console.log(gradient.vice("\n==> 🌎  Listening on port %s. Visit http://localhost:%s/ in your browser.",PORT,PORT));
+    console.log(gradient.vice(`\n==> 🌎  Listening on port ${PORT}. Visit http://localhost:${PORT}/ in your browser.`));
   });
 });
 
