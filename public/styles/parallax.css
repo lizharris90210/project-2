@@ -12,6 +12,15 @@ body, html {
   
   }
 
+  .sync-txt{
+    z-index: 500;
+    margin-top: 50px;
+  }
+
+  .collab-text{
+    z-index: 400
+  }
+
   .section-one{
       background-color: #fefefe;
       width: 100%;
