@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "B9FzVhw8_bY",
+      "link": "https://www.youtube.com/watch?v=B9FzVhw8_bY",
+      "kind": "youtube#video",
+      "publishedAt": "2016-10-08T21:33:55.000Z",
+      "channelId": "UCWqvhmZyB66eKv01SiH_Kjg",
+      "channelTitle": "The Dead South",
+      "title": "The Dead South - In Hell I&#39;ll Be In Good Company [Official Music Video]",
+      "description": "Official video for \"In Hell I'll Be In Good Company\" by The Dead South. THE DEAD SOUTH ARE ON TOUR! Dates announced for The Summer Crawl 2019 and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/B9FzVhw8_bY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/B9FzVhw8_bY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/B9FzVhw8_bY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/B9FzVhw8_bY/default.jpg"
+    },
+    {
+      "id": "TWcyIpul8OE",
+      "link": "https://www.youtube.com/watch?v=TWcyIpul8OE",
+      "kind": "youtube#video",
+      "publishedAt": "2011-08-17T16:45:14.000Z",
+      "channelId": "UCci2c90HJbY0VAS3_eLF3Wg",
+      "channelTitle": "Bon Iver",
+      "title": "Bon Iver - Holocene (Official Music Video)",
+      "description": "Director: NABIL (NABIL.com) Producer: Jill Hammer Production Company: NE Direction Editor: Isaac Hagy DOP: Larkin Sieple boniver.org jagjaguwar.com.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TWcyIpul8OE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TWcyIpul8OE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TWcyIpul8OE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/TWcyIpul8OE/default.jpg"
+    },
+    {
+      "id": "wP4xqXaJI9I",
+      "link": "https://www.youtube.com/watch?v=wP4xqXaJI9I",
+      "kind": "youtube#video",
+      "publishedAt": "2013-02-11T16:18:09.000Z",
+      "channelId": "UC_wE14OXGaszuUXW4mw0NnQ",
+      "channelTitle": "IndiEarth Out There",
+      "title": "Anthony in Party - Odakara | Folk music from India",
+      "description": "Anthony Daasan: Vocals/Urumi Samuel Gunashekar: Drums Napeer Naveen: Bass Vikram Vivekanand: Guitar Dass: Nadaswaram Raja: Thavil Guru: Pambu ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wP4xqXaJI9I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wP4xqXaJI9I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wP4xqXaJI9I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/wP4xqXaJI9I/default.jpg"
+    },
+    {
+      "id": "QRg_8NNPTD8",
+      "link": "https://www.youtube.com/watch?v=QRg_8NNPTD8",
+      "kind": "youtube#video",
+      "publishedAt": "2017-11-01T17:56:22.000Z",
+      "channelId": "UC3Jvz7FpBsY73_wEjFV67wQ",
+      "channelTitle": "Heilung",
+      "title": "Heilung | LIFA - Krigsgaldr LIVE",
+      "description": "LIFA is recorded live at Castlefest 2017. Get the album here: https://heilung.bandcamp.com/album/lifa www.facebook.com/amplifiedhistory Remember, that we ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QRg_8NNPTD8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QRg_8NNPTD8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QRg_8NNPTD8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/QRg_8NNPTD8/default.jpg"
+    },
+    {
+      "id": "Q1jE25zn8RU",
+      "link": "https://www.youtube.com/watch?v=Q1jE25zn8RU",
+      "kind": "youtube#video",
+      "publishedAt": "2017-04-16T09:57:41.000Z",
+      "channelId": "UCEi0EgWJ5m7gVBQ68a1L0TA",
+      "channelTitle": "alexrainbirdMusic",
+      "title": "Relaxing Sunday Mornings ☕ - An Indie/Folk/Pop Playlist | Vol. 1",
+      "description": "Make every day a Sunday with an hour of chilled indie music and laidback folk tracks. More info on my website: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q1jE25zn8RU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q1jE25zn8RU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q1jE25zn8RU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/Q1jE25zn8RU/default.jpg"
+    },
+    {
+      "id": "Uy0LV0c055g",
+      "link": "https://www.youtube.com/watch?v=Uy0LV0c055g",
+      "kind": "youtube#video",
+      "publishedAt": "2010-09-29T11:15:39.000Z",
+      "channelId": "UClAQWqQkvS21oKNB2GM5KQg",
+      "channelTitle": "Sunfish737",
+      "title": "Игорь Растеряев. Казачья песня - Cossack song. Accordion Folk music.",
+      "description": "Автор музыки и текста - Игорь Растеряев. Автор ролика - Лёха Ляхов. The song named «Cossack song». A warm wind was flying оn the field,...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Uy0LV0c055g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Uy0LV0c055g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Uy0LV0c055g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/Uy0LV0c055g/default.jpg"
+    },
+    {
+      "id": "KCCqqPqDqSY",
+      "link": "https://www.youtube.com/watch?v=KCCqqPqDqSY",
+      "kind": "youtube#video",
+      "publishedAt": "2018-07-16T10:16:26.000Z",
+      "channelId": "UCEi0EgWJ5m7gVBQ68a1L0TA",
+      "channelTitle": "alexrainbirdMusic",
+      "title": "Wanderlust 🌲 - An Indie/Folk/Pop Playlist | Vol. I",
+      "description": "Travel to distant places with this dreamy indie selection! Tracklist & Spotify link below… LISTEN ON SPOTIFY: https://spoti.fi/2LlraxL » Subscribe to be the first ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KCCqqPqDqSY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KCCqqPqDqSY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KCCqqPqDqSY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/KCCqqPqDqSY/default.jpg"
+    },
+    {
+      "id": "b9lLxQ9Y19k",
+      "link": "https://www.youtube.com/watch?v=b9lLxQ9Y19k",
+      "kind": "youtube#video",
+      "publishedAt": "2018-01-16T04:59:30.000Z",
+      "channelId": "UCGw5nU3HSuysepExgWztt0w",
+      "channelTitle": "Mega Música",
+      "title": "Música POP Moderna para Trabajar Alegre | The Best Pop, Indie, Folk Music Mix",
+      "description": "Música e imágenes: Derecho de la música en https://www.epidemicsound.com con licencia de uso ID17055. Imágenes del canal en ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b9lLxQ9Y19k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b9lLxQ9Y19k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b9lLxQ9Y19k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/b9lLxQ9Y19k/default.jpg"
+    },
+    {
+      "id": "d2Y4dFVgS8g",
+      "link": "https://www.youtube.com/watch?v=d2Y4dFVgS8g",
+      "kind": "youtube#video",
+      "publishedAt": "2014-08-25T19:35:35.000Z",
+      "channelId": "UCsl6hR3KH_dZCHFRT7gi6nw",
+      "channelTitle": "Pengroves",
+      "title": "Wishlight | One Hour Indie/Folk/Alternative Mix",
+      "description": "Video blocked on your device or region? Listen to it on Spotify: https://open.spotify.com/user/pengroves/playlist/1VmuUID0BsMPIcHHDCSRP7 This is a shift ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d2Y4dFVgS8g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d2Y4dFVgS8g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d2Y4dFVgS8g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/d2Y4dFVgS8g/default.jpg"
+    },
+    {
+      "id": "chwADnoFDng",
+      "link": "https://www.youtube.com/watch?v=chwADnoFDng",
+      "kind": "youtube#video",
+      "publishedAt": "2008-11-15T09:25:45.000Z",
+      "channelId": "UCYrvfI4StOOtWCpbsta81MA",
+      "channelTitle": "sreejithknm",
+      "title": "Sakura - Japanese Folk Music",
+      "description": "Very famous Japanese folk music.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/chwADnoFDng/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/chwADnoFDng/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/chwADnoFDng/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/chwADnoFDng/default.jpg"
+    }
+  ]
+}

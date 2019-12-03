@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "ru0K8uYEZWw",
+      "link": "https://www.youtube.com/watch?v=ru0K8uYEZWw",
+      "kind": "youtube#video",
+      "publishedAt": "2016-05-17T04:00:01.000Z",
+      "channelId": "UCsXfDf1CDgU3SCt0gxJNXGg",
+      "channelTitle": "justintimberlakeVEVO",
+      "title": "Justin Timberlake - CAN&#39;T STOP THE FEELING! (From DreamWorks Animation&#39;s &quot;Trolls&quot;) (Official Video)",
+      "description": "CAN'T STOP THE FEELING!” from the Original Motion Picture Trolls\" Official Music Video directed by Mark Romanek. Get it on iTunes: http://smarturl.it/CSTFi?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ru0K8uYEZWw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ru0K8uYEZWw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ru0K8uYEZWw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/ru0K8uYEZWw/default.jpg"
+    },
+    {
+      "id": "0XFudmaObLI",
+      "link": "https://www.youtube.com/watch?v=0XFudmaObLI",
+      "kind": "youtube#video",
+      "publishedAt": "2013-04-15T16:52:09.000Z",
+      "channelId": "UCudKvbd6gvbm5UCYRk5tZKA",
+      "channelTitle": "TheSoundYouNeed",
+      "title": "Aaron Smith - Dancin (KRONO Remix)",
+      "description": "BUY : http://www.beatport.com/release/dancin-krono-remix/1299637 TheSoundYouNeed - Music at its finest ll Website : http://www.thesoundyouneed.net ll ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0XFudmaObLI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0XFudmaObLI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0XFudmaObLI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/0XFudmaObLI/default.jpg"
+    },
+    {
+      "id": "6JCLY0Rlx6Q",
+      "link": "https://www.youtube.com/watch?v=6JCLY0Rlx6Q",
+      "kind": "youtube#video",
+      "publishedAt": "2014-10-23T16:00:18.000Z",
+      "channelId": "UC33W-ccS1iDKLxlI5WOPknA",
+      "channelTitle": "WalkTheMoonVEVO",
+      "title": "WALK THE MOON - Shut Up and Dance (Official Video)",
+      "description": "Check out the official music video for \"Shut Up and Dance\" by WALK THE MOON Download \"Shut Up and Dance\" on iTunes: http://smarturl.it/SUAD?Iqid=yt ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6JCLY0Rlx6Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6JCLY0Rlx6Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6JCLY0Rlx6Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/6JCLY0Rlx6Q/default.jpg"
+    },
+    {
+      "id": "2Abk1jAONjw",
+      "link": "https://www.youtube.com/watch?v=2Abk1jAONjw",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-17T05:18:32.000Z",
+      "channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+      "channelTitle": "LadyGagaVEVO",
+      "title": "Lady Gaga - Just Dance (Official Music Video) ft. Colby O&#39;Donis",
+      "description": "REMASTERED IN HD! Listen to brand new music from Bradley Cooper & Lady Gaga from the 'A Star Is Born' Soundtrack: http://smarturl.it/ASIBSoundtrack ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2Abk1jAONjw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2Abk1jAONjw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2Abk1jAONjw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/2Abk1jAONjw/default.jpg"
+    },
+    {
+      "id": "q0hyYWKXF0Q",
+      "link": "https://www.youtube.com/watch?v=q0hyYWKXF0Q",
+      "kind": "youtube#video",
+      "publishedAt": "2019-06-24T22:01:36.000Z",
+      "channelId": "UCQeiBlCcS4-XGwFjrvDn96w",
+      "channelTitle": "Tones And I",
+      "title": "TONES AND I - DANCE MONKEY (OFFICIAL VIDEO)",
+      "description": "2nd single from debut EP 'The Kids Are Coming' out now. https://tonesandi.lnk.to/TheKidsAreComingYT Tones And I - Dance Monkey ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/q0hyYWKXF0Q/default.jpg"
+    },
+    {
+      "id": "0HKfjsM2hSw",
+      "link": "https://www.youtube.com/watch?v=0HKfjsM2hSw",
+      "kind": "youtube#video",
+      "publishedAt": "2018-01-16T09:31:19.000Z",
+      "channelId": "UCRUE1E1_DOnXNrUphtgKKSQ",
+      "channelTitle": "kurokuroku",
+      "title": "Momoland - Boom Boom [Dance MIX]",
+      "description": "momoland #boomboom #dancemix.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0HKfjsM2hSw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0HKfjsM2hSw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0HKfjsM2hSw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/0HKfjsM2hSw/default.jpg"
+    },
+    {
+      "id": "U0fk5L1ifbo",
+      "link": "https://www.youtube.com/watch?v=U0fk5L1ifbo",
+      "kind": "youtube#video",
+      "publishedAt": "2018-07-06T15:10:01.000Z",
+      "channelId": "UCY7uhiFCrKd_hhXfVrtPWTg",
+      "channelTitle": "Km Music",
+      "title": "Eiffel 65 - Blue (Da Ba Dee)💙💙🎶 💃🏼 🕺🏼🎶💃🏻🕺🏻🎶 💙💙",
+      "description": "Video Edit By Km Music Eiffel 65 is an Italian pop music and dance music group consisting of Jeffrey Jey, Maurizio Lobina and Gabry Ponte. They are mainly ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U0fk5L1ifbo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U0fk5L1ifbo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U0fk5L1ifbo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/U0fk5L1ifbo/default.jpg"
+    },
+    {
+      "id": "XPmBnnon0Ek",
+      "link": "https://www.youtube.com/watch?v=XPmBnnon0Ek",
+      "kind": "youtube#video",
+      "publishedAt": "2017-11-08T19:07:46.000Z",
+      "channelId": "UCY7uhiFCrKd_hhXfVrtPWTg",
+      "channelTitle": "Km Music",
+      "title": "Haddaway - What Is Love",
+      "description": "Video Edit By Km Music Videos 1) Elena Cruz-Nichipor - Countdown to EDC Las Vegas 3 2) EDU X Ephwurd - Vibrations [Cutting Shapes-Shuffle] 3) elena cruz ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XPmBnnon0Ek/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XPmBnnon0Ek/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XPmBnnon0Ek/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/XPmBnnon0Ek/default.jpg"
+    },
+    {
+      "id": "NF-kLy44Hls",
+      "link": "https://www.youtube.com/watch?v=NF-kLy44Hls",
+      "kind": "youtube#video",
+      "publishedAt": "2013-09-16T14:00:34.000Z",
+      "channelId": "UCKHFvArwRwQU2VbRjMpaVGw",
+      "channelTitle": "DaftPunkVEVO",
+      "title": "Daft Punk - Lose Yourself to Dance (Official Version)",
+      "description": "Daft Punk's official music video for 'Lose Yourself To Dance'. Click to listen to Daft Punk on Spotify: http://smarturl.it/DaftPunkSpotify?IQ... As featured on Random ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NF-kLy44Hls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NF-kLy44Hls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NF-kLy44Hls/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/NF-kLy44Hls/default.jpg"
+    },
+    {
+      "id": "HRkNfdlm5Qs",
+      "link": "https://www.youtube.com/watch?v=HRkNfdlm5Qs",
+      "kind": "youtube#video",
+      "publishedAt": "2015-05-05T11:02:25.000Z",
+      "channelId": "UC4GTYUQEZSQ-28KNX7I0ngw",
+      "channelTitle": "OneHowto",
+      "title": "Zumba Dance Workout for weight loss",
+      "description": "Have fun while you lose weight with oneHOWTO! Zumba Dance Workout with our best uDance instructor! Keep on doing this dance non stop to lose weight ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HRkNfdlm5Qs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HRkNfdlm5Qs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HRkNfdlm5Qs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/HRkNfdlm5Qs/default.jpg"
+    }
+  ]
+}

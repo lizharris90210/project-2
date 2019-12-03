@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "xPU8OAjjS4k",
+      "link": "https://www.youtube.com/watch?v=xPU8OAjjS4k",
+      "kind": "youtube#video",
+      "publishedAt": "2009-11-21T11:22:55.000Z",
+      "channelId": "UCRxxOhTdsfA0hdvDG9Tb0HA",
+      "channelTitle": "3DoorsDownVEVO",
+      "title": "3 Doors Down - Kryptonite (Official Video)",
+      "description": "Music video by 3 Doors Down performing Kryptonite. (C) 2000 Universal Records, a Division of UMG Recordings, Inc. #3DoorsDown #Kryptonite #Vevo.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xPU8OAjjS4k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xPU8OAjjS4k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xPU8OAjjS4k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/xPU8OAjjS4k/default.jpg"
+    },
+    {
+      "id": "WC5FdFlUcl0",
+      "link": "https://www.youtube.com/watch?v=WC5FdFlUcl0",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-16T23:09:57.000Z",
+      "channelId": "UCHc7ICbMq7vwaToJQeEtnrA",
+      "channelTitle": "AudioslaveVEVO",
+      "title": "Audioslave - Be Yourself (Official Music Video)",
+      "description": "REMASTERED IN HD! Music video by Audioslave performing Be Yourself. (C) 2005 Interscope Records and Sony BMG Entertainment #Audioslave #BeYourself ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WC5FdFlUcl0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WC5FdFlUcl0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WC5FdFlUcl0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/WC5FdFlUcl0/default.jpg"
+    },
+    {
+      "id": "X-x7eZOdBFM",
+      "link": "https://www.youtube.com/watch?v=X-x7eZOdBFM",
+      "kind": "youtube#video",
+      "publishedAt": "2018-03-08T18:06:37.000Z",
+      "channelId": "UCBL7ZxVX4GvW4CFiES_-0YA",
+      "channelTitle": "Anne-Marie",
+      "title": "Marshmello &amp; Anne-Marie - FRIENDS [Alternative Music Video]",
+      "description": "KarateWithAnneMarie 🥋: https://www.youtube.com/watch?v=pQV4UpDbXUI&list=PLgzgA64MLAfmgnMaTQehB1fkyq1q3Vj4V Download FRIENDS by ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X-x7eZOdBFM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X-x7eZOdBFM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X-x7eZOdBFM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/X-x7eZOdBFM/default.jpg"
+    },
+    {
+      "id": "tgIqecROs5M",
+      "link": "https://www.youtube.com/watch?v=tgIqecROs5M",
+      "kind": "youtube#video",
+      "publishedAt": "2014-04-21T21:29:36.000Z",
+      "channelId": "UC7qn3NBI3XV7d8I3cvZeABw",
+      "channelTitle": "Red Bull Records",
+      "title": "AWOLNATION - Sail (Official Music Video)",
+      "description": "Watch the new AWOLNATION video \"Handyman\" - https://youtu.be/nFWV97X_0Po Get AWOLNATION's new album, 'Here Come The Runts', available now at: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tgIqecROs5M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tgIqecROs5M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tgIqecROs5M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/tgIqecROs5M/default.jpg"
+    },
+    {
+      "id": "NRtvqT_wMeY",
+      "link": "https://www.youtube.com/watch?v=NRtvqT_wMeY",
+      "kind": "youtube#video",
+      "publishedAt": "2010-02-26T18:47:23.000Z",
+      "channelId": "UCZcuTLHMeLI_njJwqb0GWDQ",
+      "channelTitle": "SoulAsylumVEVO",
+      "title": "Soul Asylum - Runaway Train (Official Video)",
+      "description": "Soul Asylum's official music video for 'Runaway Train'. Click to listen to Soul Asylum on Spotify: http://smarturl.it/SAsySpotify?IQid=S... As featured on Black Gold: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NRtvqT_wMeY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NRtvqT_wMeY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NRtvqT_wMeY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/NRtvqT_wMeY/default.jpg"
+    },
+    {
+      "id": "fgT9zGkiLig",
+      "link": "https://www.youtube.com/watch?v=fgT9zGkiLig",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-25T20:30:23.000Z",
+      "channelId": "UCjvwoDIrMmlSOINUPZWM3CA",
+      "channelTitle": "IncubusVEVO",
+      "title": "Incubus - Drive (Official Music Video)",
+      "description": "Watch the official music video for \"Drive\" performed by Incubus Music video by Incubus performing Drive. (C) 2000 SONY BMG MUSIC ENTERTAINMENT ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fgT9zGkiLig/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fgT9zGkiLig/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fgT9zGkiLig/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/fgT9zGkiLig/default.jpg"
+    },
+    {
+      "id": "4aeETEoNfOg",
+      "link": "https://www.youtube.com/watch?v=4aeETEoNfOg",
+      "kind": "youtube#video",
+      "publishedAt": "2011-08-03T01:25:11.000Z",
+      "channelId": "UCflKJMyrnJNuD4eEvs9-5CA",
+      "channelTitle": "SmashingPumpkinsVEVO",
+      "title": "The Smashing Pumpkins - 1979 (Official Video)",
+      "description": "Official video for Smashing Pumpkins song \"1979\" from the album Mellon Collie and the Infinite Sadness. Buy It Here: http://smarturl.it/m91qrj Directed by the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4aeETEoNfOg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4aeETEoNfOg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4aeETEoNfOg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/4aeETEoNfOg/default.jpg"
+    },
+    {
+      "id": "NRmSf9VqrUA",
+      "link": "https://www.youtube.com/watch?v=NRmSf9VqrUA",
+      "kind": "youtube#video",
+      "publishedAt": "2019-03-22T14:30:01.000Z",
+      "channelId": "UCEdvpU2pFRCVqU6yIPyTpMQ",
+      "channelTitle": "Marshmello",
+      "title": "Marshmello - Here With Me Feat. CHVRCHES [Alternative Music Video]",
+      "description": "Marshmello - Here With Me Feat. CHVRCHES [Alternative Music Video] Purchase/Stream 'Here With Me' ▷ https://marshmello.lnk.to/herewithme SHOP Limited ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NRmSf9VqrUA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NRmSf9VqrUA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NRmSf9VqrUA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/NRmSf9VqrUA/default.jpg"
+    },
+    {
+      "id": "nMsZ6wkZWhA",
+      "link": "https://www.youtube.com/watch?v=nMsZ6wkZWhA",
+      "kind": "youtube#video",
+      "publishedAt": "2009-12-17T00:28:25.000Z",
+      "channelId": "UCjvwoDIrMmlSOINUPZWM3CA",
+      "channelTitle": "IncubusVEVO",
+      "title": "Incubus - Dig (Official Music Video)",
+      "description": "Incubus' official music video for 'Dig'. Click to listen to Incubus on Spotify: http://smarturl.it/InsubusSpotify?IQid=IncubusDig As featured on The Essential Incubus.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nMsZ6wkZWhA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nMsZ6wkZWhA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nMsZ6wkZWhA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/nMsZ6wkZWhA/default.jpg"
+    },
+    {
+      "id": "opeETnB8m8w",
+      "link": "https://www.youtube.com/watch?v=opeETnB8m8w",
+      "kind": "youtube#video",
+      "publishedAt": "2014-09-04T17:58:17.000Z",
+      "channelId": "UCNMceJPDpB-1ZQJzh2PZ1qw",
+      "channelTitle": "CageTheElephantVEVO",
+      "title": "Cage The Elephant - Cigarette Daydreams (Official Music Video)",
+      "description": "Order \"\"Melophobia\" on iTunes now: http://smarturl.it/MelophobiaAlbum?IQid=yt Stream on Spotify: http://smarturl.it/MelophobiaSP?IQid=yt Music video by Cage ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/opeETnB8m8w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/opeETnB8m8w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/opeETnB8m8w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/opeETnB8m8w/default.jpg"
+    }
+  ]
+}

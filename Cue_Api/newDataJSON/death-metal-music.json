@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "WIKqgE4BwAY",
+      "link": "https://www.youtube.com/watch?v=WIKqgE4BwAY",
+      "kind": "youtube#video",
+      "publishedAt": "2014-02-26T02:59:25.000Z",
+      "channelId": "UC33_tIj4m1_XaqfFcomShvw",
+      "channelTitle": "BABYMETAL",
+      "title": "BABYMETAL - ギミチョコ！！- Gimme chocolate!! (OFFICIAL)",
+      "description": "BABYMETAL 1st full album \"BABYMETAL\" available!! Available on iTunes Store worldwide & CD web store. Don't miss it!! [iTunes Store] ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WIKqgE4BwAY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WIKqgE4BwAY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WIKqgE4BwAY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/WIKqgE4BwAY/default.jpg"
+    },
+    {
+      "id": "312Sb-2PovA",
+      "link": "https://www.youtube.com/watch?v=312Sb-2PovA",
+      "kind": "youtube#video",
+      "publishedAt": "2011-07-19T00:11:06.000Z",
+      "channelId": "UCnK9PxMozTYs8ELOvgMNKFA",
+      "channelTitle": "Century Media Records",
+      "title": "SUICIDE SILENCE - You Only Live Once (OFFICIAL VIDEO)",
+      "description": "SUICIDE SILENCE - You Only Live Once (OFFICIAL VIDEO). Taken from the album 'The Black Crown', Century Media Records 2011. (Lyrics below) Get it at ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/312Sb-2PovA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/312Sb-2PovA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/312Sb-2PovA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/312Sb-2PovA/default.jpg"
+    },
+    {
+      "id": "mjF1rmSV1dM",
+      "link": "https://www.youtube.com/watch?v=mjF1rmSV1dM",
+      "kind": "youtube#video",
+      "publishedAt": "2017-08-25T11:04:08.000Z",
+      "channelId": "UCnK9PxMozTYs8ELOvgMNKFA",
+      "channelTitle": "Century Media Records",
+      "title": "ARCH ENEMY - The Eagle Flies Alone (OFFICIAL VIDEO)",
+      "description": "ARCH ENEMY - The Eagle Flies Alone (OFFICIAL VIDEO). Order now: http://willtopower.centurymedia.com/ | CD, LP & Merch bundles ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mjF1rmSV1dM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mjF1rmSV1dM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mjF1rmSV1dM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/mjF1rmSV1dM/default.jpg"
+    },
+    {
+      "id": "qatmJtIJAPw",
+      "link": "https://www.youtube.com/watch?v=qatmJtIJAPw",
+      "kind": "youtube#video",
+      "publishedAt": "2014-07-01T10:49:08.000Z",
+      "channelId": "UCby5ZKyxiSW3dz_Kg5VDU9w",
+      "channelTitle": "ArhyBES",
+      "title": "BATMETAL",
+      "description": "song: Dethklok - Face Fisted Support us on Patreon https://www.patreon.com/arhybes or get one of our awesome t-shirts ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qatmJtIJAPw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qatmJtIJAPw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qatmJtIJAPw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/qatmJtIJAPw/default.jpg"
+    },
+    {
+      "id": "SDea7laHD4E",
+      "link": "https://www.youtube.com/watch?v=SDea7laHD4E",
+      "kind": "youtube#video",
+      "publishedAt": "2018-04-01T00:30:22.000Z",
+      "channelId": "UCby5ZKyxiSW3dz_Kg5VDU9w",
+      "channelTitle": "ArhyBES",
+      "title": "BATMETAL FOREVER",
+      "description": "Brendon Small's Galaktikon II: Become the Storm- 'My Name is Murder' is available on Megaforce Records: https://galaktikon.indiemerch.com/c/music-video ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SDea7laHD4E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SDea7laHD4E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SDea7laHD4E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/SDea7laHD4E/default.jpg"
+    },
+    {
+      "id": "Q_WHGV5bejk",
+      "link": "https://www.youtube.com/watch?v=Q_WHGV5bejk",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-27T01:28:51.000Z",
+      "channelId": "UCRRxSTgPUY0q_YToaczc2BQ",
+      "channelTitle": "Roadrunner Records",
+      "title": "Sepultura - Territory [OFFICIAL VIDEO]",
+      "description": "Sepultura's video for 'Territory' from the album, Chaos A.D. - available now on Roadrunner Records. Download now on iTunes: http://smarturl.it/chaosad LYRICS ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q_WHGV5bejk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q_WHGV5bejk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q_WHGV5bejk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/Q_WHGV5bejk/default.jpg"
+    },
+    {
+      "id": "4ZqWLIQaKM4",
+      "link": "https://www.youtube.com/watch?v=4ZqWLIQaKM4",
+      "kind": "youtube#video",
+      "publishedAt": "2015-05-08T15:22:23.000Z",
+      "channelId": "UC3o9YaRy8gc-lMmw_XpqgiQ",
+      "channelTitle": "In This Moment",
+      "title": "In This Moment - Sex Metal Barbie [OFFICIAL MUSIC VIDEO]",
+      "description": "In This Moment “Sex Metal Barbie” Official Video off the album Black Widow. In This Moment's NEW album, RITUAL, is available now on Roadrunner ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4ZqWLIQaKM4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4ZqWLIQaKM4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4ZqWLIQaKM4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/4ZqWLIQaKM4/default.jpg"
+    },
+    {
+      "id": "qLYoJgbybes",
+      "link": "https://www.youtube.com/watch?v=qLYoJgbybes",
+      "kind": "youtube#video",
+      "publishedAt": "2013-08-02T07:00:14.000Z",
+      "channelId": "UCvscAibvK2l-PU63jC2OyJQ",
+      "channelTitle": "AttilaVEVO",
+      "title": "Attila - About That Life (Official Music Video)",
+      "description": "Attila's official music video for 'About That Life'. Click to listen to Attila on Spotify: http://smarturl.it/AttSpotify?IQid=AttATL As featured on About That Life. Click to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qLYoJgbybes/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qLYoJgbybes/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qLYoJgbybes/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/qLYoJgbybes/default.jpg"
+    },
+    {
+      "id": "A43JOxLa5MM",
+      "link": "https://www.youtube.com/watch?v=A43JOxLa5MM",
+      "kind": "youtube#video",
+      "publishedAt": "2010-01-06T20:00:13.000Z",
+      "channelId": "UC4QPIYYzJNQkVycF28JagHA",
+      "channelTitle": "aliquidcow",
+      "title": "Death Metal Rooster",
+      "description": "The music is by Ewan Parry from Talanas. Check out our video for 'Antiphon' from the album, 'The Waspkeeper': ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A43JOxLa5MM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A43JOxLa5MM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A43JOxLa5MM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/A43JOxLa5MM/default.jpg"
+    },
+    {
+      "id": "yfB7vF7nCdA",
+      "link": "https://www.youtube.com/watch?v=yfB7vF7nCdA",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-16T21:29:43.000Z",
+      "channelId": "UCLgu9hvBRQ0TPEH-wnqDBiA",
+      "channelTitle": "SteelPantherVEVO",
+      "title": "Steel Panther - Death To All But Metal (Explicit)",
+      "description": "To buy the totally bitchin' album 'Balls Out' click here - http://smarturl.it/ballsout #SteelPanther #DeathToAllButMetal #Vevo #Rock #VevoOfficial.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yfB7vF7nCdA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yfB7vF7nCdA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yfB7vF7nCdA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/yfB7vF7nCdA/default.jpg"
+    }
+  ]
+}

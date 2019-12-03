@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "tGE381tbQa8",
+      "link": "https://www.youtube.com/watch?v=tGE381tbQa8",
+      "kind": "youtube#video",
+      "publishedAt": "2013-08-12T03:21:58.000Z",
+      "channelId": "UClVrJwcIy7saPcGc1nct80A",
+      "channelTitle": "Fueled By Ramen",
+      "title": "Panic! At The Disco: This Is Gospel [OFFICIAL VIDEO]",
+      "description": "Panic! At The Disco's music video for 'This Is Gospel' from the new album, Too Weird To Live, Too Rare To Die! - out now on DCD2 Records / Fueled By Ramen.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tGE381tbQa8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tGE381tbQa8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tGE381tbQa8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/tGE381tbQa8/default.jpg"
+    },
+    {
+      "id": "wU3qgPn3bGA",
+      "link": "https://www.youtube.com/watch?v=wU3qgPn3bGA",
+      "kind": "youtube#video",
+      "publishedAt": "2012-06-01T03:56:12.000Z",
+      "channelId": "UC-5IyVnJfn8-HJ0ZNxRLKWQ",
+      "channelTitle": "John Momon",
+      "title": "Tamela Mann - Take Me To The King",
+      "description": "NO COPYRIGHT INFRINGEMENT INTENDED***ALL RIGHTS GO TO THE ARTIST'S RESPECTIVE LABEL***I DO NOT OWN THIS SONG!***FOR ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wU3qgPn3bGA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wU3qgPn3bGA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wU3qgPn3bGA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/wU3qgPn3bGA/default.jpg"
+    },
+    {
+      "id": "n4XWfwLHeLM",
+      "link": "https://www.youtube.com/watch?v=n4XWfwLHeLM",
+      "kind": "youtube#video",
+      "publishedAt": "2015-12-31T06:29:25.000Z",
+      "channelId": "UCcaV40yrjS5R88xYHxK_0rA",
+      "channelTitle": "SINACH",
+      "title": "SINACH | WAY MAKER",
+      "description": "Download and Stream WayMaker: https://slic-inspire.lnk.to/waymakerID Get WayMaker -The Album: https://slic-inspire.lnk.to/V8p1HID Subscribe to Sinach's ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n4XWfwLHeLM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n4XWfwLHeLM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n4XWfwLHeLM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/n4XWfwLHeLM/default.jpg"
+    },
+    {
+      "id": "Do5MMmEygsY",
+      "link": "https://www.youtube.com/watch?v=Do5MMmEygsY",
+      "kind": "youtube#video",
+      "publishedAt": "2011-07-05T07:00:00.000Z",
+      "channelId": "UCA_-NVTKOlWgxgTWjqlzZlA",
+      "channelTitle": "2PacVEVO",
+      "title": "2Pac - Ghetto Gospel (Official Music Video)",
+      "description": "Music video by 2Pac performing Ghetto Gospel. (C) 2005 Interscope Records #2Pac #GhettoGospel #Vevo #HipHop #OfficialMusicVideo.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Do5MMmEygsY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Do5MMmEygsY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Do5MMmEygsY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/Do5MMmEygsY/default.jpg"
+    },
+    {
+      "id": "Z8SPwT3nQZ8",
+      "link": "https://www.youtube.com/watch?v=Z8SPwT3nQZ8",
+      "kind": "youtube#video",
+      "publishedAt": "2011-05-13T14:12:34.000Z",
+      "channelId": "UCHVY6rm7BNbpdcxI5Qbe-1Q",
+      "channelTitle": "KirkFranklinVEVO",
+      "title": "Kirk Franklin - I Smile (Official Video)",
+      "description": "Check out the official music video for \"I Smile\" by Kirk Franklin Playlist Best of Kirk Franklin: https://goo.gl/yxAfri Subscribe for more: https://goo.gl/zhfpr3 Kirk ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Z8SPwT3nQZ8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Z8SPwT3nQZ8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Z8SPwT3nQZ8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/Z8SPwT3nQZ8/default.jpg"
+    },
+    {
+      "id": "vDLByAnQ93Q",
+      "link": "https://www.youtube.com/watch?v=vDLByAnQ93Q",
+      "kind": "youtube#video",
+      "publishedAt": "2016-04-27T15:38:49.000Z",
+      "channelId": "UCXFrfAn9e_o3hFIB6Rm1-qg",
+      "channelTitle": "Entertainment One Nashville",
+      "title": "Jonathan Nelson - I Believe (Island Medley) (LIVE)",
+      "description": "new single I AGREE - out now! check it out at http://smarturl.it/NelsonIAgree.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vDLByAnQ93Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vDLByAnQ93Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vDLByAnQ93Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/vDLByAnQ93Q/default.jpg"
+    },
+    {
+      "id": "jO2_3pVd5k0",
+      "link": "https://www.youtube.com/watch?v=jO2_3pVd5k0",
+      "kind": "youtube#video",
+      "publishedAt": "2014-05-14T15:00:50.000Z",
+      "channelId": "UClVrJwcIy7saPcGc1nct80A",
+      "channelTitle": "Fueled By Ramen",
+      "title": "Panic! At The Disco: This Is Gospel (Piano Version)",
+      "description": "Brendon Urie of Panic! At The Disco performs a piano version of 'This Is Gospel' from the album, Too Weird To Live, Too Rare To Die - available now on DCD2 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jO2_3pVd5k0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jO2_3pVd5k0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jO2_3pVd5k0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/jO2_3pVd5k0/default.jpg"
+    },
+    {
+      "id": "2MZxf-lQD-o",
+      "link": "https://www.youtube.com/watch?v=2MZxf-lQD-o",
+      "kind": "youtube#video",
+      "publishedAt": "2014-06-18T16:15:25.000Z",
+      "channelId": "UCdEEoc_QrUX1Tuj1dFEQXRQ",
+      "channelTitle": "MichelleWilliamsVEVO",
+      "title": "Michelle Williams - Say Yes ft. Beyoncé, Kelly Rowland",
+      "description": "Michelle Williams ft. Beyoncé & Kelly Rowland - Say Yes Music video by Michelle Williams performing Say Yes. 2014 Entertainment One US LP.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2MZxf-lQD-o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2MZxf-lQD-o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2MZxf-lQD-o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/2MZxf-lQD-o/default.jpg"
+    },
+    {
+      "id": "VH3f0ellNv8",
+      "link": "https://www.youtube.com/watch?v=VH3f0ellNv8",
+      "kind": "youtube#video",
+      "publishedAt": "2015-10-15T07:00:00.000Z",
+      "channelId": "UC6NY4jdzOhC2Z4uaMRnlWMQ",
+      "channelTitle": "TGreeneVEVO",
+      "title": "Travis Greene - Intentional (Official Music Video)",
+      "description": "From Travis Greene's album \"\"The Hill\"\" Available now! iTunes - http://smarturl.it/TheHill-I Amazon - http://smarturl.it/TheHill-Am Google Play ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VH3f0ellNv8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VH3f0ellNv8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VH3f0ellNv8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/VH3f0ellNv8/default.jpg"
+    },
+    {
+      "id": "awexlghI7gM",
+      "link": "https://www.youtube.com/watch?v=awexlghI7gM",
+      "kind": "youtube#video",
+      "publishedAt": "2018-01-08T00:48:48.000Z",
+      "channelId": "UCCIhIU6HrgLNNqQ2Xdtlxug",
+      "channelTitle": "EeZeeConceptz",
+      "title": "Excess Love - Mercy Chinwo (Official Video)",
+      "description": "Official Video of massive hit single 'Excess Love' by @mercychinwo from the stables of EeZee CONCEPTZ.. SUBSCRIBE to the official EeZee Conceptz ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/awexlghI7gM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/awexlghI7gM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/awexlghI7gM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/awexlghI7gM/default.jpg"
+    }
+  ]
+}

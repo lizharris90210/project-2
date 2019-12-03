@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "yTCDVfMz15M",
+      "link": "https://www.youtube.com/watch?v=yTCDVfMz15M",
+      "kind": "youtube#video",
+      "publishedAt": "2012-10-10T10:00:27.000Z",
+      "channelId": "UCXJDX1KK6t121Z9FLhu5o2A",
+      "channelTitle": "PinkVEVO",
+      "title": "P!nk - Try (Official Music Video)",
+      "description": "P!nk's official music video for 'Try'. Click to listen to P!nk on Spotify: http://smarturl.it/PSpot?IQid=PinkT As featured on The Truth About Love. Click to buy the track ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yTCDVfMz15M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yTCDVfMz15M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yTCDVfMz15M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/yTCDVfMz15M/default.jpg"
+    },
+    {
+      "id": "FJfFZqTlWrQ",
+      "link": "https://www.youtube.com/watch?v=FJfFZqTlWrQ",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-25T07:03:43.000Z",
+      "channelId": "UCXJDX1KK6t121Z9FLhu5o2A",
+      "channelTitle": "PinkVEVO",
+      "title": "P!nk - So What (Official Music Video)",
+      "description": "P!nk's official music video for 'So What'. Click to listen to P!nk on Spotify: http://smarturl.it/PSpot?IQid=PSW As featured on Greatest Hits...So Far!!!. Click to buy ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FJfFZqTlWrQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FJfFZqTlWrQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FJfFZqTlWrQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/FJfFZqTlWrQ/default.jpg"
+    },
+    {
+      "id": "emGri7i8Y2Y",
+      "link": "https://www.youtube.com/watch?v=emGri7i8Y2Y",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-16T23:05:47.000Z",
+      "channelId": "UC7CB-tlRjK9GW-Exb1LhMyg",
+      "channelTitle": "Sum41VEVO",
+      "title": "Sum 41 - In Too Deep (Official Music Video)",
+      "description": "Music video by Sum 41 performing In Too Deep. (C) 2001 The Island Def Jam Music Group #Sum41 #InTooDeep #Vevo #Rock #OfficialMusicVideo.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/emGri7i8Y2Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/emGri7i8Y2Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/emGri7i8Y2Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/emGri7i8Y2Y/default.jpg"
+    },
+    {
+      "id": "LkIWmsP3c_s",
+      "link": "https://www.youtube.com/watch?v=LkIWmsP3c_s",
+      "kind": "youtube#video",
+      "publishedAt": "2013-02-08T15:55:07.000Z",
+      "channelId": "UCe3I9BAVCzf9oACYU1EtrxA",
+      "channelTitle": "FallOutBoyVEVO",
+      "title": "Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (Part 1)",
+      "description": "SUBSCRIBE TO FOB: http://bit.ly/1gI9KrO Listen to the new single \"Centuries\" http://youtu.be/sCbS-TLEoRA and download it on iTunes http://smarturl.it/centuries ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LkIWmsP3c_s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LkIWmsP3c_s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LkIWmsP3c_s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/LkIWmsP3c_s/default.jpg"
+    },
+    {
+      "id": "C3lWwBslWqg",
+      "link": "https://www.youtube.com/watch?v=C3lWwBslWqg",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-16T23:06:15.000Z",
+      "channelId": "UC9B6c09n61wgu5w6bh1v68Q",
+      "channelTitle": "StingVEVO",
+      "title": "Sting - Desert Rose (Official Video)",
+      "description": "Music video by Sting performing Desert Rose. (C) 1999 A&M Records #Sting #DesertRose #Vevo.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C3lWwBslWqg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C3lWwBslWqg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C3lWwBslWqg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/C3lWwBslWqg/default.jpg"
+    },
+    {
+      "id": "uuNTO31FlY8",
+      "link": "https://www.youtube.com/watch?v=uuNTO31FlY8",
+      "kind": "youtube#video",
+      "publishedAt": "2013-08-20T07:00:16.000Z",
+      "channelId": "UCC6XuDtfec7DxZdUa7ClFBQ",
+      "channelTitle": "AvrilLavigneVEVO",
+      "title": "Avril Lavigne - Rock N Roll (Official Music Video)",
+      "description": "Rock N Roll Buy the album here: http://smarturl.it/avril-lavigne Follow Avril: http://www.avrillavigne.com http://youtube.com/AvrilLavigneVEVO ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uuNTO31FlY8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uuNTO31FlY8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uuNTO31FlY8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/uuNTO31FlY8/default.jpg"
+    },
+    {
+      "id": "iwxfmYR7ItM",
+      "link": "https://www.youtube.com/watch?v=iwxfmYR7ItM",
+      "kind": "youtube#video",
+      "publishedAt": "2017-07-28T12:57:31.000Z",
+      "channelId": "UCcFUPGt_tgcP5iMxiBDsXoA",
+      "channelTitle": "THEORY",
+      "title": "THEORY - Rx (Medicate) [OFFICIAL VIDEO]",
+      "description": "THEORY's music video for 'Rx (Medicate)', off the album \"Wake Up Call\", available now: http://theoryofadeadman.com Subscribe: http://bit.ly/171a3Ya Site: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iwxfmYR7ItM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iwxfmYR7ItM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iwxfmYR7ItM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/iwxfmYR7ItM/default.jpg"
+    },
+    {
+      "id": "K1b8AhIsSYQ",
+      "link": "https://www.youtube.com/watch?v=K1b8AhIsSYQ",
+      "kind": "youtube#video",
+      "publishedAt": "2013-02-06T19:20:08.000Z",
+      "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+      "channelTitle": "RHINO",
+      "title": "Starship - We Built This City (Official Music Video)",
+      "description": "You're watching the official music video for Starship - \"We Built This City\" from the 1985 album 'Knee Deep in the Hoopla'. Subscribe to the Rhino Channel!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/K1b8AhIsSYQ/default.jpg"
+    },
+    {
+      "id": "mCHUw7ACS8o",
+      "link": "https://www.youtube.com/watch?v=mCHUw7ACS8o",
+      "kind": "youtube#video",
+      "publishedAt": "2014-07-29T15:50:00.000Z",
+      "channelId": "UCNqs2VoY5KXMeOm4wo5U2Lw",
+      "channelTitle": "OfMonstersAndMenVEVO",
+      "title": "Of Monsters And Men - Dirty Paws (Official Lyric Video)",
+      "description": "Download this song: http://smarturl.it/OMAMalbumitunes Directed by WeWereMonkeys https://www.facebook.com/weweremonkeys Compositions © 2012 Of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mCHUw7ACS8o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mCHUw7ACS8o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mCHUw7ACS8o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/mCHUw7ACS8o/default.jpg"
+    },
+    {
+      "id": "YYOKMUTTDdA",
+      "link": "https://www.youtube.com/watch?v=YYOKMUTTDdA",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-27T02:28:07.000Z",
+      "channelId": "UC7eaRqtonpyiYw0Pns0Au_g",
+      "channelTitle": "remhq",
+      "title": "R.E.M. - Shiny Happy People (Official Music Video)",
+      "description": "Shiny Happy People” from R.E.M.'s critically-acclaimed, 1991 album, \"Out Of Time\" To learn more, visit http://www.remhq.com. Buy the album: 3CD+BluRay ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YYOKMUTTDdA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YYOKMUTTDdA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YYOKMUTTDdA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/YYOKMUTTDdA/default.jpg"
+    }
+  ]
+}

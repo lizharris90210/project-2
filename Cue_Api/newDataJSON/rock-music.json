@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "KQ6zr6kCPj8",
+      "link": "https://www.youtube.com/watch?v=KQ6zr6kCPj8",
+      "kind": "youtube#video",
+      "publishedAt": "2011-03-09T06:02:38.000Z",
+      "channelId": "UCk78ZcA6kflEvBR0UrGDH0Q",
+      "channelTitle": "LMFAOVEVO",
+      "title": "LMFAO ft. Lauren Bennett, GoonRock - Party Rock Anthem (Official Video)",
+      "description": "Buy now http://glnk.it/6t Music video by LMFAO performing Party Rock Anthem featuring Lauren Bennett and GoonRock. (c) 2011 Interscope #VEVOCertified on ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KQ6zr6kCPj8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KQ6zr6kCPj8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KQ6zr6kCPj8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/KQ6zr6kCPj8/default.jpg"
+    },
+    {
+      "id": "kXYiU_JCYtU",
+      "link": "https://www.youtube.com/watch?v=kXYiU_JCYtU",
+      "kind": "youtube#video",
+      "publishedAt": "2007-03-05T08:12:00.000Z",
+      "channelId": "UCZU9T1ceaOgwfLRq7OKFU4Q",
+      "channelTitle": "Linkin Park",
+      "title": "Numb (Official Video) - Linkin Park",
+      "description": "Linkin Park \"Numb\" off of the album METEORA. Directed by Joe Hahn. http://www.linkinpark.com | http://LPUnderground.com iTunes: http://go.lprk.co/ml/3pb/ ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kXYiU_JCYtU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kXYiU_JCYtU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kXYiU_JCYtU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/kXYiU_JCYtU/default.jpg"
+    },
+    {
+      "id": "8SbUC-UaAxE",
+      "link": "https://www.youtube.com/watch?v=8SbUC-UaAxE",
+      "kind": "youtube#video",
+      "publishedAt": "2009-12-25T08:37:37.000Z",
+      "channelId": "UCJN4c_lZorb_0eyIP_tSS3A",
+      "channelTitle": "GunsNRosesVEVO",
+      "title": "Guns N&#39; Roses - November Rain",
+      "description": "Music video by Guns N' Roses performing November Rain. YouTube view counts pre-VEVO: 6894036. (C) 1992 Guns N' Roses #VEVOCertified on June 24, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8SbUC-UaAxE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8SbUC-UaAxE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8SbUC-UaAxE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/8SbUC-UaAxE/default.jpg"
+    },
+    {
+      "id": "fJ9rUzIMcZQ",
+      "link": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+      "kind": "youtube#video",
+      "publishedAt": "2008-08-01T11:06:40.000Z",
+      "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+      "channelTitle": "Queen Official",
+      "title": "Queen – Bohemian Rhapsody (Official Video Remastered)",
+      "description": "REMASTERED IN HD TO CELEBRATE ONE BILLION VIEWS! Taken from A Night At The Opera, 1975. Click here to buy the DVD with this video at the Official ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/default.jpg"
+    },
+    {
+      "id": "1w7OgIMMRc4",
+      "link": "https://www.youtube.com/watch?v=1w7OgIMMRc4",
+      "kind": "youtube#video",
+      "publishedAt": "2009-12-25T06:54:53.000Z",
+      "channelId": "UCJN4c_lZorb_0eyIP_tSS3A",
+      "channelTitle": "GunsNRosesVEVO",
+      "title": "Guns N&#39; Roses - Sweet Child O&#39; Mine (Official Music Video)",
+      "description": "REMASTERED IN HD! OVER A BILLION VIEWS! #AppetiteForDestruction: The Debut Album, Remastered and Expanded. Available now as Box Set, Super ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1w7OgIMMRc4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1w7OgIMMRc4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1w7OgIMMRc4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/1w7OgIMMRc4/default.jpg"
+    },
+    {
+      "id": "hTWKbfoikeg",
+      "link": "https://www.youtube.com/watch?v=hTWKbfoikeg",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-16T22:14:25.000Z",
+      "channelId": "UCzGrGrvf9g8CVVzh_LvGf-g",
+      "channelTitle": "NirvanaVEVO",
+      "title": "Nirvana - Smells Like Teen Spirit (Official Music Video)",
+      "description": "REMASTERED IN HD! Read the story behind 'Nevermind' here: https://www.udiscovermusic.com/stories/nirvana-quiet-debut-nevermind/ Listen to more from ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hTWKbfoikeg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hTWKbfoikeg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hTWKbfoikeg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/hTWKbfoikeg/default.jpg"
+    },
+    {
+      "id": "6Ejga4kJUts",
+      "link": "https://www.youtube.com/watch?v=6Ejga4kJUts",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-16T22:48:29.000Z",
+      "channelId": "UCF9i903aeMcvcapmP1bS1oA",
+      "channelTitle": "TheCranberriesVEVO",
+      "title": "The Cranberries - Zombie (Official Music Video)",
+      "description": "Help us get Zombie to a BILLION VIEWS!!! Click and share this link: https://thecranberries.lnk.to/ZombieToABillion Music video by The Cranberries performing ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6Ejga4kJUts/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6Ejga4kJUts/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6Ejga4kJUts/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/6Ejga4kJUts/default.jpg"
+    },
+    {
+      "id": "CSvFpBOe8eY",
+      "link": "https://www.youtube.com/watch?v=CSvFpBOe8eY",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-03T04:45:02.000Z",
+      "channelId": "UCvtZDkeFxMkRTNqfqXtxxkw",
+      "channelTitle": "systemofadownVEVO",
+      "title": "System Of A Down - Chop Suey!",
+      "description": "System of a Down's official music video for 'Chop Suey!'. Click to listen to System of a Down on Spotify: http://smarturl.it/SystemSpotify?IQid=SystemCS As ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CSvFpBOe8eY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CSvFpBOe8eY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CSvFpBOe8eY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/CSvFpBOe8eY/default.jpg"
+    },
+    {
+      "id": "vx2u5uUu3DE",
+      "link": "https://www.youtube.com/watch?v=vx2u5uUu3DE",
+      "kind": "youtube#video",
+      "publishedAt": "2009-06-17T00:55:22.000Z",
+      "channelId": "UCwlTofOAY79PS_GhmborAdA",
+      "channelTitle": "BonJoviVEVO",
+      "title": "Bon Jovi - It&#39;s My Life",
+      "description": "Music video by Bon Jovi performing It's My Life. (C) 2003 The Island Def Jam Music Group.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/vx2u5uUu3DE/default.jpg"
+    },
+    {
+      "id": "9jK-NcRmVcw",
+      "link": "https://www.youtube.com/watch?v=9jK-NcRmVcw",
+      "kind": "youtube#video",
+      "publishedAt": "2009-10-25T20:18:12.000Z",
+      "channelId": "UCnzCV_PxVZ-hsOrTy2NGxJw",
+      "channelTitle": "EuropeVEVO",
+      "title": "Europe - The Final Countdown (Official Video)",
+      "description": "Europe's official music video for 'The Final Countdown'. Click to listen to Europe on Spotify: http://smarturl.it/EuropeSpot?IQid=EuropeTFC As featured on ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9jK-NcRmVcw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9jK-NcRmVcw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9jK-NcRmVcw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/9jK-NcRmVcw/default.jpg"
+    }
+  ]
+}

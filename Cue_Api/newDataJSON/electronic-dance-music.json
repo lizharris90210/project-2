@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1oTUupME0-M",
+      "link": "https://www.youtube.com/watch?v=1oTUupME0-M",
+      "kind": "youtube#video",
+      "publishedAt": "2017-05-13T06:55:12.000Z",
+      "channelId": "UCrcumL7h3b_7WWPtLuz7UKA",
+      "channelTitle": "ELEMENTS",
+      "title": "Alan Walker - Faded (Remix) ♫ Shuffle Dance (Music video) Electro House",
+      "description": "Alan Walker - Faded (Remix) ♫ Shuffle Dance (Music video) Electro House Guys Follow my backup channel perfect Suicide ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1oTUupME0-M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1oTUupME0-M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1oTUupME0-M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/1oTUupME0-M/default.jpg"
+    },
+    {
+      "id": "4XpDdIISlYo",
+      "link": "https://www.youtube.com/watch?v=4XpDdIISlYo",
+      "kind": "youtube#video",
+      "publishedAt": "2015-10-26T14:00:00.000Z",
+      "channelId": "UCPWBlX15fNBUw0cLqKM-V7g",
+      "channelTitle": "DJEkkiMusic",
+      "title": "Electro House 2016 Best Festival Party Video Mix | New EDM Dance Charts Songs | Club Music Remix",
+      "description": "Electro House 2016 Best Festival Party Video Mix | New 2015 EDM Dance Charts Songs | Club Music Remix 2017 Real Life Channel: http://bit.ly/2q57N1s ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4XpDdIISlYo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4XpDdIISlYo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4XpDdIISlYo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/4XpDdIISlYo/default.jpg"
+    },
+    {
+      "id": "D7ztZ_qhx5Q",
+      "link": "https://www.youtube.com/watch?v=D7ztZ_qhx5Q",
+      "kind": "youtube#video",
+      "publishedAt": "2017-04-04T08:00:01.000Z",
+      "channelId": "UCAJ1rjf90IFwNGlZUYuoP1Q",
+      "channelTitle": "Magic Club",
+      "title": "Best Music Mix 2017- Shuffle Music Video HD - Melbourne Bounce Music Mix 2017",
+      "description": "Submit Ur Demo for Our Label: http://bit.ly/2IF07in Best Music Mix 2017- Shuffle Music Video HD - Melbourne Bounce Music Mix 2017 This Mix On Spotify➡️ ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D7ztZ_qhx5Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D7ztZ_qhx5Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D7ztZ_qhx5Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/D7ztZ_qhx5Q/default.jpg"
+    },
+    {
+      "id": "2ZC3rM2Y8jQ",
+      "link": "https://www.youtube.com/watch?v=2ZC3rM2Y8jQ",
+      "kind": "youtube#video",
+      "publishedAt": "2017-12-25T16:18:24.000Z",
+      "channelId": "UCAHlZTSgcwNNpf8LV3E6kDQ",
+      "channelTitle": "ElectroDanceMixes",
+      "title": "New Year Mix - Best of EDM Party Electro &amp; House Music",
+      "description": "We wish you Merry Christmas & a Happy New Year 2018 with this special EDM Mix! ○ Subscribe: http://bit.ly/EDM-sub | ○ Facebook: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2ZC3rM2Y8jQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2ZC3rM2Y8jQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2ZC3rM2Y8jQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/2ZC3rM2Y8jQ/default.jpg"
+    },
+    {
+      "id": "TTpiKfljRzY",
+      "link": "https://www.youtube.com/watch?v=TTpiKfljRzY",
+      "kind": "youtube#video",
+      "publishedAt": "2018-12-29T14:04:50.000Z",
+      "channelId": "UCAHlZTSgcwNNpf8LV3E6kDQ",
+      "channelTitle": "ElectroDanceMixes",
+      "title": "New Year Mix 2019 - Best of EDM Party Electro House &amp; Festival Music",
+      "description": "We wish you a Happy New Year 2019 with this special EDM Festival Mix! ○ Subscribe: http://bit.ly/EDM-sub | ○ Facebook: http://bit.ly/ElectroHouseMixes ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TTpiKfljRzY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TTpiKfljRzY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TTpiKfljRzY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/TTpiKfljRzY/default.jpg"
+    },
+    {
+      "id": "UX1cdPqW5M8",
+      "link": "https://www.youtube.com/watch?v=UX1cdPqW5M8",
+      "kind": "youtube#video",
+      "publishedAt": "2019-02-16T06:28:07.000Z",
+      "channelId": "UCC9rwt1T2i4klATksN6prdQ",
+      "channelTitle": "N&T Party",
+      "title": "Best Shuffle Dance Music 2019 ♫ 24/7 Live Stream Video Music ♫ Best Electro House &amp; Bass Boosted Mix",
+      "description": "Best Shuffle Dance Music 2019 ♫ 24/7 Live Stream Video Music ♫ Best Electro House & Bass Boosted Mix Turn on the bell to join the notification squad ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UX1cdPqW5M8/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UX1cdPqW5M8/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UX1cdPqW5M8/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/UX1cdPqW5M8/default_live.jpg"
+    },
+    {
+      "id": "FP0wgVhUC9w",
+      "link": "https://www.youtube.com/watch?v=FP0wgVhUC9w",
+      "kind": "youtube#video",
+      "publishedAt": "2019-03-25T22:13:57.000Z",
+      "channelId": "UCOjZigyo_fg2V7JdGwePSwg",
+      "channelTitle": "Zumba with Dovydas",
+      "title": "ZUMBA KIDS - Electronic Song - Minions",
+      "description": "You can support me : https://www.patreon.com/user?u=18764540 Choreography by Dovydas Veiverys. Dancing with my Zumba kids group in Gargždai. For me ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FP0wgVhUC9w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FP0wgVhUC9w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FP0wgVhUC9w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/FP0wgVhUC9w/default.jpg"
+    },
+    {
+      "id": "GVC5adzPpiE",
+      "link": "https://www.youtube.com/watch?v=GVC5adzPpiE",
+      "kind": "youtube#video",
+      "publishedAt": "2017-11-22T15:36:35.000Z",
+      "channelId": "UCMwePVHRpDdfeUcwtDZu2Dw",
+      "channelTitle": "Monstafluff Music",
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio | NoCopyrightSounds| Dubstep, Trap, EDM, Electro House",
+      "description": "NCS 24/7 Live Stream Gaming Music Radio | NoCopyrightSounds| Dubstep, Trap, EDM, Electro House Follow our Spotify playlists: https://spoti.fi/2JcY3he ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GVC5adzPpiE/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GVC5adzPpiE/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GVC5adzPpiE/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/GVC5adzPpiE/default_live.jpg"
+    },
+    {
+      "id": "5SYB4YftFjU",
+      "link": "https://www.youtube.com/watch?v=5SYB4YftFjU",
+      "kind": "youtube#video",
+      "publishedAt": "2018-04-23T16:02:03.000Z",
+      "channelId": "UCz5yqgTKWtnAD9lO-zkMq4g",
+      "channelTitle": "PeeTee Official",
+      "title": "Best Remixes of Popular Songs | Dance Club Mix 2018 (Mixplode 159)",
+      "description": "Best Remixes of Popular Songs Dance Club Mix 2018, Mixplode 159 by dj PeeTee ○ Follow me on Facebook: https://www.facebook.com/PeeTeeOfficial ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5SYB4YftFjU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5SYB4YftFjU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5SYB4YftFjU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/5SYB4YftFjU/default.jpg"
+    },
+    {
+      "id": "D2WHIMlPAKc",
+      "link": "https://www.youtube.com/watch?v=D2WHIMlPAKc",
+      "kind": "youtube#video",
+      "publishedAt": "2014-11-22T20:39:24.000Z",
+      "channelId": "UCZlV0Nxq6q4hV84E6TFgPRA",
+      "channelTitle": "Dj Drop G",
+      "title": "NEW Electro House Music Mix 2018 | DANCE PARTY CLUB MIX #33 Dj Drop G",
+      "description": "TRACK LIST : https://www.facebook.com/Dj.DropG/app/396393053713168/ -------------------- Fan Page : https://www.facebook.com/Dj.DropG/ ------------------- ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D2WHIMlPAKc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D2WHIMlPAKc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D2WHIMlPAKc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/D2WHIMlPAKc/default.jpg"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+
+{
+  "name": "Liz Harris",
+  "pic": "https://www.siriusxm.ca/wp-content/uploads/2018/12/Led-Zeppelin-cover.jpg",
+  "city": "Washington",
+  "state": "DC",
+  "email": "LizZepp@zmail.com",
+  "twitter": "@LizZtweet",
+  "band": "the VarChars",
+  "instruments": [
+    "guitar",
+    " piano"
+  ],
+  "past_bands": [
+    "forLoops"
+  ],
+  "genres": [
+    "classic rock"
+  ],
+  "location": "Washington, DC",
+  "songs": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+      "id": "37i9dQZF1DWXRqgorJj26U",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee",
+          "width": null
+        }
+      ],
+      "name": "Rock Classics",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDU3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+        "total": 150
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "pic": "https://i.scdn.co/image/ab67706f00000002bd95dafe0c7057ebd57f5aee"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5BygwTQ3OrbiwVsQhXFHMz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz",
+      "id": "5BygwTQ3OrbiwVsQhXFHMz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock",
+      "owner": {
+        "display_name": "Filtr Finland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/sonymusicfinland"
+        },
+        "href": "https://api.spotify.com/v1/users/sonymusicfinland",
+        "id": "sonymusicfinland",
+        "type": "user",
+        "uri": "spotify:user:sonymusicfinland"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTA1Nyw2Njg4MTFjZDgxNzE1ZWU5YTQyNTkxMzhmZjMwOGU0MGVmNzE4MmI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5BygwTQ3OrbiwVsQhXFHMz/tracks",
+        "total": 115
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5BygwTQ3OrbiwVsQhXFHMz",
+      "pic": "https://pl.scdn.co/images/pl/default/25350f1e1cbe40f763caffacf1a0ce1d7639cec2"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdOEFt9ZX0dh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh",
+      "id": "37i9dQZF1DXdOEFt9ZX0dh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170",
+          "width": null
+        }
+      ],
+      "name": "Classic Rock Drive",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU3NDgxMDUxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdOEFt9ZX0dh/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdOEFt9ZX0dh",
+      "pic": "https://i.scdn.co/image/ab67706f00000002a019090ff288b5a4aacac170"
+    }
+  ],
+  "videos": [
+    {
+      "id": "Kp7eSUU9oy8",
+      "link": "https://www.youtube.com/watch?v=Kp7eSUU9oy8",
+      "kind": "youtube#video",
+      "publishedAt": "2016-11-17T19:35:00.000Z",
+      "channelId": "UCjYO25ZVJT523TD1iYHzcbw",
+      "channelTitle": "ChildishGambinoVEVO",
+      "title": "Childish Gambino - Redbone (Official Audio)",
+      "description": "From the new album \"Awaken, My Love!\" available now: http://smarturl.it/awakenmylove http://childishgambino.com http://facebook.com/donaldglover ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Kp7eSUU9oy8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Kp7eSUU9oy8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Kp7eSUU9oy8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/Kp7eSUU9oy8/default.jpg"
+    },
+    {
+      "id": "hC8CH0Z3L54",
+      "link": "https://www.youtube.com/watch?v=hC8CH0Z3L54",
+      "kind": "youtube#video",
+      "publishedAt": "2017-05-24T15:30:10.000Z",
+      "channelId": "UCxqkOxQYocXRtSqlotgXh7w",
+      "channelTitle": "Fkj",
+      "title": "Fkj &amp; Masego - Tadow",
+      "description": "Buy/Stream Tadow: https://smarturl.it/pzlz9r Improvised & recorded at Red Bull Studios Paris Filmed by Arsedi Buy/Stream FKJ debut album ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hC8CH0Z3L54/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hC8CH0Z3L54/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hC8CH0Z3L54/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/hC8CH0Z3L54/default.jpg"
+    },
+    {
+      "id": "rTVjnBo96Ug",
+      "link": "https://www.youtube.com/watch?v=rTVjnBo96Ug",
+      "kind": "youtube#video",
+      "publishedAt": "2012-11-21T01:37:34.000Z",
+      "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+      "channelTitle": "RHINO",
+      "title": "Otis Redding - (Sittin&#39; On) The Dock Of The Bay (Official Music Video)",
+      "description": "Watch the official video for (Sittin' On) The Dock Of The Bay by Otis Redding. The video features video clips and photos of Otis Redding in the prime of his ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rTVjnBo96Ug/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rTVjnBo96Ug/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rTVjnBo96Ug/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/rTVjnBo96Ug/default.jpg"
+    },
+    {
+      "id": "cEXhZ8PwM-Y",
+      "link": "https://www.youtube.com/watch?v=cEXhZ8PwM-Y",
+      "kind": "youtube#video",
+      "publishedAt": "2013-06-11T01:45:00.000Z",
+      "channelId": "UCTErx4eXbRPk7j9-9AgR4eA",
+      "channelTitle": "Brian Owens Soul",
+      "title": "A Change is Gonna Come | Brian Owens",
+      "description": "Brian Owens; LIFE Creative Group | Subscribe: http://bit.ly/subBrianOwens Brian Owens and his father, Thomas Owens, share the gift of music across ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cEXhZ8PwM-Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cEXhZ8PwM-Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cEXhZ8PwM-Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/cEXhZ8PwM-Y/default.jpg"
+    },
+    {
+      "id": "nwpj9_hrK_A",
+      "link": "https://www.youtube.com/watch?v=nwpj9_hrK_A",
+      "kind": "youtube#video",
+      "publishedAt": "2017-01-06T08:00:05.000Z",
+      "channelId": "UCgyMPfJl7ynJRfE2jQ18rJw",
+      "channelTitle": "TinasheOfficialVEVO",
+      "title": "Tinashe - Company (Official Music Video)",
+      "description": "Company Available Now: Apple Music: http://smarturl.it/Tcompanyap?iqID=yt Spotify: http://smarturl.it/Tcompanys?iqID=yt Amazon: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nwpj9_hrK_A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nwpj9_hrK_A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nwpj9_hrK_A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/nwpj9_hrK_A/default.jpg"
+    },
+    {
+      "id": "O9capxlmuh4",
+      "link": "https://www.youtube.com/watch?v=O9capxlmuh4",
+      "kind": "youtube#video",
+      "publishedAt": "2015-07-06T07:00:01.000Z",
+      "channelId": "UCEXXypwg7Nn0GlgC7rKGM5g",
+      "channelTitle": "TyreseVEVO",
+      "title": "Tyrese - Shame (Official Video)",
+      "description": "Music video by Tyrese performing Shame. (C) 2015 Voltron Recordz http://vevo.ly/b8r9cY #Tyrese #Shame #Vevo.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O9capxlmuh4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O9capxlmuh4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O9capxlmuh4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/O9capxlmuh4/default.jpg"
+    },
+    {
+      "id": "dh-0jH4Rb7Y",
+      "link": "https://www.youtube.com/watch?v=dh-0jH4Rb7Y",
+      "kind": "youtube#video",
+      "publishedAt": "2011-03-07T05:22:52.000Z",
+      "channelId": "UChOdek6n6Nlxkt1XqiPZ2gg",
+      "channelTitle": "Martin Novák",
+      "title": "Cadillac Records - All I Could Do Is Cry",
+      "description": "Beyoncé sings All I Could Do Is Cry in a movie Cadillac Records.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dh-0jH4Rb7Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dh-0jH4Rb7Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dh-0jH4Rb7Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/dh-0jH4Rb7Y/default.jpg"
+    },
+    {
+      "id": "PT7UOmPqXlk",
+      "link": "https://www.youtube.com/watch?v=PT7UOmPqXlk",
+      "kind": "youtube#video",
+      "publishedAt": "2015-10-20T21:00:01.000Z",
+      "channelId": "UCZZjtPu39XM1ujnfzooh-ew",
+      "channelTitle": "RKellyVEVO",
+      "title": "R. Kelly - Backyard Party",
+      "description": "Music video by R. Kelly performing Backyard Party. (C) 2015 RCA Records, a division of Sony Music Entertainment http://vevo.ly/Ox42nA.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PT7UOmPqXlk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PT7UOmPqXlk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PT7UOmPqXlk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/PT7UOmPqXlk/default.jpg"
+    },
+    {
+      "id": "pJV2pWFyfn4",
+      "link": "https://www.youtube.com/watch?v=pJV2pWFyfn4",
+      "kind": "youtube#video",
+      "publishedAt": "2010-09-12T10:29:59.000Z",
+      "channelId": "UCiN3FgFPG-C0pM8fqjfBXew",
+      "channelTitle": "TSQD01",
+      "title": "The Temptations - Papa Was A Rolling Stone",
+      "description": "Artist : The Temptations Title : Papa was a rolling stone Album : All Directions Year : 1972 Label : Warwick, Miracle, Gordy, Motown, Atlantic, New Door/Universal ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pJV2pWFyfn4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pJV2pWFyfn4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pJV2pWFyfn4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/pJV2pWFyfn4/default.jpg"
+    },
+    {
+      "id": "57Ykv1D0qEE",
+      "link": "https://www.youtube.com/watch?v=57Ykv1D0qEE",
+      "kind": "youtube#video",
+      "publishedAt": "2011-07-05T07:00:00.000Z",
+      "channelId": "UCXgEXcZIxXtQCZfXEDo1yHQ",
+      "channelTitle": "MarvinGayeVEVO",
+      "title": "Marvin Gaye - Inner City Blues (Make Me Wanna Holler)",
+      "description": "Explore the music of Marvin Gaye: https://lnk.to/g24lE For more Marvin Gaye news and merchandise: Classic Motown Website: https://lnk.to/ClassicMotownWS ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/57Ykv1D0qEE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/57Ykv1D0qEE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/57Ykv1D0qEE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "vidIMG": "https://i.ytimg.com/vi/57Ykv1D0qEE/default.jpg"
+    }
+  ]
+}
